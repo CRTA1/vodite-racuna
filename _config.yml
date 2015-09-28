@@ -1,12 +1,12 @@
 # Site settings
-title: Site Long Title
-short_title: Site Title
+title: Vodite Racuna
+short_title: Vodite Racuna
 description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend metus eget justo tincidunt, nec consequat turpis pretium. Etiam varius tellus tortor, in mattis ex convallis vel.
-baseurl: ""
+baseurl: "http://crtarsorg.github.io/vodite-racuna/"
 url: "http://opendatahandbook.org" # the base hostname & protocol for your site
-github_username:  okfn
-github_repo:  opendatahandbook
+github_username:  crtarsorg
+github_repo:  vodite-racuna
 paypal: admin@okfn.org
 contact: https://discuss.okfn.org/c/network-and-community/open-data-handbook
 
