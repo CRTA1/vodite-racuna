@@ -3,7 +3,7 @@ title: Vodite Racuna
 short_title: Vodite Racuna
 description: |
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam eleifend metus eget justo tincidunt, nec consequat turpis pretium. Etiam varius tellus tortor, in mattis ex convallis vel.
-baseurl: "http://crtarsorg.github.io/vodite-racuna/"
+baseurl: ""
 url: "http://opendatahandbook.org" # the base hostname & protocol for your site
 github_username:  crtarsorg
 github_repo:  vodite-racuna
