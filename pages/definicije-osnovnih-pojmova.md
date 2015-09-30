@@ -19,7 +19,7 @@ izveštavanjem date su u Zakonu o budžetskom sistemu koji uređuje ceo budžets
 
 **Aproprijacija** („budžetska stavka“) je odlukom o budžetu lokalne vlasti dato odobrenje za trošenje javnih sredstava do određenog iznosa i za određene namene za budžetsku godinu. Iz ove definicije vidimo da je aproprijacija ili kako je često nazivamo „budžetska stavka“, odobrenje za trošenje sredstava, ali sa dva vrlo važna ograničenja, i to: ogranečenje iznosom odobrenih sredstava koji se ne sme prekoračiti, i ograničenje namene sredstava koja takodje ne može biti promenjena, osim u slučaju da se donese rebalans budžeta.
 
-http://voditeracuna.rs/tutorial/budzetski-recnik/
+[http://voditeracuna.rs/tutorial/budzetski-recnik/](http://voditeracuna.rs/tutorial/budzetski-recnik/)
 
 **Programski budžet**
 
