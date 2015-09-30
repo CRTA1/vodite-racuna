@@ -1,5 +1,5 @@
 _site
 .sass-cache
 *.pyc
-_config.yml
+*_config.yml
 
