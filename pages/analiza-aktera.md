@@ -1,4 +1,7 @@
-
+---
+title: Analiza Aktera
+lead: true
+---
 Kada ste definisali problem, treba razmatrati širi kontekst u kome je on pozicioniran. Imajući u vidu društvene, ekonomske i političke odnose u zemlji, potrebno je mapirati što je moguće više, poželjno je sve bitne faktore koji gravitiraju ovom problemu.
 Identifikovati:
 1. sve one koje taj problem dotiče
@@ -13,9 +16,9 @@ Identifikovati potencijalne saveznike i protivnike. (Veoma je važno istaći na 
 
 U sledećem koraku potrebno je definisati koja su očekivanja, ciljevi i interesi aktera. Takođe potrebno je istražiti koje su aktivnosti sprovodili do sada na ovu temu.
 
-Da bismo mogli adekvatno da osmislimo strategiju javnog zastupanja u odnosu na različite aktere, značajno je dodatno istražiti jake i slabe strane aktera. 
+Da bismo mogli adekvatno da osmislimo strategiju javnog zastupanja u odnosu na različite aktere, značajno je dodatno istražiti jake i slabe strane aktera.
 
-Nakon detaljne analize tim za budžetsko zastupanje predlaže set aktivnosti usmerenih na aktere u ovom procesu. 
+Nakon detaljne analize tim za budžetsko zastupanje predlaže set aktivnosti usmerenih na aktere u ovom procesu.
 
 DRUŠTVENI BAROMETAR
 ![social-barometer.png]({{site.baseurl}}/pages/social-barometer.png)
@@ -27,7 +30,7 @@ Legenda:
 - Active opponents (aktivni oponenti)
 - Win over (pridobiti)
 - Leading opponents (vodeći oponenti)
-- Build relationship (izgradnja odnosa) 
+- Build relationship (izgradnja odnosa)
 - Leading activists (vodeći aktivisti)
 - Encourage participation (podsticanje učešća)
 - Passive allies (pasivni saveznici)
