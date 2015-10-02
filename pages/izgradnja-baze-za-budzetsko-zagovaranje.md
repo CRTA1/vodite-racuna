@@ -1,9 +1,8 @@
 ---
 title: Izgradnja baze za budžetsko zagovaranje
 lead: true
+published: true
 ---
-
-IZGRADNJA BAZE ZA BUDŽETSKO ZASTUPANJE
 
 Vaša baza su oni ljudi koji imaju interesa da se reši problem ili pitanje koji su fokus vaše kampanje javnog zagovaranja. To su pre svega ljudi koji su direktno pogođeni tim problemom ili pitanjem. Takođe, baza mogu biti i ljudi iz šire zajednice koji nisu direktno pogođeni problemom, ali kojima je stalo da se problem reši i mogu biti spremni da deluju u tom pravcu. U zajedničkom delovanju, ove dve grupe ljudi imaju potencijal da se izbore za promenu u svom okruženju, ukoliko su dobro informisani i organizovani
 
