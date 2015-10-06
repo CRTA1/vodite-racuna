@@ -125,7 +125,6 @@ pre,
   margin-bottom: 2em;
   padding: 0.3em 0;
   text-align: left;
-  text-transform: uppercase;
   line-height:inherit;
   color:$base-font-color;
 
@@ -290,7 +289,6 @@ pre,
       font-weight: 700;
       margin-left: 0.2em;
       position: relative;
-      text-transform: uppercase;
 
       span {
         font-family: $serif;
@@ -629,7 +627,6 @@ body:not( .filters ) {
     color:$base-font-color;
     font-size:rem(19);
     line-height:60px;
-    text-transform:uppercase;
     font-weight:700;
     display:block;
     margin-left: 75px;
@@ -1151,7 +1148,6 @@ html.mm-background .mm-page,
       h6 {
         font-size:11px;
         font-weight:normal;
-        text-transform:uppercase;
       }
       img {
         margin-right:15px;
@@ -1302,7 +1298,6 @@ html.mm-background .mm-page,
       max-height:333px;
 
       h1 {
-        text-transform:uppercase;
         font-size:28px;
         letter-spacing:2px;
         margin-bottom:10px;
@@ -1667,7 +1662,6 @@ html.mm-background .mm-page,
 
   h1 {
     display:inline-block;
-    text-transform:uppercase;
     letter-spacing:1px;
     border-bottom:solid 2px $dark-gray;
     font-size: 0.7em;
