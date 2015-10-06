@@ -11,7 +11,7 @@
     <li>
       <a href="#mm-1">Sve o javnim finansijama</a>
       <ul >
-          <li><a href="{{ site.baseurl }}/press/">Vesti</a></li>
+          <li><a href="{{ site.baseurl }}/press/" {% if url_last == 'press' %}class="selected"{% endif %} >Vesti</a></li>
 
           <li>
             <a href="#mm-2">Vodič za budžete</a>
@@ -73,7 +73,7 @@
 
 <!--
       <ul>
-        <li {% if url_last == 'pages' %}class="Selected"{% endif %}>
+        <li >
           <a href="{{ site.baseurl }}/pages/">Page One</a>
         </li>
         <li {% if url_last == 'page-two' %}class="Selected"{% endif %}>
