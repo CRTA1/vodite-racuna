@@ -1,12 +1,9 @@
 ---
 title: Javne nabavke
 lead: true
+published: true
 ---
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+Od 2014. godine Centar za istraživanje, transparentnost i odgovornost- CRTA je građanski nadzornik u postupcima javnih nabavki.
 
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
-
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+Zakonom o javnim nabavkama iz 2012. uveden je institut građanskog nadzornika za postupke javnih nabavki čija je procenjena vrednost veća od milijardu dinara. Zakonom o javnim nabavkama je propisano da je građanski nadzornik (NVO ili pojedinac) dužan da nadgleda postupak javne nabavke i u tom cilju on ima stalan uvid u postupak, dokumentaciju i komunikaciju naručioca sa zainteresovanim licima, odnosno ponuđačima. Građanski nadzornik podnosi izveštaj Upravi za javne nabavke i Odboru za finansije Narodne skupštine, odnosno skupštini autonomne pokrajine ili lokalne samouprave i može ukazati javnosti ako je bilo nepravilnosti tokom postupka.
