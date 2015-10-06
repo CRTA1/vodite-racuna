@@ -7,9 +7,11 @@
     <!--[if lt IE 8]>
         <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
-    <section id="ok-panel" class="closed"><iframe src="http://crtarsorg.github.io/vodite-racuna/crta-panel.html" scrolling="no"></iframe></section>
+    <section id="ok-panel" class="closed">{% include crta-panel.html %}</section>
     <div>
-      <a class="white ok-ribbon" href="http://www.crta.rs/"><img src="http://crtarsorg.github.io/vodite-racuna/img/logo-header.png" alt="CRTA"></a>
+    <!-- <section id="ok-panel" class="closed"><iframe src="{{site.baseurl}}/crta-panel.html" scrolling="no"></iframe></section> -->
+    <div>
+      <a class="white ok-ribbon" href="http://www.crta.rs/"><img src="{{site.baseurl}}/img/logo-header.png" alt="CRTA"></a>
       <div>
         {% include header.html %}
 
