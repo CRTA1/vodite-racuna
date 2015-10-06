@@ -1,0 +1,14 @@
+---
+layout: default
+js:
+ - vendor/jquery.adaptive-backgrounds.min
+ - home
+---
+
+<div id="press_articles" markdown=1>
+{% for item in site.categories.press %}
+  <img src="{{item.img_url}}"><br/>
+  <a href="{{item.url}}">{{ item.title }}</a><br/>
+  <div >{{ item.description }}</div><br/><br/>
+{% endfor %}
+</div>
