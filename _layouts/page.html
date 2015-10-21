@@ -6,7 +6,56 @@ wide: true
 {% assign section = page.section %}
 
 {% assign section_base = site.baseurl | append: section | append: '/' %}
+<script type="text/javascript">
+  $( document ).ready(function() {
+    json_posts = [
+      {"Uvod": "{{ site.baseurl }}/pages/uvod"},
+      {"Analiza problema i okruženja": "{{ site.baseurl }}/pages/analiza-problema-i-okruzenja"},
+      {"Definisanje budžetskog zastupanja i uloga civilnog društv": "{{ site.baseurl }}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustv"},
+      {"Definicije osnovnih pojmova": "{{ site.baseurl }}/pages/definicije-osnovnih-pojmova"},
+      {"Institucionalni okvir i nadležnosti lokalne samouprave": "{{ site.baseurl }}/pages/institucionalni-okvir-i-nadleznosti-lokalne-samouprave"},
+      {"Analiza Budgžeta": "{{ site.baseurl }}/pages/analiza-budzeta"},
+      {"Kako izabrati problem": "{{ site.baseurl }}/pages/kako-izabrati-problem"},
+      {"Analiza Aktera": "{{ site.baseurl }}/pages/analiza-aktera"},
+      {"2 pretpostavke i 16 hipoteza budžetskog zagovaranja": "{{ site.baseurl }}/pages/2-pretpostavke-i-16-hipoteza-budzetskog-zagovaranja"},
+      {"Izgradnja baze za budžetsko zagovaranje": "{{ site.baseurl }}/pages/izgradnja-baze-za-budzetsko-zagovaranje"},
+      {"Kampanja": "{{ site.baseurl }}/pages/kampanja"}
+    ]
+    //Returns int(1) (or null if the key doesn't exist)
 
+    function getIndexOfKey(obj, key) {
+      for (var i = 0; i < obj.length; i++) {
+          if (typeof(obj[i][key]) != 'undefined') {
+              return i;
+          }
+      }    
+      return -1;
+    }
+
+    var index = getIndexOfKey(json_posts, "{{ page.title }}");
+    var next_index = index + 1;
+    var prev_index = index - 1;
+    if (index == 10){
+      $("#next").css("display", "none");
+    } 
+    if (index == 0) {
+      $("#prev").css("display", "none");
+    }
+
+    $("#next").on("click", function(){
+      for (item in json_posts[next_index]){
+        window.location.href = json_posts[next_index][item]
+      }
+    });
+
+    $("#prev").on("click", function(){
+      for (item in json_posts[prev_index]){
+        window.location.href = json_posts[prev_index][item]
+      }
+    });
+
+  });
+</script>
 <div class="post">
   <article class="post-content{% if page.lead %} lead-paragraph{% endif %}">
     <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
@@ -23,7 +72,9 @@ wide: true
 
     {{ content }}
   </article>
-
+  <div class="post-content">
+    <button id="next" style="float: right;">Next</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Previous</button>
+  </div>
 </div>
-
 {% include page-tools.html %}
