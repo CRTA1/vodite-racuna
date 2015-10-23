@@ -3,10 +3,43 @@ title: Fiskalni Monitor
 lead: true
 ---
 <a href="{{ site.baseurl}}/img/projects/fiskalni-monitor-main-logo-horizontal.png"></a>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
 
-It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-## Why do we use it?
 
-It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+Ovaj portal ima za cilj da ohrabri građane, medije i sve zainteresovane da razumeju
+pitanja budžeta i da vode računa o tome kako vlasti upravljaju javnim sredstvima. 
+
+Pored ključne poruke, da je građanska obaveza svih nas da vršimo pritisak na vlasti da 
+budžetom upravljaju na javan i odgovoran način, portal voditeracuna.rs nam 
+objašnjava važnost ispunjavanja poreskih obaveza kako bi država i niži nivoi vlasti 
+ispunjavali svoje nadležnosti.
+
+Zbog kompleksnosti pitanja budžeta i nedovoljne opšte informisanosti o problematici 
+javnih finansija, većina građana je dugo smatrala da to kako se troši javni novac nije 
+nešto nad čim oni mogu da imaju kontrolu. 
+
+Činjenica da je među žalbama Povereniku za informacije od javnog značaja blizu 20% upita 
+koji se odnose na raspolaganje budžetskim sredstvima, govori o tome da raste svest o 
+građanskom nadgledanju javnih finansija. 
+
+Portal voditeracuna.rs nastoji da podrži zainteresovane i da ih osnaži u pogledu 
+poznavanja javnih finansija.
+
+Ovaj portal je alat građanskog aktivizma i dokazuje da možemo da nadgledamo 
+budžet: država ili grad su dužni da polažu račune građanima šta su uradili sa našim 
+novcem. Na sajtu možete naći priručnike o budžetu, kako se puni budžet i šta su javni 
+rashodi, pa ćete između ostalog uvideti zašto je za sve nas važno da poslodavci 
+uplaćuju poreze i doprinose, ili kako možete i u kom trenutku uticati na budžet vašeg 
+grada. 
+
+Važan deo sajta je i odeljak „Podrška stučnjaka“ gde naši novinari-istraživači i 
+eksperti odgovaraju na pitanja građana u vezi sa javnim finansijama.
+
+Ovaj portal je mesto gde građani, mediji i nevladine organizacije mogu da se 
+informišu, razmenjuju mišljenja i edukuju se i zagovaraju veću efikasnost, 
+transparentnost i odgovornost javnih finansija.
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#next_prev_buttons').css("display", "none");
+	});
+</script>
