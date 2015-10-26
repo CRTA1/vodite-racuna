@@ -4,7 +4,7 @@ title:  "Vlada usvojila predlog budžeta Srbije za 2015."
 date:   2015-06-10 18:39:02
 categories: press
 img_url: http://voditeracuna.rs/wp-content/uploads/2014/12/vlada-srbije_660x330-140x70.jpg
-description: "Izvor: RTV 15. decembar 2014. Vlada Srbije usvojila je danas predlog budžeta za 2015. godinu kojim su predviđeni prihodi od 924,4 milijarde dinara, što je za oko 27 milijardi dinara više nego u 2014. godini. Rashodi su smanjeni za oko 120 milijardi dinara u poređenju sa rebalansom budžeta za 2014. i iznosiće 1.083 milijarde, tako"
+description: "Izvor: RTV 15. decembar 2014. Vlada Srbije usvojila je danas predlog budžeta za 2015. godinu kojim su predviđeni prihodi od 924,4 milijarde dinara, što je za oko 27 milijardi dinara više nego u 2014. godini. Rashodi su smanjeni za oko 120 milijardi dinara u poređenju sa rebalansom budžeta za 2014. i iznosiće 1.083 milijarde, tako..."
 ---
 Izvor: RTV
 
