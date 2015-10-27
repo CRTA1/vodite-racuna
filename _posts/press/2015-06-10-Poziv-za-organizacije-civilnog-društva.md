@@ -3,7 +3,7 @@ layout: post
 title:  "Poziv za organizacije civilnog društva"
 date:   2015-06-10 18:39:02
 categories: press
-img_url: http://voditeracuna.rs/wp-content/uploads/2015/01/download-140x93.jpg
+img_url: /img/vesti/vesti10.jpg
 description: CRTA – Centar za istraživanje, transparentnost i odgovornost poziva zainteresovane organizacije civilnog društva za učešće u projektu „Budžetsko zastupanje na delu“ koji će se realizovati u periodu od februara 2015. do maja 2016. godine uz podršku Evropske unije. Svojim učešćem, izabrane organizacije će biti u prilici da unaprede svoje znanje o finansijskoj odgovornosti i transparentnosti
 ---
 CRTA – Centar za istraživanje, transparentnost i odgovornost poziva zainteresovane organizacije civilnog društva za učešće u projektu „Budžetsko zastupanje na delu“ koji će se realizovati u periodu od februara 2015. do maja 2016. godine uz podršku Evropske unije. Svojim učešćem, izabrane organizacije će biti u prilici da unaprede svoje znanje o finansijskoj odgovornosti i transparentnosti, kontroli budžeta kao i da steknu napredne veštine neophodne za uspešno budžetsko zastupanje. Pored teorijskog, organizacije će dobiti i praktičnu podršku CRTA-e u realizaciji lokalne kampanje budžetskog zastupanja.
