@@ -6,7 +6,7 @@ categories: press
 img_url: /img/vesti/vesti6.jpg
 description: "Izvor: Tanjug 19. decembar 2014. Predlogom budžeta za 2015. predviđeno je 22,32 milijarde dinara manje za izdatke na zaposlene u javnom sektoru u odnosu na sredstva izdvojena rebalansom. Prema tom predlogu planirani izdaci države za zaposlene su 241,21 milijardu dinara, dok je u rebalansu taj iznos bio 263,53 milijarde. Na plate zaposlenih, država u sledećoj"
 ---
-<img src="/img/vesti/vesti6.jpg"/>
+<img  src="{{ "/img/vesti/vesti6.jpg" | prepend: site.baseurl }}"/>
 Izvor: Novi magazin
 
 24 oktobar 2014.

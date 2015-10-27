@@ -6,7 +6,7 @@ categories: press
 img_url: /img/vesti/vesti7.jpg
 description: "Izvor: Beta. 22 oktobar 2014. Vlada Srbije usvojila je u sredu predlog rebalansa ovogodišnjeg budžeta i set zakona čijom primenom se obezbedjuje finansijska stabilnost ekonomskog sistema zemlje, saopštila je vladina pres služba."
 ---
-<img src="/img/vesti/vesti7.jpg"/>
+<img  src="{{ "/img/vesti/vesti7.jpg" | prepend: site.baseurl }}"/>
 Izvor: Beta
 
 22 oktobar 2014.

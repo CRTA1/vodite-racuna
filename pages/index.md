@@ -13,7 +13,7 @@ Osim što mogu da se informišu, razmenjuju mišljenja i edukuju se, građani, m
 
 **Portal voditeracuna.rs je deo projekta “Naš novac, naša briga” koji je finansirala Delegacija Evropske unije. Sadržaj ovog portala je isključivo odgovornost autora i ne predstavlja nužno mišljenja i stavove Evropske unije.**
 
-<img src="/img/o-nama.jpg"/>
+<img  src="{{ "/img/o-nama.jpg" | prepend: site.baseurl }}"/>
 
 **Centar za razvoj neprofitnog sektora (CRNPS)** je dobrovoljno, nezavisno, nevladino i nedobitno udruženje građana osnovano radi ostvarivanja ciljeva u oblasti razvoja civilnog društva i neprofitnog sektora u Srbiji, zaštite i promovisanja ljudskih i manjinskih prava, obrazovanja, informisanja, socijalne zaštite i borbe protiv korupcije.
 

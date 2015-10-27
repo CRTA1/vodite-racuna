@@ -6,7 +6,7 @@ categories: press
 img_url: /img/vesti/vesti4.jpg
 description: 2.decembar 2014.Izvor: Rasdio 021.Poverenik za informacije od javnog značaja ponovo je kaznio Ministarstvo finansija, ovog puta u iznosu od 180.000 dinara, zbog nedostavljanja informacija o tome koliki je broj novozaposlenih u državnoj upravi od stupanja na snagu zabrane zapošljavanja do 2016. godine.
 ---
-<img src="/img/vesti/vesti4.jpg"/>
+<img  src="{{ "/img/vesti/vesti4.jpg" | prepend: site.baseurl }}"/>
 Izvor: Radio 021
 
 1 decembar 2014. 

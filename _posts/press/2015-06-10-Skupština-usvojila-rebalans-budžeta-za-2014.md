@@ -6,7 +6,7 @@ categories: press
 img_url: /img/vesti/vesti5.jpg
 description: "27 oktobar 2014.Izvor: Beta.Skupština Srbije usvojila je u nedelju uveče rebalans budžeta za 2014. i prateće zakone kojima je predvidjeno smanjenje plata u javnom sektoru i penzija većih od 25.000 dinara.Za usvajanje rebalansa budžeta i pratećih zakona glasalo je 188 poslanika, protiv je bilo deset, a nije glasalo dva od ukupno 200 prisutnih poslanika."
 ---
-<img src="/img/vesti/vesti5.jpg"/>
+<img  src="{{ "/img/vesti/vesti5.jpg" | prepend: site.baseurl }}"/>
 Izvor: Beta
 
 27 oktobar 2014.

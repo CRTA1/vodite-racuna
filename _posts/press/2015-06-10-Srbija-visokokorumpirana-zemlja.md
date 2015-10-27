@@ -6,7 +6,7 @@ categories: press
 img_url: /img/vesti/vesti3.jpg
 description: Srbija je ove godine zabeležila blagi pad na indeksu percepcije korupcije i sa skorom od 41 zauzima 78. mesto od 175 država.Ta pozicija svrstava Srbiju u visokokorumpirane zemlje.Srbija je prošle godine imala skor 42 i nalazila se na 72. mestu među 177 zemalja.
 ---
-<img src="/img/vesti/vesti3.jpg"/>
+<img  src="{{ "/img/vesti/vesti3.jpg" | prepend: site.baseurl }}"/>
 Izvor: B92
 
 4 decembar 2014.
