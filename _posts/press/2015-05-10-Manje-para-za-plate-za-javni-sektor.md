@@ -3,10 +3,10 @@ layout: post
 title:  "Manje para za plate za javni sektor"
 date:   2015-06-10 18:39:32
 categories: press
-img_url: http://voditeracuna.rs/wp-content/uploads/2013/12/porez-140x93.jpg
+img_url: /img/vesti/vesti1.jpg
 description: "Izvor: Tanjug 19. decembar 2014. Predlogom budžeta za 2015. predviđeno je 22,32 milijarde dinara manje za izdatke na zaposlene u javnom sektoru u odnosu na sredstva izdvojena rebalansom. Prema tom predlogu planirani izdaci države za zaposlene su 241,21 milijardu dinara, dok je u rebalansu taj iznos bio 263,53 milijarde. Na plate zaposlenih, država u sledećoj"
 ---
-<img src="http://voditeracuna.rs/wp-content/uploads/2013/12/porez-140x93.jpg"/>
+<img  src="{{ "/img/vesti/vesti1.jpg" | prepend: site.baseurl }}" />
 Izvor: Tanjug
 
 19  decembar 2014.

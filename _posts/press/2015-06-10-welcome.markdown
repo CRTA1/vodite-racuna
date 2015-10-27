@@ -3,7 +3,7 @@ layout: post
 title:  "Srbija napredovala na listi ekonomskih sloboda"
 date:   2015-06-10 18:39:02
 categories: press
-img_url: http://voditeracuna.rs/wp-content/uploads/2015/01/Kalkulator_olovka_papir-140x73.jpg
+img_url: /img/vesti/vesti11.jpg
 description: "Izvor, Tanjug 27. januar 2015. Srbija je na ovogodišnjoj listi ekonomskih sloboda napredovala iz kategorije “uglavnom ekonomski neslobodnih” u kategoriju “umereno ekonomski slobodnih zemalja”. Kategorizacija se vrši na osnovu indeksa ekonomskih sloboda. Srbija je sa 60 bodova rangirana kao umereno ekonomski slobodna zemlja, a u toj kategoriji našle su se i Slovenija, Hrvatska, Crna Gora"
 ---
 Izvor: Tanjug
