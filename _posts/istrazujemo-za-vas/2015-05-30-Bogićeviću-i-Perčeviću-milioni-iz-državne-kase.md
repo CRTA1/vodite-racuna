@@ -1,8 +1,7 @@
 ---
 layout: post
 title:  "Bogićeviću i Perčeviću milioni iz državne kase"
-categories: istrazujemo-za-vas
-img_url: 
+categories: istrazujemo-za-vas 
 description: "Nekim od najvećih poreskih dužnika  država je od  2011. do 2013, na ime državne pomoći, davala milione dinara! Na taj način samo su Koncern “Farmakom”, u vlasništvu Miroslava Bogićevića i firme u vlasništvu “Interkomerca” Gorana Perčevića u ovom periodu dobile, samo u kategoriji državne pomoći male vrednosti, više od 22 miliona dinara."
 ---
 
