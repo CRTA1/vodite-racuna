@@ -13,3 +13,10 @@ lead: true
 </form>
 
 
+
+<form action="//formspree.io/egzontina.krasniqi@hotmail.com"
+      method="POST">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form>
