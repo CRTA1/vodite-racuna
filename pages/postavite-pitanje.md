@@ -34,12 +34,12 @@ $contactForm.submit(function(e) {
 </script>
 
 
-<form id="contact-form" action="//formspree.io/egzontina.krasniqi@hotmail.com" method="post">
+<form id="contact-form" action="/" method="post">
 	<input type="text" name="Name" placeholder="Name" required>
 	<input type="email" name="Email" placeholder="Email" required>
 	<textarea name="Message" cols="30" rows="6" placeholder="Message" required></textarea>
 	<!-- CONFIG -->
-	<input class="is-hidden" type="text" name="_gotcha">
+	<input class="is-hidden" type="hidden" name="_gotcha">
 	<input type="hidden" name="_subject" value="Subject">
 	<input type="hidden" name="_cc" value="email@cc.com">
 	<!-- /CONFIG -->
