@@ -6,7 +6,7 @@ lead: true
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
 <script>
-	$("#contact-form").validate({
+    $("#contact-form").validate({
   submitHandler: function(form) {
     $.ajax({
       url: "//formspree.io/egzontina.krasniqi@hotmail.com", 
@@ -56,8 +56,6 @@ lead: true
   </div>
   <input class="btn btn-primary" type="submit" value="Send">
 </form>
-
-
 
 
 
