@@ -6,10 +6,6 @@ img_url: /img/inicijative/pic2.jpg
 description: "Budžet naše zemlje javno je dostupan u formi zakona. Razumevanje ovog dokumenta dugog 181 stranu (ili čak 563 strane sa svim objašnjenjima) zahteva dosta znanja, napora i vremena.  Ova vizuelizacija pomaže bržem sagledavanju budžeta i približava ga građanima koji nisu nužno stručnjaci za finansije"
 ---
 
-<script src="{{ site.baseurl }}/js/d3.v3.min.js"></script>
-<script src="{{ site.baseurl }}/js/budzet2014p.js"></script>
-<script src="{{ site.baseurl }}/js/budzet.info.js"></script>
-
 
 <div id="vis" class="section">
     <div id='box'>
