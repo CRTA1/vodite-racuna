@@ -8,7 +8,8 @@ published: true
 Definicije najvažnijih pojmova u vezi sa budžetom, njegovom izradom, izvršenjem i praćenjem i
 izveštavanjem date su u Zakonu o budžetskom sistemu koji uređuje ceo budžetski proces u našoj zemlji. Zakon o budžetskom sistemu je najvažniji zakon za sve koji nameravaju da se bave praćenjem budžetskog procesa na bilo kom nivou vlasti.
 
-[http://voditeracuna.rs/video/sta-je-budzet/](http://voditeracuna.rs/video/sta-je-budzet/)
+
+<a href="{{ site.baseurl }}/pages/Šta-je-budžet/">Šta je budžet? </a>
 
 **Budžet lokalne** vlasti  je odluka kojom se procenjuju prihodi i primanjai utvrđuju rashodi i izdaci za period od godinu dana. Ulaganje u investicione projekte se u budžetima obično iskazuje za period od tri godine. Budet donosi skupština opštine, odnosno grada ili grada Beograda.
 
@@ -19,7 +20,7 @@ izveštavanjem date su u Zakonu o budžetskom sistemu koji uređuje ceo budžets
 
 **Aproprijacija** („budžetska stavka“) je odlukom o budžetu lokalne vlasti dato odobrenje za trošenje javnih sredstava do određenog iznosa i za određene namene za budžetsku godinu. Iz ove definicije vidimo da je aproprijacija ili kako je često nazivamo „budžetska stavka“, odobrenje za trošenje sredstava, ali sa dva vrlo važna ograničenja, i to: ogranečenje iznosom odobrenih sredstava koji se ne sme prekoračiti, i ograničenje namene sredstava koja takodje ne može biti promenjena, osim u slučaju da se donese rebalans budžeta.
 
-[http://voditeracuna.rs/tutorial/budzetski-recnik/](http://voditeracuna.rs/tutorial/budzetski-recnik/)
+<a href="{{ site.baseurl }}/pages/Budžetski-rečnik/">Budžetski rečnik </a>
 
 **Programski budžet**
 
@@ -30,4 +31,4 @@ Programsku strukturu budžeta čine: Program, programska aktivnost i projekat. P
 
 **Programska aktivnost** je tekuća i kontinuirana delatnost korisnika budžetskih sredstava, koja nije vremenski ograničena. Sprovođenjem programske aktivnosti se postižu ciljevi koji doprinose dostizanju ciljeva programa. Utvrđuje se na osnovu uže definisanih nadležnosti korisnika budžetskih sredstava i mora biti deo programa. Projekat je vremenski ograničen poslovni poduhvat korisnika budžetskih sredstava čijim sprovođenjem se postižu ciljevi projekta, odnosno programa.
 
-[http://voditeracuna.rs/research/916](http://voditeracuna.rs/video/sta-je-budzet/)
+<a href="{{ site.baseurl }}/pages/Šta-je-budžet/">Šta je budžet? </a>
