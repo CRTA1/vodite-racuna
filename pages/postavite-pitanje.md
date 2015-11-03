@@ -2,7 +2,7 @@
 title: Postavite pitanje
 lead: true
 ---
-
+$( document ).ready(function() {
 <script>
 	$("#contact-form").validate({
   submitHandler: function(form) {
@@ -26,7 +26,7 @@ lead: true
   }
 });
 </script>
-
+});
 
 		<div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
 		<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
