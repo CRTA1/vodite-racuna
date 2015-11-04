@@ -6,6 +6,9 @@ lead: true
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
 <script>
+$('#contact-form').on('submit', function(e) {
+    e.preventDefault();
+
     $("#contact-form").validate({
   submitHandler: function(form) {
     $.ajax({
@@ -27,6 +30,7 @@ lead: true
     });
   }
 });
+    });
 </script>
 
 <div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
