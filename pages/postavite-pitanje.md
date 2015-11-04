@@ -6,10 +6,9 @@ lead: true
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
 <script>
-$('#contact-form').on('submit', function(e) {
-    e.preventDefault();
 
-    $("#contact-form").validate({
+
+$("#contact-form").validate({
   submitHandler: function(form) {
     $.ajax({
       url: "//formspree.io/egzontina.krasniqi@hotmail.com", 
@@ -30,22 +29,21 @@ $('#contact-form').on('submit', function(e) {
     });
   }
 });
-    });
 </script>
-
+<!-- Hidden message to show if contact is successful. -->
 <div id="submit-success" class="alert alert-success alert-dismissible collapse" role="alert">
-<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-          Message received! I'll be in touch.
- </div>
+  <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+  Message received! I'll be in touch.
+</div>
 
-
+<!-- Hidden message to show if user encounters errors. -->
 <div id="submit-errors" class="alert alert-danger alert-dismissible collapse" role="alert">
   <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
   It looks like there was an error submitting the form. Please try again later.
 </div>
 
-
-<form id="contact-form" class="form" action="##">
+<!-- Formspree-powered contact form -->
+<form id="contact-form" class="form" action="/">
   <div class="form-group">
     <label for="name">Name</label>
     <input class="form-control" type="text" name="name" required placeholder="Name">
@@ -60,8 +58,6 @@ $('#contact-form').on('submit', function(e) {
   </div>
   <input class="btn btn-primary" type="submit" value="Send">
 </form>
-
-
 
 
 
