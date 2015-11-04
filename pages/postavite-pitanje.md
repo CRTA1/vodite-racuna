@@ -2,8 +2,11 @@
 title: Postavite pitanje
 lead: true
 ---
-
-<form id="contact-form" class="form" action="//formspree.io/egzontina.krasniqi@hotmail.com">
+<!-- Near the end of my page -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+<!-- Formspree-powered contact form -->
+<form id="contact-form" class="form" action="//formspree.io/egzontina.krasniqi@hotmail.com" method="POST">
   <div class="form-group">
     <label for="name">Name</label>
     <input class="form-control" type="text" name="name" required placeholder="Name">
