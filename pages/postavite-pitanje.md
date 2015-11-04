@@ -41,7 +41,7 @@ lead: true
 </div>
 
 
-<form id="contact-form" class="form" action="/">
+<form id="contact-form" class="form">
   <div class="form-group">
     <label for="name">Name</label>
     <input class="form-control" type="text" name="name" required placeholder="Name">
