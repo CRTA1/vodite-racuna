@@ -1,6 +1,6 @@
 ---
 title: Success!
-lead: true
+lead: false
 ---
 
 <div id="submit-success" class="alert alert-success alert-dismissible " role="alert">
