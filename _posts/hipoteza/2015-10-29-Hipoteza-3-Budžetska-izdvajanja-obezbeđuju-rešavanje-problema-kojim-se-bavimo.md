@@ -15,6 +15,7 @@ table, th, td {
 Koliko bi trebalo da tražimo da se izdvaja u 2014. godini za projekte za mlade kako bismo mogli da uradimo isti posao kao 2003. godine?* 
 
 *Odgovor: 27.173.000 dinara*
+
 *To zapravo i nije toliko teško izračunati!!!*
 
 Često smo zadovoljni već činjenicom da naša lokalna samouprava izdvaja sredstva za rešavanje problema do kojeg nam je stalo. Ali, inflacija svake godine oduzme vrednost svakoj valuti, pa i dinaru. Nešto što smo pre 10-ak godina kupovali za 100 dinara, danas košta možda i duplo više. 
@@ -91,7 +92,7 @@ Kako da ovo primenimo u budžetskom zagovaranju? Takođe jednostavno. Ako je lok
 <li>u 2007. godini, bilo je potrebno da lokalna vlast odvoji 15.439.000 dinara (10.000.000 din x IPC 2007 / IPC2003)  </li>
 <li>odnosno 20.472.000 dinara u 2010. godini (10.000.000 din x IPC 2010 / IPC2003) i </li> 
 <li>čak 27.173.000 dinara u 2014. godini (10.000.000 din x IPC 2014 / IPC2003) </li>
-
+</ul>
 
 Šta se desilo ukoliko smo u ove tri godine dobijali manje novca od iznosa koji su izračunati? Mi smo bili zapravo u situaciji da sa tim novcem uradimo mnogo manje nego što smo mogli 2003. Evo hipotetičkog primera koji dobro pokazuje tu situaciju:
 
@@ -170,11 +171,11 @@ Kako smo došli do te računice? Postavlja se pitanje kako znamo koliko vredi iz
 
 
 
-					IPC godine za koju tražimo vrednost
-					   Iznos izdvojen ranije godine x 
-
---------------------------------------------------------------------------------
-							IPC ranije godine
+		                  godine za koju tražimo vrednost
+                      Iznos izdvojen ranije godine x
+		            ----------------------------------------             
+		                      IPC ranije godine
+		         
 
 
 

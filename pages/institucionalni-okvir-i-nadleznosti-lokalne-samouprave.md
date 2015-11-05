@@ -112,4 +112,7 @@ Iako su ovi vidovi neposrednog učešća građana u rešavanju problema i odluč
 
 Jedan od zadataka organizacija civilnog društva, bez obzira na ciljeve i oblasti delovanja, može da bude i ohrabrivanje građanima da ove zakonom ostavljene mogućnosti uključivanja u rešavanje problema na lokalnom nivou koriste. 
 
-
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

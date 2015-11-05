@@ -32,3 +32,8 @@ Programsku strukturu budžeta čine: Program, programska aktivnost i projekat. P
 **Programska aktivnost** je tekuća i kontinuirana delatnost korisnika budžetskih sredstava, koja nije vremenski ograničena. Sprovođenjem programske aktivnosti se postižu ciljevi koji doprinose dostizanju ciljeva programa. Utvrđuje se na osnovu uže definisanih nadležnosti korisnika budžetskih sredstava i mora biti deo programa. Projekat je vremenski ograničen poslovni poduhvat korisnika budžetskih sredstava čijim sprovođenjem se postižu ciljevi projekta, odnosno programa.
 
 <a href="{{ site.baseurl }}/pages/Šta-je-budžet/">Šta je budžet? </a>
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+  </div>

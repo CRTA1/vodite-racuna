@@ -250,3 +250,8 @@ Odgovarajte blagovremeno na poruke, nemojte dozvoliti da vam se gomilaju u sandu
 Napravite folder za poruke koje želite da sačuvate, kao i za projekte kojima ćete se posvetiti u bliskoj budućnosti. Poštujte vreme drugih ljudi i nemojte prosleđivati razne priče i poruke koje ljudi šalju vama. Često koristite taster delete. Brišite junk-mail odmah, nemojte ga prethodno čitati.
 
 Vreme je od neprocenjive vrednosti, a upravljanje vremenom pomaže vam da budete produktivniji. Ono vam takođe pomaže da se oslobodite stresa i da više uživate u životu i u poslu.
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

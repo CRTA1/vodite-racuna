@@ -2,6 +2,7 @@
 title: Definisanje budžetskog zastupanja i uloga civilnog društv
 lead: true
 published: true
+categories: nextprev
 ---
 
 Organizacije civilnog društva (OCD), osnovane na principu slobodnog udruživanja građana, obavezuju se da rade u javnom interesu. Svoje delovanje usmeravaju u različitim pravcima, a pre svega tamo gde su građanska prava ugrožena sa ciljem poboljšanja njihovog položaja i donošenja promena u duštvu. Radeći na poboljšanju položaja građana OCD se u svom radu često susreću sa javnim budžetima, kako na nacionalnom, tako i na lokalnom nivou, prepoznajući da se tu nalazi odgovor na veliki deo njihovih problema. 
@@ -28,3 +29,9 @@ Da li je bilo teško ili lako doći do budžeta?  
 Da li su ljudi na koje budžet utiče i aktivisti svesni uloge budžeta u rešavanju  odnosno otežavanju problema? 
 Da li je budžet pomogao ljudima da prevaziđu problem ili je doprineo njegovom  usložnjavanju?  
 Da li se budžet primenjuje prema planu raspodele ili postoji raskorak između plana i  sprovođenja? 
+
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

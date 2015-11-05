@@ -79,3 +79,8 @@ Ova sredstva se troše na osnovu rešenja o upotrebi budžetske rezerve koje don
 Iznos sredstava tekuće I stalne budžetske reserve je limitiran Zakonom o budžetskom sistemu i trenutni limiti iznose maksimalno 2% ukupnih prihoda i primanja od prodaje nefinansijska imovine za tekuću budžetsku rezervu, odnosno maksimalno 0,5% ukupnih prihoda i primanja od prodaje nefinansijska imovine za stalnu budžetsku rezervu.
 
 Izveštaj o korišćenju ovih sredstava dostavlja se Narodnoj skupštini, odnosno skupštini lokalne vlasti, uz završni račun budžeta te analizom ovog izveštaja možemo saznati na koji način su izvršne vlasti koristile sredstva rezervi.
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

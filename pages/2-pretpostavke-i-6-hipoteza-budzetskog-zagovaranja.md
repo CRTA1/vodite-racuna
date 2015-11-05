@@ -64,6 +64,7 @@ Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji f
 		<li> izdvajanja za projekte u oblasti kulture</li>
 		<li> izdvajanja za nezavisnu kulturnu scenu</li>
 		<li> izdvajanja za pokretanje nove manifestacije</li>
+		</ul>
 		</td>
 	</tr>
 	<tr>
@@ -77,7 +78,7 @@ Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji f
 		<li>izdvajanja za omladinske projekte </li>
 		</ul>
 		</td>
-	</tr>
+	</tr> 
 	<tr>
 		<td>OCD se bavi zaštitom životne sredine</td>
 		<td>
@@ -111,8 +112,8 @@ Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji f
 			<li>izdvajanja za uvođenje liftova u osnovne i srednje škole </li>
 			<li>izdvajanja za regulisanje parkinga koji bi omogućio nesmetano kretanje osobama u kolicima </li>
 			<li>izdvajanja za vrtiće i obdaništa prilagođena potrebama dece sa invaliditetom </li>
-		</td>
 		</ul>
+		</td>
 	</tr>
 	<tr>
 		<td>OCD se bavi borbom protiv korupcije</td>
@@ -137,3 +138,9 @@ Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobr
   <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
 {% endfor %}
 </ol>
+
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

@@ -50,3 +50,8 @@ Legenda:
 - Arouse doubts (izazovu sumnju)
 - Soft on person – hard on problem (Blagi prema čoveku – loš uticaj na problem)
 - Reveal motives (otkrivaju motive)
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+</div>

@@ -1,10 +1,14 @@
 ---
 title: Uvod
 lead: true
+categories: nextprev
 ---
-<!-- <body>
-	<div style="position: relative;">
-		<button style="float: right;">Next</button>
-	    <button style="float: right; margin-right: 5px;">Previous</button>
-	</div>
-</body> -->
+
+
+
+
+
+<div id="next_prev_buttons" class="post-content">
+    <button id="next" style="float: right;">Sledeći</button>
+    <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
+  </div>
