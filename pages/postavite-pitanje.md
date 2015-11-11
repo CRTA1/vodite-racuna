@@ -13,32 +13,32 @@ lead: true
 
 <body>
 <!-- Contact Form - START -->
-<div class="container">
-<div class="col-md-8">
+
+<div class="col-md-12">
 <form id="contact-form" class="form" action="//formspree.io/office@voditeracuna.rs" method="POST">
 <fieldset>
 <div class="form-group">
-    <span class="col-md-1  text-center"> <img src="{{ site.baseurl }}/img/user.png"></span>
+    <span class="col-md-2  text-center"> <img src="{{ site.baseurl }}/img/user.png"></span>
     <div class="col-md-8">
         <input class="form-control" id="fname" type="text" name="name"  required placeholder="Ime i prezime">
     </div>
 </div>
 <br/>
 <div class="form-group">
-    <span class="col-md-1 text-center"><img src="{{ site.baseurl }}/img/email.png"></span>
+    <span class="col-md-2 text-center"><img src="{{ site.baseurl }}/img/email.png"></span>
     <div class="col-md-8">
        <input class="form-control" type="email" name="_replyto"  required placeholder="email@address.com">
     </div>
 </div>
 <br/>
 <div class="form-group">
-    <span class="col-md-1  text-center"><img src="{{ site.baseurl }}/img/message.png"></span>
+    <span class="col-md-2  text-center"><img src="{{ site.baseurl }}/img/message.png"></span>
     <div class="col-md-8">
         <textarea class="form-control" id="message" name="message" placeholder="Pitanje" rows="7"></textarea>
     </div>
 </div>
 <div class="form-group">
-    <div class="col-md-8 text-center">
+    <div class="col-md-10 text-center">
     <br/>
     <input class="btn btn-primary" type="submit" value="Pošalji"/>
     <input type="hidden" name="_next" value="{{ site.baseurl }}/pages/success/" /> 
@@ -51,8 +51,9 @@ lead: true
 
 <style>
 .bigicon {
-    font-size: 45px;
+    font-size: 26px;
     color: #0D3E1E;
+    float: right;
 }
 </style>
 
