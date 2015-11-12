@@ -3,7 +3,19 @@ title: Izgradnja baze za budžetsko zagovaranje
 lead: true
 published: true
 ---
-
+<ol class="progtrckr" data-progtrckr-steps="11">
+    <li class="progtrckr-done">1</li>
+    <li class="progtrckr-done">2</li>
+    <li class="progtrckr-done">3</li>
+    <li class="progtrckr-done">4</li>
+    <li class="progtrckr-done">5</li>
+    <li class="progtrckr-done">6</li>
+    <li class="progtrckr-done">7</li>
+    <li class="progtrckr-done">8</li>
+    <li class="progtrckr-done">9</li>
+    <li class="progtrckr-done">10</li>
+    <li class="progtrckr-todo">11</li>
+</ol>
 Vaša baza su oni ljudi koji imaju interesa da se reši problem ili pitanje koji su fokus vaše kampanje javnog zagovaranja. To su pre svega ljudi koji su direktno pogođeni tim problemom ili pitanjem. Takođe, baza mogu biti i ljudi iz šire zajednice koji nisu direktno pogođeni problemom, ali kojima je stalo da se problem reši i mogu biti spremni da deluju u tom pravcu. U zajedničkom delovanju, ove dve grupe ljudi imaju potencijal da se izbore za promenu u svom okruženju, ukoliko su dobro informisani i organizovani
 
 Izuzetno je značajno da na početku našeg zagovaranja dobro procenimo trenutnu snagu i posvećenost ljudi koje želimo da pridobijemo za bazu. Sledeća lista pitanja će Vam pomoći u tom procesu:

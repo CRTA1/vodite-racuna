@@ -2,6 +2,20 @@
 title: Analiza Aktera
 lead: true
 ---
+<ol class="progtrckr" data-progtrckr-steps="11">
+    <li class="progtrckr-done">1</li>
+    <li class="progtrckr-done">2</li>
+    <li class="progtrckr-done">3</li>
+    <li class="progtrckr-done">4</li>
+    <li class="progtrckr-done">5</li>
+    <li class="progtrckr-done">6</li>
+    <li class="progtrckr-done">7</li>
+    <li class="progtrckr-done">8</li>
+    <li class="progtrckr-todo">9</li>
+    <li class="progtrckr-todo">10</li>
+    <li class="progtrckr-todo">11</li>
+</ol>
+<br/><br/>
 Kada ste definisali problem, treba razmatrati širi kontekst u kome je on pozicioniran. Imajući u vidu društvene, ekonomske i političke odnose u zemlji, potrebno je mapirati što je moguće više, poželjno je sve bitne faktore koji gravitiraju ovom problemu.
 Identifikovati:
 1. sve one koje taj problem dotiče

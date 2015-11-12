@@ -2,6 +2,20 @@
 title: Analiza Budgžeta
 lead: true
 ---
+<ol class="progtrckr" data-progtrckr-steps="11">
+    <li class="progtrckr-done">1</li>
+    <li class="progtrckr-done">2</li>
+    <li class="progtrckr-done">3</li>
+    <li class="progtrckr-done">4</li>
+    <li class="progtrckr-done">5</li>
+    <li class="progtrckr-done">6</li>
+    <li class="progtrckr-todo">7</li>
+    <li class="progtrckr-todo">8</li>
+    <li class="progtrckr-todo">9</li>
+    <li class="progtrckr-todo">10</li>
+    <li class="progtrckr-todo">11</li>
+</ol>
+<br/><br/>
 Struktura budžeta propisana je Zakonom o budžetskom sistemu. Budžet sadrži opšti i posebni deo. Budžeti gradova i opština često sadrže i obrazloženje u kojem su data detaljnija objašnjenja pojedinih delova budžeta ili pojedinih aproprijacija. Ovaj deo budžeta nije obavezan pa ga gradovi i opštine često ne objave prilikom objavljivanja budžeta. Obrazloženje može biti vrlo korisno za analizu i praćenje budžeta, pa je važno da zahtevamo od lokalnih vlasti da ga objave prilikom objavljivanja budžeta.
 
 **Opšti deo** budžeta sadrži ukupne prihode i primanja budžeta, ukupne rashode i izdatke budžeta i budžetski suficit/deficit.

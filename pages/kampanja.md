@@ -2,7 +2,19 @@
 title: Kampanja
 lead: true
 ---
-
+<ol class="progtrckr" data-progtrckr-steps="11">
+    <li class="progtrckr-done">1</li>
+    <li class="progtrckr-done">2</li>
+    <li class="progtrckr-done">3</li>
+    <li class="progtrckr-done">4</li>
+    <li class="progtrckr-done">5</li>
+    <li class="progtrckr-done">6</li>
+    <li class="progtrckr-done">7</li>
+    <li class="progtrckr-done">8</li>
+    <li class="progtrckr-done">9</li>
+    <li class="progtrckr-done">10</li>
+    <li class="progtrckr-done">11</li>
+</ol>
 Kampanja predstavlja sve naše aktivnosti usmerene ka dostizanju cilja javnog zagovaranja, tj.
 promenu politike, donošenje određene odluke, preraspodelu novca u budžetu i sl.
 Vrlo je važno da sve naše aktivnosti u kampanji budu planirane i koordinirane i jasno usmerene

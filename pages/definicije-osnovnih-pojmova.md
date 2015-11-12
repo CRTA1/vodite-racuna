@@ -3,7 +3,20 @@ title: Definicije osnovnih pojmova
 lead: true
 published: true
 ---
-
+<ol class="progtrckr" data-progtrckr-steps="11">
+    <li class="progtrckr-done">1</li>
+    <li class="progtrckr-done">2</li>
+    <li class="progtrckr-done">3</li>
+    <li class="progtrckr-done">4</li>
+    <li class="progtrckr-todo">5</li>
+    <li class="progtrckr-todo">6</li>
+    <li class="progtrckr-todo">7</li>
+    <li class="progtrckr-todo">8</li>
+    <li class="progtrckr-todo">9</li>
+    <li class="progtrckr-todo">10</li>
+    <li class="progtrckr-todo">11</li>
+</ol>
+<br/><br/>
 
 Definicije najvažnijih pojmova u vezi sa budžetom, njegovom izradom, izvršenjem i praćenjem i
 izveštavanjem date su u Zakonu o budžetskom sistemu koji uređuje ceo budžetski proces u našoj zemlji. Zakon o budžetskom sistemu je najvažniji zakon za sve koji nameravaju da se bave praćenjem budžetskog procesa na bilo kom nivou vlasti.
