@@ -2,7 +2,7 @@
 title: Uvod
 lead: true
 ---
-<br/>
+
 <style type="text/css">
 -/* Progress Tracker v2 */
 ol.progress[data-steps="2"] li { width: 49%; }
@@ -14,7 +14,7 @@ ol.progress[data-steps="7"] li { width: 14%; }
 ol.progress[data-steps="8"] li { width: 12%; }
 ol.progress[data-steps="9"] li { width: 11%; }
 ol.progress[data-steps="10"] li { width: 9%; }
-ol.progress[data-steps="11"] li { width: 7%;  }
+ol.progress[data-steps="11"] li { width: 7%; }
 
 .progress {
     width: 100%;
@@ -115,10 +115,9 @@ ol.progress[data-steps="11"] li { width: 7%;  }
     clear: both;
 }
 
-
 </style>
-<!-- Progress Tracker v2 -->
-<!-- Progress Tracker v2 -->
+
+
 <ol class="progress clearfix" data-steps="11">
     <li class="done">
         <span class="name"></span>
