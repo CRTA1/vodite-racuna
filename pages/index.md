@@ -20,8 +20,4 @@ Osim što mogu da se informišu, razmenjuju mišljenja i edukuju se, građani, m
 **Centar za istraživanje, transparentnost i odgovornost (CRTA)** je nevladina organizacija osnovana sa misijom da doprinese uspešnoj tranziciji Srbije u razvijeno demokratsko društvo kroz promociju aktivnog učešća građana u društvenim procesima i razvoj njihovih zagovaračkih kapaciteta.
  
 Kontakt: office@voditeracuna.rs
-<script type="text/javascript">
-	$(document).ready(function(){
-		$('#next_prev_buttons').css("display", "none");
-	});
-</script>
+

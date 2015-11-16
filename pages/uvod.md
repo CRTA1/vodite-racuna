@@ -32,9 +32,11 @@ $(document).ready(function() { .post-content
     <a href="{{site.baseurl}}/pages/kampanja/"><li class="progtrckr-todo">11</li> </a>
 </ol>
 <br/><br/>
+
 <h1 class="post-title">{{ page.title }}</h1>
+
 <br/><br/>
-<div id="next_prev_buttons" align="center">
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>

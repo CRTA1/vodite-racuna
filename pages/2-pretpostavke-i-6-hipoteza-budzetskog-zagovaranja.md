@@ -169,7 +169,7 @@ Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobr
 
 
 <br/><br/>
-<div id="next_prev_buttons" align="center">
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>

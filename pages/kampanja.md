@@ -279,7 +279,7 @@ Napravite folder za poruke koje želite da sačuvate, kao i za projekte kojima �
 
 Vreme je od neprocenjive vrednosti, a upravljanje vremenom pomaže vam da budete produktivniji. Ono vam takođe pomaže da se oslobodite stresa i da više uživate u životu i u poslu.
 
-<div id="next_prev_buttons" class="post-content">
+<div class="post-content">
     <button id="next" style="float: right;">Dalje</button>
     <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
 </div>

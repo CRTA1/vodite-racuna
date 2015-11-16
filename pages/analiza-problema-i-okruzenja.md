@@ -31,7 +31,7 @@ categories: nextprev
 
 <h1 class="post-title">{{ page.title }}</h1>
 <br/><br/>
-<div id="next_prev_buttons" align="center">
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>

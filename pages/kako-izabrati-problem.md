@@ -32,7 +32,7 @@ categories: nextprev
 
 <br/>
 <br/><br/>
-<div id="next_prev_buttons" align="center">
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>

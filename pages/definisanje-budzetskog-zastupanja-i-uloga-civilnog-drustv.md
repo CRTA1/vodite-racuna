@@ -60,7 +60,7 @@ Da li se budžet primenjuje prema planu raspodele ili postoji raskorak između p
 </div>
 
 <br/><br/>
-<div id="next_prev_buttons" align="center">
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>
