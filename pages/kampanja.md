@@ -1,20 +1,36 @@
 ---
 title: Kampanja
 lead: true
+categories: nextprev                        
 ---
+
 <ol class="progtrckr" data-progtrckr-steps="11">
-    <li class="progtrckr-done">1</li>
-    <li class="progtrckr-done">2</li>
-    <li class="progtrckr-done">3</li>
-    <li class="progtrckr-done">4</li>
-    <li class="progtrckr-done">5</li>
-    <li class="progtrckr-done">6</li>
-    <li class="progtrckr-done">7</li>
-    <li class="progtrckr-done">8</li>
-    <li class="progtrckr-done">9</li>
-    <li class="progtrckr-done">10</li>
-    <li class="progtrckr-done">11</li>
+    <a href="{{site.baseurl}}/pages/uvod/">
+    <li class="progtrckr-done">1 </li> </a>
+    <a href="{{site.baseurl}}/pages/analiza-problema-i-okruzenja/">
+    <li class="progtrckr-done">2 </li> </a>
+    <a href="{{site.baseurl}}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustv/"><li class="progtrckr-done">3 </li> </a>
+    <a href="{{site.baseurl}}/pages/definicije-osnovnih-pojmova/">
+    <li class="progtrckr-done">4 </li> </a>
+    <a href="{{site.baseurl}}/pages/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/">
+    <li class="progtrckr-done">5 </li> </a>
+    <a href="{{site.baseurl}}/pages/analiza-budzeta/">
+    <li class="progtrckr-done">6 </li> </a>
+    <a href="{{site.baseurl}}/pages/kako-izabrati-problem/">
+    <li class="progtrckr-done">7 </li> </a>
+    <a href="{{site.baseurl}}/pages/analiza-aktera/">
+    <li class="progtrckr-done">8 </li> </a>
+    <a href="{{site.baseurl}}/pages/2-pretpostavke-i-6-hipoteza-budzetskog-zagovaranja/">
+    <li class="progtrckr-done">9 </li> </a>
+    <a href="{{site.baseurl}}/pages/izgradnja-baze-za-budzetsko-zagovaranje/">
+    <li class="progtrckr-done">10</li> </a>
+    <a href="{{site.baseurl}}/pages/kampanja/"><li class="progtrckr-done">11</li> </a>
 </ol>
+<br/><br/>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+<br/>
 Kampanja predstavlja sve naše aktivnosti usmerene ka dostizanju cilja javnog zagovaranja, tj.
 promenu politike, donošenje određene odluke, preraspodelu novca u budžetu i sl.
 Vrlo je važno da sve naše aktivnosti u kampanji budu planirane i koordinirane i jasno usmerene
@@ -264,6 +280,6 @@ Napravite folder za poruke koje želite da sačuvate, kao i za projekte kojima �
 Vreme je od neprocenjive vrednosti, a upravljanje vremenom pomaže vam da budete produktivniji. Ono vam takođe pomaže da se oslobodite stresa i da više uživate u životu i u poslu.
 
 <div id="next_prev_buttons" class="post-content">
-    <button id="next" style="float: right;">Sledeći</button>
+    <button id="next" style="float: right;">Dalje</button>
     <button id="prev" style="float: right; margin-right: 5px;">Prethodni</button>
 </div>

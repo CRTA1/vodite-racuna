@@ -20,7 +20,7 @@ ol.progtrckr[data-progtrckr-steps="7"] li { width: 14%; }
 ol.progtrckr[data-progtrckr-steps="8"] li { width: 12%; }
 ol.progtrckr[data-progtrckr-steps="9"] li { width: 11%; }
 ol.progtrckr[data-progtrckr-steps="10"] li { width: 9%; }
-ol.progtrckr[data-progtrckr-steps="11"] li { width: 7%; }
+ol.progtrckr[data-progtrckr-steps="11"] li { width: 8%; }
 
 ol.progtrckr li.progtrckr-done {
     color: black;
@@ -58,3 +58,5 @@ ol.progtrckr li.progtrckr-todo:before {
     font-size: 1.5em;
     bottom: -1.6em;
 }
+
+.justify{text-align: justify;}
