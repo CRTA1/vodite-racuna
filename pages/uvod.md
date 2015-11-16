@@ -2,6 +2,11 @@
 title: Uvod
 lead: true
 ---
+<script type="text/javascript">
+$(document).ready(function() { .post-content
+    $("#mm-2").click();
+ });   
+</script>
 
 <ol class="progtrckr" data-progtrckr-steps="11">
     <li class="progtrckr-done">1</li>
