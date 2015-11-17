@@ -27,7 +27,7 @@ categories: nextprev
     <li class="progtrckr-todo">10</li> </a>
     <a href="{{site.baseurl}}/pages/kampanja/"><li class="progtrckr-todo">11</li> </a>
 </ol>
-<br/><br/>
+<br/>
 
 <h1 class="post-title">{{ page.title }}</h1>
 
@@ -36,6 +36,7 @@ categories: nextprev
 <div class="justify">
 Organi lokalne samouprave, njihova struktura, nadležnosti i okvir delovanja, kao i uloga ostalih organizacija i institucija na lokalnom nivou, ali i nas, građana, regulisan je Zakonom o lokalnoj samoupravi.Pored ovog zakona, rad lokalne samouprave je detaljnije uređen i statutom koji donosi skupština opštine/grada, a koji je najviši pravni akt jedinice lokalne samouprave.
 <br/><br/>
+
 Statutom se uređuju: prava i dužnosti jedinice lokalne samouprave i način njihovog ostvarivanja,broj odbornika skupštine jedinice lokalne samouprave, organizacija i rad organa i službi, način upravljanja građana poslovima iz nadležnosti jedinice lokalne samouprave, osnivanje i rad mesne zajednice i drugih oblika mesne samouprave, uslovi za pokretanje građanske inicijative i druga pitanja od značaja za jedinicu lokalne samouprave.
 <br/><br/>
 Prema Zakonu o lokalnoj samoupravi, lokalna samouprava je pravo građana da upravljaju javnim poslovima od neposrednog, zajedničkog i opšteg interesa za lokalno stanovništvo, neposredno i preko slobodno izabranih predstavnika u jedinicama lokalne samouprave. Lokalna samouprave je takođe i <b>pravo i sposobnost organa lokalne samouprave</b> da, u granicama zakona, uređuju poslove i upravljaju javnim poslovima koji su u njihovoj nadležnosti i od interesa za lokalno stanovništvo. 
