@@ -26,13 +26,14 @@ categories: nextprev
     <li class="progtrckr-todo">10</li> </a>
     <a href="{{site.baseurl}}/pages/kampanja/"><li class="progtrckr-todo">11</li> </a>
 </ol>
-<br/><br/>
+<br/>
 
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
 
 <div class="justify">
+
 Kada ste definisali problem, treba razmatrati širi kontekst u kome je on pozicioniran. Imajući u vidu društvene, ekonomske i političke odnose u zemlji, potrebno je mapirati što je moguće više, poželjno je sve bitne faktore koji gravitiraju ovom problemu.<br/>
 Identifikovati:<br/>
 1. sve one koje taj problem dotiče<br/>
@@ -60,32 +61,32 @@ DRUŠTVENI BAROMETAR
 <div class="justify">
 Legenda:
 <ul>
-<li> - Aims (ciljevi) </li>
-<li> - Passive opponents (pasivni oponenti) </li>
-<li> - Inform (informisati) </li>
-<li> - Active opponents (aktivni oponenti) </li>
-<li> - Win over (pridobiti) </li>
-<li> - Leading opponents (vodeći oponenti) </li>
-<li> - Build relationship (izgradnja odnosa) </li>
-<li> - Leading activists (vodeći aktivisti) </li>
-<li> - Encourage participation (podsticanje učešća) </li>
-<li> - Passive allies (pasivni saveznici) </li>
-<li> - Provide opportunities to support you (pružanje mogućnost da vas podrže) </li>
-<li> - Empower (ovlašćivanje) </li>
-<li> - Active allies (aktivni saveznici) </li>
-<li> - Increase cohesion (povećanje jedinstva) </li>
-<li> - Oblivious (zaboravni) </li>
-<li> - Identify and Contact ( identifikovanje i kontakt) </li>
-<li> - Neutrals (neutralni) </li>
-<li> - Provide feedback (obezbeđuje reakciju) </li>
-<li> - Encourage (podstiče) </li>
-<li> - Actively support and nurture (aktivno podržava i pomaže razvitku) </li>
-<li> - Don’t provoke them into action (Ne izazivajte ih da reaguju) </li>
-<li> - Give them opportunities to change their position (dajte im priliku da promene svoj položaj) </li>
-<li> - Recongnize actual needs and fears (prepoznaju stvarne potrebe i strahove)</li>
-<li> - Arouse doubts (izazovu sumnju) </li>
-<li> - Soft on person – hard on problem (Blagi prema čoveku – loš uticaj na problem) </li>
-<li> - Reveal motives (otkrivaju motive) </li>
+<li>  Aims (ciljevi) </li>
+<li>  Passive opponents (pasivni oponenti) </li>
+<li>  Inform (informisati) </li>
+<li>  Active opponents (aktivni oponenti) </li>
+<li>  Win over (pridobiti) </li>
+<li>  Leading opponents (vodeći oponenti) </li>
+<li>  Build relationship (izgradnja odnosa) </li>
+<li>  Leading activists (vodeći aktivisti) </li>
+<li>  Encourage participation (podsticanje učešća) </li>
+<li>  Passive allies (pasivni saveznici) </li>
+<li>  Provide opportunities to support you (pružanje mogućnost da vas podrže) </li>
+<li>  Empower (ovlašćivanje) </li>
+<li>  Active allies (aktivni saveznici) </li>
+<li>  Increase cohesion (povećanje jedinstva) </li>
+<li>  Oblivious (zaboravni) </li>
+<li>  Identify and Contact ( identifikovanje i kontakt) </li>
+<li>  Neutrals (neutralni) </li>
+<li>  Provide feedback (obezbeđuje reakciju) </li>
+<li>  Encourage (podstiče) </li>
+<li>  Actively support and nurture (aktivno podržava i pomaže razvitku) </li>
+<li>  Don’t provoke them into action (Ne izazivajte ih da reaguju) </li>
+<li>  Give them opportunities to change their position (dajte im priliku da promene svoj položaj) </li>
+<li>  Recongnize actual needs and fears (prepoznaju stvarne potrebe i strahove)</li>
+<li>  Arouse doubts (izazovu sumnju) </li>
+<li>  Soft on person – hard on problem (Blagi prema čoveku – loš uticaj na problem) </li>
+<li>  Reveal motives (otkrivaju motive) </li>
 </ul>
 
 <br/>

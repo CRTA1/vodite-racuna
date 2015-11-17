@@ -30,7 +30,6 @@ categories: nextprev
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-<br/>
 <style>
 table, th, td {
     border: 1px solid black;
@@ -38,7 +37,6 @@ table, th, td {
 </style>
 
 ##Preduslov 1 – Budžetska dokumenta moraju biti dostupna javnosti
-
 <br/>
 
 <div class="justify">
@@ -47,7 +45,7 @@ table, th, td {
 Danas, sa svim dostupnim savremenim tehnologijama, možemo reći da nikada nije bilo lakše da se dokumenta i postupci  vlasti učine dostupnim uvidu javnosti. Ne treba zaboraviti da sva dokumenta koja nastaju radom lokalnih samouprava i državnih organa na nacionalnom nivou pripadaju građanima i građankama Srbije. Takođe, postupci lokalnih i nacionalnih vlasti se finansiraju novcem građana i trebalo bi da budu činjeni u interesu građana. <br/>
 
 To je slučaj i sa budžetom. Budžet lokalne samouprave nije budžet lokalnih vlasti, već budžet građana te lokalne zajednice. Kao osnovno sredstvo za sprovođenje politika, budžet mora biti dostupan uvidu javnosti, pa čak i više od toga – lokalne smaouprave bi morale obezbediti mogućnost da građani i grupe građana utiču na njegov sadržaj, potrošnju i kontrolu.
-<br/>
+<br/><br/>
 Kako da obezbedimo da se na lokalnom nivou budžet i budžetski propisi i postupci učine transparentnim? Primenjujući pristup International Budget Partnership, koji na globalnom nivou izrađuju indeks otvorenosti budžeta (http://internationalbudget.org/), bilo bi potrebno da OCDi u Srbiji izvrše pritisak na lokalne vlasti da javnosti učine dostupnim sledeća dokumenta:<br/>
 
 - Nacrt i Predlog Odluke o budžetu – Nacrt odluke o budžetu je dokument koji izrađuje odeljenje za finansije u okviru lokalne samouprave. Ovaj dokument se kreira na osnovu uputstava koje daje Ministarstvo finansija R Srbije, kao i na osnovu finansijskih planova korisnika. Nacrt se potom šalje gradskom/opštinskom veću koje dorađuje ovaj dokument i utvrđuje Predlog Odluke o budžetu. Taj Predlog se dostavlja Skupštini na usvajanje. Kao što se može videti, prvi dokument (Nacrt) je proizvod rada „struke“, ljudi iz odeljenja za finansije koji su kvalifikovani za ovaj rad. Drugi dokument (Predlog) je proizvod rada izabranih političara. Problem u praksi često nastaje zbog mešanja veća već u proces kreiranja Nacrta, ali i zbog postavljanja nedovoljno stručnih ljudi na čelo odeljenja za finansije, usled partijskog kadriranja. Važno je napraviti razliku između Narta i Predloga odluke o budžetu jer javna rasprava bi trebalo da se održi po objavljivanju Nacrta, a pre nastanka Predloga. Takva praksa obezbedila bi da građani, udruženja i sve zainteresovane strane daju svoje predloge koje bi potom gradsko/opštinsko veće razmatrali. <br/>
@@ -65,20 +63,19 @@ Puna tranparentnost lokalne samouprave može se postići ako bi ovih 6 dokumenat
 
 Osim ovih dokumenata, skrećemo Vam pažnju na još dva dokumenta koje poseduje svaka lokalna samouprava, a koji su retko prisutni u javnosti. Reč je o detaljnom planu budžeta gradova i opština, odnosno o detaljnom izveštaju o potrošnji. Za razliku od odluka o budžetu i odluka o završnom računu, koji sadrže često previše uopštene stavke i retko se vidi ko je krajnji korisnik sredstava, ova dva detaljna dokumenta sadrže mnogo više informacija. Obično se u njima vidi krajnji korisnik budžetskih sredstava, kao i iznosi i namena tih sredstava. Sve dok država Srbija zaista ne pređe u potpunosti na programsko budžetiranje, ova dva dokumenta će biti izuzetno važna za utvrđivanje detalja oko budžetske potrošnje. Ova dokumenta možete tražiti od lokalnih uprava/odeljenja za finansije na osnovu zahteva za pristup informacijama od javnog značaja. <br/>
 
-<br/>
+<br/><br/>
 
 
 
-##Preduslov 2 –Budžet opredeljuje sredstva za potrebe ljudi koje zastupamo
+<h3>Preduslov 2 –Budžet opredeljuje sredstva za potrebe ljudi koje zastupamo </h3>
 
+Ako naša OCD zastupa interese starijih lica u našoj lokalnoj zajednici, da li to znači da je budžetsko zastupanje zahtev da se našoj OCD dodele sredstva iz lokalnog budžeta?  <br/>
+Ili možda možemo da postignemo mnogo više ako nateramo opštinu da veća budžetska sredstva opredeli za unapređenje svojih usluga za starija lica? Recimo, za prilogođavanje parka za potrebe kretanje starijih lica, ili pak za poboljšanje uslova u domu za negu starijih lica. <br/>
 
-*Ako naša OCD zastupa interese starijih lica u našoj lokalnoj zajednici, da li to znači da je budžetsko zastupanje zahtev da se našoj OCD dodele sredstva iz lokalnog budžeta? 
-Ili možda možemo da postignemo mnogo više ako nateramo opštinu da veća budžetska sredstva opredeli za unapređenje svojih usluga za starija lica? Recimo, za prilogođavanje parka za potrebe kretanje starijih lica, ili pak za poboljšanje uslova u domu za negu starijih lica.*
-
-Primer iz anterfilea sa desne strane ovog teksta je jedna od najčešćih dilema kada su OCD u Srbiji u pitanju. Prvi opisani slučaj je zapravo više slučaj fandrejzinga (prikupljanja finansija), a zaista manje slučaj javnog zagovaranja. 
-U celom ovom segmentu priručnika bićemo posvećeni drugom primeru, tj. primerima kako možemo kroz budžet da obezbedimo da ljudi koje zastupamo dobiju odgovarajući servis/uslugu od lokalne samouprave i njenih institucija i ustanova. 
-Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji formulisani na bazi administrativne klasifikacije troškova i vrlo često ne sadrže detaljnije informacije o nameni sredstava, krajnjem korisniku sredstava i ukupnom iznosu sredstava za tu namenu. Ipak, kroz istraživanje možemo doći do svih ovih podataka. Takođe, pritisak OCDa da Srbija pređe na realno programsko budžetiranje mora da se nastavi.
-Čime god se bavila Vaša OCD, postoji ozbiljan prostor za budžetsko zagovaranje i bavljenje budžetom:
+Primer iz anterfilea sa desne strane ovog teksta je jedna od najčešćih dilema kada su OCD u Srbiji u pitanju. Prvi opisani slučaj je zapravo više slučaj fandrejzinga (prikupljanja finansija), a zaista manje slučaj javnog zagovaranja.  <br/>
+U celom ovom segmentu priručnika bićemo posvećeni drugom primeru, tj. primerima kako možemo kroz budžet da obezbedimo da ljudi koje zastupamo dobiju odgovarajući servis/uslugu od lokalne samouprave i njenih institucija i ustanova.  <br/>
+Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji formulisani na bazi administrativne klasifikacije troškova i vrlo često ne sadrže detaljnije informacije o nameni sredstava, krajnjem korisniku sredstava i ukupnom iznosu sredstava za tu namenu. Ipak, kroz istraživanje možemo doći do svih ovih podataka. Takođe, pritisak OCDa da Srbija pređe na realno programsko budžetiranje mora da se nastavi. <br/>
+Čime god se bavila Vaša OCD, postoji ozbiljan prostor za budžetsko zagovaranje i bavljenje budžetom: <br/>
 
 <table>
     <tr>
@@ -159,11 +156,11 @@ Poteškoća sa kojom se suočavamo jeste što su naši javni budžeti u Srbiji f
 	</tr>
 </table>
 
-Spisak može ići u nedogled. Ipak, i samo letimičnim pogledom postaje jasno da je svakim od ovih izdvajanja moguće doneti zaista suštinsku promenu u živote ljudi koje zastupamo. I pritom, za razliku od mogućnosti da finansiramo projekat naše OCD tokom jedne godine, uvođenjem u budžet stavki koje su gore pomenute, mi obezbeđujemo da grad/opština sistemski i u znatno većoj skali pristupi rešavanju ključnih problema, kako u toj godini, tako i u narednim godinama koje slede posle uspešnog budžetskog zagovaranja.
+Spisak može ići u nedogled. Ipak, i samo letimičnim pogledom postaje jasno da je svakim od ovih izdvajanja moguće doneti zaista suštinsku promenu u živote ljudi koje zastupamo. I pritom, za razliku od mogućnosti da finansiramo projekat naše OCD tokom jedne godine, uvođenjem u budžet stavki koje su gore pomenute, mi obezbeđujemo da grad/opština sistemski i u znatno većoj skali pristupi rešavanju ključnih problema, kako u toj godini, tako i u narednim godinama koje slede posle uspešnog budžetskog zagovaranja. <br/>
 
-Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobraćajnicama u jednoj godini, ne samo što će rezultat tog uspeha biti vidljiv i narednih godina (ivičnjaci će ostati oboreni verovatno do narednih značajnih infrastrukturnih radova koji nisu baš tako česti), već će se ta stavka mnogo lakše naći i u budžetima narednih godina. Kada jednom lokalna samouprava pronađe prostor da odvoji sredstva za neku namenu, OCDi su tu da se bore da ta stavka ostane u budžetu sve dok se ne reši širi društveni problem. Gradovi i opštine u Srbiji neće postati fizički dostupni za osobe koje se kreću u kolicima time što će tokom jedne godine biti izdvojena stavka za pristupačnost. To je svakako višegodišnji, a u velikim gradovima decenijski, proces koji zahteva izdvajanja za ovu namenu iz godine u godinu.
+Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobraćajnicama u jednoj godini, ne samo što će rezultat tog uspeha biti vidljiv i narednih godina (ivičnjaci će ostati oboreni verovatno do narednih značajnih infrastrukturnih radova koji nisu baš tako česti), već će se ta stavka mnogo lakše naći i u budžetima narednih godina. Kada jednom lokalna samouprava pronađe prostor da odvoji sredstva za neku namenu, OCDi su tu da se bore da ta stavka ostane u budžetu sve dok se ne reši širi društveni problem. Gradovi i opštine u Srbiji neće postati fizički dostupni za osobe koje se kreću u kolicima time što će tokom jedne godine biti izdvojena stavka za pristupačnost. To je svakako višegodišnji, a u velikim gradovima decenijski, proces koji zahteva izdvajanja za ovu namenu iz godine u godinu. <br/>
 
-
+</div>
 <ol>
 {% for item in site.categories.hipoteza %}
   <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
