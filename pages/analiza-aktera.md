@@ -31,23 +31,25 @@ categories: nextprev
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
-Kada ste definisali problem, treba razmatrati širi kontekst u kome je on pozicioniran. Imajući u vidu društvene, ekonomske i političke odnose u zemlji, potrebno je mapirati što je moguće više, poželjno je sve bitne faktore koji gravitiraju ovom problemu.
-Identifikovati:
-1. sve one koje taj problem dotiče
-2. sve one koji mogu uticati na rešavanje tog problema
-3. sve one koji mogu usporiti ili sprečiti rešavanje problema
-
+<div class="justify">
+Kada ste definisali problem, treba razmatrati širi kontekst u kome je on pozicioniran. Imajući u vidu društvene, ekonomske i političke odnose u zemlji, potrebno je mapirati što je moguće više, poželjno je sve bitne faktore koji gravitiraju ovom problemu.<br/>
+Identifikovati:<br/>
+1. sve one koje taj problem dotiče<br/>
+2. sve one koji mogu uticati na rešavanje tog problema<br/>
+3. sve one koji mogu usporiti ili sprečiti rešavanje problema<br/>
+<br/>
 Kada kažemo “sve one”, mislimo na pojedince, organizacije i institucije.
-
+<br/>
 Ko su saveznici a ko protivnici i kako ih identifikovati?
-
+<br/>
 Identifikovati potencijalne saveznike i protivnike. (Veoma je važno istaći na osnovu čega ste identifikovali ove aktere kao saveznike/protivnike)
-
+<br/>
 U sledećem koraku potrebno je definisati koja su očekivanja, ciljevi i interesi aktera. Takođe potrebno je istražiti koje su aktivnosti sprovodili do sada na ovu temu.
-
+<br/>
 Da bismo mogli adekvatno da osmislimo strategiju javnog zastupanja u odnosu na različite aktere, značajno je dodatno istražiti jake i slabe strane aktera.
+<br/>
+Nakon detaljne analize tim za budžetsko zastupanje predlaže set aktivnosti usmerenih na aktere u ovom procesu. <br/> </div>
 
-Nakon detaljne analize tim za budžetsko zastupanje predlaže set aktivnosti usmerenih na aktere u ovom procesu.
 
 DRUŠTVENI BAROMETAR
 ![social-barometer.png]({{site.baseurl}}/pages/social-barometer.png)
