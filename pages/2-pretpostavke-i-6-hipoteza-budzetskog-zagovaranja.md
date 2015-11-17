@@ -37,16 +37,15 @@ table, th, td {
 </style>
 
 ##Preduslov 1 – Budžetska dokumenta moraju biti dostupna javnosti
-<br/>
 
 <div class="justify">
-<b>Sve veći broj opština i gradova na svojim sajtovima objavljuju odluke o budžetu i završne račune. Ipak, to nije slučaj sa svim opštinama i gradovima još uvek. A čak i kod onih gde to jeste slučaj, koje informacije su objavljene i možemo li i kako da saznamo nešto više od onoga što ova dokumenta predstavljaju? </b><br/>
+<b>Sve veći broj opština i gradova na svojim sajtovima objavljuju odluke o budžetu i završne račune. Ipak, to nije slučaj sa svim opštinama i gradovima još uvek. A čak i kod onih gde to jeste slučaj, koje informacije su objavljene i možemo li i kako da saznamo nešto više od onoga što ova dokumenta predstavljaju? </b><br/><br/>
 
 Danas, sa svim dostupnim savremenim tehnologijama, možemo reći da nikada nije bilo lakše da se dokumenta i postupci  vlasti učine dostupnim uvidu javnosti. Ne treba zaboraviti da sva dokumenta koja nastaju radom lokalnih samouprava i državnih organa na nacionalnom nivou pripadaju građanima i građankama Srbije. Takođe, postupci lokalnih i nacionalnih vlasti se finansiraju novcem građana i trebalo bi da budu činjeni u interesu građana. <br/>
 
 To je slučaj i sa budžetom. Budžet lokalne samouprave nije budžet lokalnih vlasti, već budžet građana te lokalne zajednice. Kao osnovno sredstvo za sprovođenje politika, budžet mora biti dostupan uvidu javnosti, pa čak i više od toga – lokalne smaouprave bi morale obezbediti mogućnost da građani i grupe građana utiču na njegov sadržaj, potrošnju i kontrolu.
 <br/><br/>
-Kako da obezbedimo da se na lokalnom nivou budžet i budžetski propisi i postupci učine transparentnim? Primenjujući pristup International Budget Partnership, koji na globalnom nivou izrađuju indeks otvorenosti budžeta (http://internationalbudget.org/), bilo bi potrebno da OCDi u Srbiji izvrše pritisak na lokalne vlasti da javnosti učine dostupnim sledeća dokumenta:<br/>
+Kako da obezbedimo da se na lokalnom nivou budžet i budžetski propisi i postupci učine transparentnim? Primenjujući pristup International Budget Partnership, koji na globalnom nivou izrađuju indeks otvorenosti budžeta  <a href="http://internationalbudget.org/">(http://internationalbudget.org/) </a>, bilo bi potrebno da OCDi u Srbiji izvrše pritisak na lokalne vlasti da javnosti učine dostupnim sledeća dokumenta:<br/>
 
 - Nacrt i Predlog Odluke o budžetu – Nacrt odluke o budžetu je dokument koji izrađuje odeljenje za finansije u okviru lokalne samouprave. Ovaj dokument se kreira na osnovu uputstava koje daje Ministarstvo finansija R Srbije, kao i na osnovu finansijskih planova korisnika. Nacrt se potom šalje gradskom/opštinskom veću koje dorađuje ovaj dokument i utvrđuje Predlog Odluke o budžetu. Taj Predlog se dostavlja Skupštini na usvajanje. Kao što se može videti, prvi dokument (Nacrt) je proizvod rada „struke“, ljudi iz odeljenja za finansije koji su kvalifikovani za ovaj rad. Drugi dokument (Predlog) je proizvod rada izabranih političara. Problem u praksi često nastaje zbog mešanja veća već u proces kreiranja Nacrta, ali i zbog postavljanja nedovoljno stručnih ljudi na čelo odeljenja za finansije, usled partijskog kadriranja. Važno je napraviti razliku između Narta i Predloga odluke o budžetu jer javna rasprava bi trebalo da se održi po objavljivanju Nacrta, a pre nastanka Predloga. Takva praksa obezbedila bi da građani, udruženja i sve zainteresovane strane daju svoje predloge koje bi potom gradsko/opštinsko veće razmatrali. <br/>
 
