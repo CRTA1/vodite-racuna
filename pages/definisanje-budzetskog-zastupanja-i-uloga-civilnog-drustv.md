@@ -60,7 +60,8 @@ Da li je budžet pomogao ljudima da prevaziđu problem ili je doprineo njegovom 
 Da li se budžet primenjuje prema planu raspodele ili postoji raskorak između plana i  sprovođenja? 
 </div>
 
-<br/><br/>
+<br/>
+
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
