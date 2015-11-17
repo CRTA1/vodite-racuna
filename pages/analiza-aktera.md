@@ -82,6 +82,8 @@ Legenda:
 
 <br/>
 
+<br/>
+
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 

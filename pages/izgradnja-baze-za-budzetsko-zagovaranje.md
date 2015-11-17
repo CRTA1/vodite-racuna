@@ -32,6 +32,7 @@ categories: nextprev
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
+
 <div class="justify">
 Vaša baza su oni ljudi koji imaju interesa da se reši problem ili pitanje koji su fokus vaše kampanje javnog zagovaranja. To su pre svega ljudi koji su direktno pogođeni tim problemom ili pitanjem. Takođe, baza mogu biti i ljudi iz šire zajednice koji nisu direktno pogođeni problemom, ali kojima je stalo da se problem reši i mogu biti spremni da deluju u tom pravcu. U zajedničkom delovanju, ove dve grupe ljudi imaju potencijal da se izbore za promenu u svom okruženju, ukoliko su dobro informisani i organizovani
 <br/>
@@ -52,8 +53,10 @@ Svaka akcija  ima polazište u svesti pojedinca da se neki problem mora rešiti.
 Vaš primarni zadatak jeste da edukujete druge i ohrabrujete javnu diskusiju o problemu. Edukacije je moguće raditi na različite načine – od radionica, preko javnih predavanja, distribucije edukativnog materijala, edukativnih kampanja... I edukacije i javne debate dovode do toga da se razvija kolektivna svest o nekom problemu, veći broj ljudi prepoznaje problem i spreman je da se uključi u akciju.
 Kada dođemo dotle da možemo govoriti da neke grupe ljudi prepoznaju naš problem, potrebno je organizovati ih i dati određene veštine. To je sada viši stepen edukacije od onog u prethodnoj fazi. Potrebno je direktno uključiti ljude u akcije, dati im priliku da kažu svoje mišljenje, pa čak im dati mogućnost da i sami deluju na ovom polju uz našu podršku. Tako dolazimo do izgradnje osećaja moći kod ovih grupa, izuzetno značajnog preduslova za ličnu promenu i njihovu spremnost da zahtevaju promenu u sistemu.
 
-<br/><br/>
-<div id="next_prev_buttons" align="center">
+
+<br/>
+
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>
