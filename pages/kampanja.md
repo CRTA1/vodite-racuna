@@ -249,7 +249,7 @@ Veština komunikacije sa medijima predstavljaće ključ našeg uspeha. To je put
 <br/>
 Neki ljudi veruju da upravljanje vremenom i samo zahteva previše vremena. Evo nekoliko saveta kako da bolje upravljate svojim vremenom. Neki od njih biće vam poznati. Neke nećete moći da primenite u svom životu. Ali sve njih su koristili ljudi da bi sebi olakšali život.<br/>
 
-**Uradite to odmah.** Bolje je da potrošite 20 sekundi na zavođenje nekog dokumenta nego da ga posle tražite pola sata. Zapišite telefon u imenik umesto da kasnije deset minuta tražite ceduljicu na kojoj ste ga zapisali.<br/>
+<b>Uradite to odmah </b> Bolje je da potrošite 20 sekundi na zavođenje nekog dokumenta nego da ga posle tražite pola sata. Zapišite telefon u imenik umesto da kasnije deset minuta tražite ceduljicu na kojoj ste ga zapisali.<br/>
 
 <b>Određujte prioritete </b> Ne znate šta prvo da uradite od svih stvari koje vam vise nad glavom?<br/><br/>
 

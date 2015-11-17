@@ -67,11 +67,11 @@ U našem  budžetskom sistemu, budžetski novac se može planirati i trošiti za
 10. Socijalna zaštita (šifra 0).<br/>
 <br/>
 Funkcionalna klasifikacija se u budžetu iskazuje kao trocifren broj, a šema funkcionalne klasifikacije propisana je Pravilnikom o standardnom klasifikacionom okviru i Kontnom planu za budžetski sistem. U okviru svake od funkcija postoje kategorije i grupe, koje imaju za cilj detanjnije objašnjavanje funkcija. U našem primeru funkcionalna klasifikacija 620 predstavlja sredstva za razvoj zajednice (šifra 6 – Poslovi stanovanja i zajednice). Sada kad smo, pored organizacione klasifikacije, analizirali i funkcionalniju, pored toga što znamo da planirani novac u našem primeru služi obavljanju poslova gradske uprave, znamo i o kojim konkretno poslovima se radi, to su poslovimi stanovanja i razvoja zajednice.  
-</divbr/>
+<br/>
 <b>Ekonomska klasifikacija</b> je razvrstavanje prema vrsti prihoda, odnosno rashoda. Ekonomska klasifikacija pokazuje KAKO, odnosno kroz koje vrste prihoda se ubiraju sredstva, odnosno kroz koje troškove se finansira određena funkcija. Konkretno, iskazuje pojedinačna dobra i usluge (kao što su plate, doprinosi, materijal i sl.) i izvršena transferna plaćanja u cilju namirenja pojedinih funkcija budžeta.
-</divbr/>
+<br/>
 Ekonomska klasifikacija se u budžetu takođe vidi kao trocifren broj. U našem primeru jedna od ekonomskih klasifikacija je 411 – Plate, dotaci i naknade zaposlenih (zarade), zatim 412 – Socijalni doprinosi na teret poslodavca, 422 – Troškovi službenih putovanja i td. U nastavku analize dela budžeta iz našeg primera, sada znamo da će gradska uprava obavljajući poslove razvoja zajednice potrošiti 5 miliona dinara za plate, 0,7 miliona za doprinose, dok će npr. za materijal potrošiti 1,2 miliona dinara.
-</divbr/>
+<br/>
 Pored klasifikacija, u budžetu je sada definisana i <b>programska struktura</b> koju čine program, programske aktivnosti i projekti. U našem primeru u okviru programa broj 1 – Lokalni razvoj i prostorno planiranje (šifra programa 1101) definisana je programska aktivnost Strateško, prostorno i urbanističko planiranje (šifra programske aktivnosti 1101-0001) i projekat - Popis i uknjiženje javne imovine Grada (šifra projekta<br/>: 1101-P1).
 
 Analizom programske strukture imamo dodatne podatke za našu analizu dela budžeta i sada možemo konstatovati da će gradska uprava (organizaciona klasifikacija, razdeo 4, glava 1) sredstva u ukupnom inosu od 17,97 miliona dinara koja su planirana za poslove razvoja zajednice (funkcionalna klasifikacija 620) utrošiti za lokalni razvoj i prostorno planiranje (program 1101), kroz programsku aktivnost 1101-0001 - Strateško, prostorno i urbanističko planiranje, od čega 1,62 miliona dinara na projekat 1101-P1 – Popis i uknjižavanje imovine grada. Takođe, znamo i koliko novca je opredeljeno za pojedine vrste rashoda (ekonomska klasifikacija).
