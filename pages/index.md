@@ -15,9 +15,9 @@ Osim što mogu da se informišu, razmenjuju mišljenja i edukuju se, građani, m
 
 <img  src="{{ "/img/o-nama.jpg" | prepend: site.baseurl }}"/>
 <br/>
-<b>Centar za razvoj neprofitnog sektora (CRNPS)** je dobrovoljno, nezavisno, nevladino i nedobitno udruženje građana osnovano radi ostvarivanja ciljeva u oblasti razvoja civilnog društva i neprofitnog sektora u Srbiji, zaštite i promovisanja ljudskih i manjinskih prava, obrazovanja, informisanja, socijalne zaštite i borbe protiv korupcije. </b>
+<b>Centar za razvoj neprofitnog sektora (CRNPS)</b> je dobrovoljno, nezavisno, nevladino i nedobitno udruženje građana osnovano radi ostvarivanja ciljeva u oblasti razvoja civilnog društva i neprofitnog sektora u Srbiji, zaštite i promovisanja ljudskih i manjinskih prava, obrazovanja, informisanja, socijalne zaštite i borbe protiv korupcije. 
 <br/>
-<b>Centar za istraživanje, transparentnost i odgovornost (CRTA)** je nevladina organizacija osnovana sa misijom da doprinese uspešnoj tranziciji Srbije u razvijeno demokratsko društvo kroz promociju aktivnog učešća građana u društvenim procesima i razvoj njihovih zagovaračkih kapaciteta.</b>
+<b>Centar za istraživanje, transparentnost i odgovornost (CRTA) </b>je nevladina organizacija osnovana sa misijom da doprinese uspešnoj tranziciji Srbije u razvijeno demokratsko društvo kroz promociju aktivnog učešća građana u društvenim procesima i razvoj njihovih zagovaračkih kapaciteta.
 <br/> 
 Kontakt: <b>office@voditeracuna.rs </b>
 </div>

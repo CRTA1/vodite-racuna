@@ -3,12 +3,6 @@ title: Videos
 lead: true
 ---
 
-<style type="text/css"> 
-
-.justify{text-align: justify;}
-
-</style>
-
 {% for item in site.categories.videos %}
 <div>
 <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a><br/><br/>

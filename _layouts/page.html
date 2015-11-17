@@ -2,7 +2,6 @@
 layout: default
 wide: true
 ---
-
 {% assign section = page.section %}
 
 {% assign section_base = site.baseurl | append: section | append: '/' %}
@@ -10,7 +9,6 @@ wide: true
   $( document ).ready(function() {
     json_posts = [
       {"Uvod": "{{ site.baseurl }}/pages/uvod"},
-      {"Analiza problema i okruženja": "{{ site.baseurl }}/pages/analiza-problema-i-okruzenja"},
       {"Definisanje budžetskog zastupanja i uloga civilnog društv": "{{ site.baseurl }}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustv"},
       {"Definicije osnovnih pojmova": "{{ site.baseurl }}/pages/definicije-osnovnih-pojmova"},
       {"Institucionalni okvir i nadležnosti lokalne samouprave": "{{ site.baseurl }}/pages/institucionalni-okvir-i-nadleznosti-lokalne-samouprave"},
@@ -35,7 +33,7 @@ wide: true
     var index = getIndexOfKey(json_posts, "{{ page.title }}");
     var next_index = index + 1;
     var prev_index = index - 1;
-    if (index == 10){
+    if (index == 9){
       $("#next").css("display", "none");
     } 
     if (index == 0) {
@@ -57,9 +55,8 @@ wide: true
   });
 </script>
 <div class="post">
-
   <article class="post-content{% if page.lead %} lead-paragraph{% endif %}">
-  {% if page.categories != 'nextprev' %}
+    {% if page.categories != 'nextprev' %}
     <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.authors %}
@@ -71,7 +68,7 @@ wide: true
       </ul>
     </div>
     {% endif %}
-  {% endif %}
+    {% endif %}
     {{ content }}
   </article>
  
