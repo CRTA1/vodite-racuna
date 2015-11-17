@@ -16,7 +16,7 @@ Najčešće postavljana pitanja
 <!-- <div id="pitanja-odgovori-articles" markdown=1> -->
 {% for item in site.categories.pitanja-odgovori %}
   <a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a>
-  <div> {{ item.description }}</div><br/><br/>
+  <div class='justify' > {{ item.description }}</div><br/><br/>
 {% endfor %}
 <!-- </div> -->
 </blockquote>

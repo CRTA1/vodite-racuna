@@ -140,7 +140,7 @@ Ispitivanja su pokazala da pri ubeđivanju ljudi da promene mišljenje o nekom p
 
 <li>Priča sa nečijim ličnim iskustvom </li>
 </ul>
-<br/><br/><br/>
+<br/>
 Na spomenutim principima je zasnovana "Poruka od jednog minuta". Kada konstruišemo poruku za TV nastup ili intervju za novine, ovaj jednostavan model koji sadrži četiri elementa će pomoći govorniku da se fokusira:<br/>
 
 <b>1. Izjava</b>

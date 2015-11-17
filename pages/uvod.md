@@ -4,7 +4,7 @@ lead: true
 categories: nextprev
 ---
 <script type="text/javascript">
-$(document).ready(function() { .post-content
+$(document).ready(function() { 
     $("#mm-2").click();
  });   
 </script>
