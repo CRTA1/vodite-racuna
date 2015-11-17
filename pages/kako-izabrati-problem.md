@@ -23,7 +23,7 @@ table, th, td {
     <a href="{{site.baseurl}}/pages/analiza-budzeta/">
     <li class="progtrckr-done">6 </li> </a>
     <a href="{{site.baseurl}}/pages/kako-izabrati-problem/">
-    <li class="progtrckr-done">7 </li> </a>
+    <li class="progtrckr-todo">7 </li> </a>
     <a href="{{site.baseurl}}/pages/analiza-aktera/">
     <li class="progtrckr-todo">8 </li> </a>
     <a href="{{site.baseurl}}/pages/2-pretpostavke-i-6-hipoteza-budzetskog-zagovaranja/">
