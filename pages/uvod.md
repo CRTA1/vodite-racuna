@@ -8,7 +8,7 @@ $(document).ready(function() { .post-content
     $("#mm-2").click();
  });   
 </script>
-
+<html>
 <ol class="progtrckr" data-progtrckr-steps="11">
     <a href="{{site.baseurl}}/pages/uvod/">
     <li class="progtrckr-done">1 </li> </a>
@@ -36,7 +36,9 @@ $(document).ready(function() { .post-content
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/><br/>
+
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>
+</html>

@@ -32,6 +32,7 @@ categories: nextprev
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
+
 <div class="justify">
 Organizacije civilnog društva (OCD), osnovane na principu slobodnog udruživanja građana, obavezuju se da rade u javnom interesu. Svoje delovanje usmeravaju u različitim pravcima, a pre svega tamo gde su građanska prava ugrožena sa ciljem poboljšanja njihovog položaja i donošenja promena u duštvu. Radeći na poboljšanju položaja građana OCD se u svom radu često susreću sa javnim budžetima, kako na nacionalnom, tako i na lokalnom nivou, prepoznajući da se tu nalazi odgovor na veliki deo njihovih problema. <br/>
 I pored toga što razumeju da je budžet pravi odraz politika, kao i da uticanje na budžet može dovesti do opipljivih promena za njihove korisnike, OCD će se teško odlučiti da uđu u “borbu” u ovoj političkoj areni. Može se reći, sa pravom. Uticanje na budžet, ili budžetsko zastupanje je najopasniji deo zastupanje. Kroz budžetske analize mogu se otkriti velike malverzacije, korupcija, različiti skriveni interesi, te ljudi čije skrivene interese izlažete očima javnosti neće sedeti skrštenih ruku…
