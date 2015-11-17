@@ -31,6 +31,7 @@ categories: nextprev
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
+
 <div class="justify">
 Struktura budžeta propisana je Zakonom o budžetskom sistemu. Budžet sadrži opšti i posebni deo. Budžeti gradova i opština često sadrže i obrazloženje u kojem su data detaljnija objašnjenja pojedinih delova budžeta ili pojedinih aproprijacija. Ovaj deo budžeta nije obavezan pa ga gradovi i opštine često ne objave prilikom objavljivanja budžeta. Obrazloženje može biti vrlo korisno za analizu i praćenje budžeta, pa je važno da zahtevamo od lokalnih vlasti da ga objave prilikom objavljivanja budžeta.
 <br/>
