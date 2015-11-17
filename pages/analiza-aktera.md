@@ -80,7 +80,8 @@ Legenda:
 - Soft on person – hard on problem (Blagi prema čoveku – loš uticaj na problem)
 - Reveal motives (otkrivaju motive)
 
-<br/><br/>
+<br/>
+
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 

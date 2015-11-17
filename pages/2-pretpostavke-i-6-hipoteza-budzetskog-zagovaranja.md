@@ -167,8 +167,8 @@ Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobr
 {% endfor %}
 </ol>
 
+<br/>
 
-<br/><br/>
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 

@@ -111,8 +111,10 @@ Iznos sredstava tekuće I stalne budžetske reserve je limitiran Zakonom o budž
 <br/>
 Izveštaj o korišćenju ovih sredstava dostavlja se Narodnoj skupštini, odnosno skupštini lokalne vlasti, uz završni račun budžeta te analizom ovog izveštaja možemo saznati na koji način su izvršne vlasti koristile sredstva rezervi.
 <br/>
-<br/><br/>
-<div id="next_prev_buttons" align="center">
+
+<br/>
+
+<div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>

@@ -62,7 +62,8 @@ Programsku strukturu budžeta čine: Program, programska aktivnost i projekat. P
 </div><br/>
 <a href="{{ site.baseurl }}/pages/Šta-je-budžet/">Šta je budžet? </a>
 
-<br/><br/>
+<br/>
+
 <div align="center">
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
