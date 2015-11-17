@@ -116,7 +116,7 @@ Formati ili mediji su kanali komunikacije koje koristimo za prenošenje poruke, 
 <li> Brošure </li>
 <li> Pisma </li>
 </ul>
-<br/>
+<br/><br/>
 Odabir načina na koji ćemo preneti poruku zavisi od same poruke, podrške koju imamo, ali i od naše inovativnosti i maštovitosti. Konačna odluka o izboru formata za prenošenje poruke zavisi od nekoliko faktora, kao što su:<br/>
 
 <b>Trošak/Cena </b>
@@ -140,7 +140,7 @@ Ispitivanja su pokazala da pri ubeđivanju ljudi da promene mišljenje o nekom p
 
 <li>Priča sa nečijim ličnim iskustvom </li>
 </ul>
-<br/><br/>
+<br/><br/><br/>
 Na spomenutim principima je zasnovana "Poruka od jednog minuta". Kada konstruišemo poruku za TV nastup ili intervju za novine, ovaj jednostavan model koji sadrži četiri elementa će pomoći govorniku da se fokusira:<br/>
 
 <b>1. Izjava</b>
@@ -200,12 +200,14 @@ Da bi poruka bila uspešna potrebno je da ima sledeće osobine:
 <li>Istinita </li>
 
 <li>Mapa za lociranje ključnih tema kampanje </li> </ul>
-<br/>
+<br/> </div>
 
 
 ![Screenshot 2015-09-30 18.08.37.png]({{site.baseurl}}/pages/Screenshot 2015-09-30 18.08.37.png)
 
+<br/>
 
+<div class="justify">
 Ključne teme u kampanji bi trebale biti one koje su visoko rangirane na lestvici važnosti problema/teme i za koje organizacija ima visok kredibilitet u javnosti.<br/><br/>
 
 <h3> <b>Komunikacija u kampanji  </b> </h3>
@@ -214,12 +216,13 @@ Ključne teme u kampanji bi trebale biti one koje su visoko rangirane na lestvic
 Uspešno javno zastupanje zavisi od veštine ubeđivanja i/ili vršenja pritiska na kreatore politike da preduzmu akciju. To podrazumeva sistematsku analizu i procenu ciljane publike kao osnov za planiranje i kreiranje strategije komunikacije. Tek na osnovu prikupljenih podataka moguće je formirati poruku po meri publike i izabrati primeren kanal za njeno prenošenje.<br/>
 
 <b>Strateška komunikacija</b> je svaka planirana aktivnost komunikacije koja ima za cilj da pokrene akicju kroz sledeće korake: informisati, ubediti, motivisati i pokrenuti na akciju.
-
-<br/>
+<br/></div>
 
 ![Screenshot 2015-09-30 18.03.15.png]({{site.baseurl}}/pages/Screenshot 2015-09-30 18.03.15.png)
 
 <br/>
+
+<div class="justify">
 
 Mnogi pokušaji javnog zastupanja se prvenstveno usmeravaju na prvi nivo – informisanje.<br/>
 
