@@ -48,7 +48,7 @@ Zagovornici koriste budžetsku analizu za sledeće stvari: <br/>
 - Pokretanje pitanja koja bi ostala zanemarena i privlačenje pažnje medija i ostalih  delova građanskog društva  <br/>
 - Osporavanje nepravične dinamike moći koja utiče na distribuciju javnih resursa  
 - Prisiljavanje vladinih institucija da se prema marginalizovanim grupama odnose sa  dostojanstvom  <br/>
-- Stvaranje novog javnog prostora za učešće naroda  <br/>
+- Stvaranje novog javnog prostora za učešće naroda  <br/><br/>
 Povezivanje iskustava sa mikro-nivoa sa ekonomskom i socijalnom politikom na makro-nivou  
 Učenje načina funkcionisanja njihovog sistema donošenja odluka i ranijeg intervenisanja u procesu donošenja odluka  <br/>
 Budžet koga je nekada u tajnosti sačinjavala mala vladajuća elita više se ne piše reda radi, već se nalazi pod lupom javnosti, pod povećanim javnim pritiskom, kako bi bolje odgovarao potrebama naroda.  U mnogim zemljama su državne vlasti već delegirale ovlašćenja lokalnim vlastima ili je taj proces u toku, za šta su dobri primeri udruženja suseda u Latinskoj Americi, Panchyat Raj u Indiji, parishad sindikat i druga tela u Bangladešu koja su izabrana na lokalnom nivou. U ovom kontekstu, budžetska analiza može postati ulazna tačka za izgradnju odnosa sa lokalnim vlastima, radi lakšeg rešavanja životnih problema ljudi. Isti ti lokalni funkcioneri sa svoje strane vrše pritisak na funkcionere na državnom nivou radi preraspodele budžeta, tako da blagajne za otklanjanje siromaštva, obrazovanje i druge programe pomoći ne ostanu prazne.  <br/>
