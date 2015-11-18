@@ -57,7 +57,7 @@ wide: true
 <div class="post">
   <article class="post-content{% if page.lead %} lead-paragraph{% endif %}">
     {% if page.categories != 'nextprev' %}
-    <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
+    <a href="{{ site.baseurl }}" class="pre-header">{{ section }}</a>
     <h1 class="post-title">{{ page.title }}</h1>
     {% if page.authors %}
     <div class="author">Written by
