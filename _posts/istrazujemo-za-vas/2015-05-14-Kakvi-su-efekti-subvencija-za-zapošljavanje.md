@@ -7,6 +7,7 @@ description: "Koliko je novih radnih mesta otvoreno subvencijama za zapošljavan
 ---
 
 **P:**
+
 Koliko je novih radnih mesta otvoreno subvencijama za zapošljavanje Nacionalne službe za zapošljavanje i koliko nas je sve to koštalo?
 
 
