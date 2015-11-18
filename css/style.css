@@ -60,3 +60,9 @@ ol.progtrckr li.progtrckr-todo:before {
 }
 
 .justify{text-align: justify;}
+
+.textstyle-p{
+        margin-bottom: 50px;
+        margin-top: 50px;
+        text-align: justify;
+    }

@@ -5,14 +5,9 @@ lead: true
 
 
 
-
-
-
-
-
-
-
-Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje
+<div class="textstyle-p"> 
+Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje <br/>
+</div>
 
 
 
@@ -23,4 +18,4 @@ Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak 
 
 
 
-<br/>
+
