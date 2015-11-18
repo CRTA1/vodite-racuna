@@ -7,17 +7,17 @@ description: "Kako se dele sredstva od poreza na zarade, poreza na nasleđe i po
 ---
 
 **P:**
-
-Kako se dele sredstva od poreza na zarade, poreza na nasleđe i poklon i kako se raspolaže novcem dobijenim od lokalnih komunalnih taksi, između Beograda i opština?
+<div class="justify">
+Kako se dele sredstva od poreza na zarade, poreza na nasleđe i poklon i kako se raspolaže novcem dobijenim od lokalnih komunalnih taksi, između Beograda i opština?</div>
 
 **O:**
-
-Koliko od poreza koji se skupe u Beogradu odlazi gradu a koliko ostaje opštini određuje Skupština grada. Na osnovu te odluke raspodeljuje se novac koji se dobija od lokalnih komunalnih taksi, od poreza na zarade, od poreza za nasleđa i poklon, od naknade za korišćenje građevinskog zemljišta…
-Zanimljivo je da procenat raspodele tih sredstava nije isti za sve opštine. Pa tako, neke opštine procentualno dobijaju više sredstava od nekih poreza u odnosu na druge opštine. Kod raspodele novca od poreza na zarade opština Novi Beograd dobija samo 4 odsto, dok Beogradu ide 96 odsto. Zemun dobija oko pet, slično kao i Palilula. Međutim, opštini Sopot ostaje čak 91 odsto sredstava dobijenih od poreza na zarade a gradu ide samo 9 odsto. Dobar deo ovog prihoda ostaje i u Barajevu – 85 odsto i Surčinu – oko 80 odsto. (Videti Tabelu 1)
-Slično je i sa porezom na na imovinu. Opet najmanje sredstava (procentualno) ostaje Novom Beogradu – 9 odsto a grad dobija 91 odsto. Nešto više dobijaju Stari grad – 12 odsto i Voždovac i Vračar – po 19 odsto. I kod ovog poreza, najviše novca zadržava opština Sopot, i to sve, čitavih 100 odsto. Malo manje dobijaju Obrenovac i Lazarevac – po 97 odsto, kao i Barajevo koje zadržava 91 odsto poreza koji na imovinu koji se ubire u ovoj opštini. (Videti tabelu 2)
+<div class="justify">
+Koliko od poreza koji se skupe u Beogradu odlazi gradu a koliko ostaje opštini određuje Skupština grada. Na osnovu te odluke raspodeljuje se novac koji se dobija od lokalnih komunalnih taksi, od poreza na zarade, od poreza za nasleđa i poklon, od naknade za korišćenje građevinskog zemljišta…<br/>
+Zanimljivo je da procenat raspodele tih sredstava nije isti za sve opštine. Pa tako, neke opštine procentualno dobijaju više sredstava od nekih poreza u odnosu na druge opštine. Kod raspodele novca od poreza na zarade opština Novi Beograd dobija samo 4 odsto, dok Beogradu ide 96 odsto. Zemun dobija oko pet, slično kao i Palilula. Međutim, opštini Sopot ostaje čak 91 odsto sredstava dobijenih od poreza na zarade a gradu ide samo 9 odsto. Dobar deo ovog prihoda ostaje i u Barajevu – 85 odsto i Surčinu – oko 80 odsto. (Videti Tabelu 1)<br/>
+Slično je i sa porezom na na imovinu. Opet najmanje sredstava (procentualno) ostaje Novom Beogradu – 9 odsto a grad dobija 91 odsto. Nešto više dobijaju Stari grad – 12 odsto i Voždovac i Vračar – po 19 odsto. I kod ovog poreza, najviše novca zadržava opština Sopot, i to sve, čitavih 100 odsto. Malo manje dobijaju Obrenovac i Lazarevac – po 97 odsto, kao i Barajevo koje zadržava 91 odsto poreza koji na imovinu koji se ubire u ovoj opštini. (Videti tabelu 2)<br/>
 Kod raspodele prihoda od davanja u zakup, odnosno na korišćenje nepokretnosti u državnoj svojini koji koristi gradska opština i indirektni korisnici njenog budžeta najbolje su prošle opštine Barajevo, Grocka, Lazarevac, Mladenovac, Obrenovac, Sopot i Surčin. Naima ovim opštinama u celini pripadaju sredstva od ovog poreza. S druge strane Rakovica dobija samo 18 odsto, Čukarica 33 odsto a Savski venac 48 odsto. (Videti tabelu 3)
 Kad je prihodima od lokalnih komunalnih taksi reč, novac od ovog poreza koji se prikuplja na području gradskih opština Voždovac, Vračar, Zemun, Zvezdara, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad i Čukarica u celini pripada gradu. Opština Grocka dobija 60 odsto ovih sredstava, 65 odsto dobija Lazarevac, Obrenovac 60 odsto, Surčin 60 odsto, Sopot 80 odsto. Dok opštine Barajevo i Mladenovac u celini zadržavaju prihod od lokalnih komunalnih taksi.
-Beograd od opština Voždovac, Vračar, Zemun, Zvezdara, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad i Čukarica u celini uzima i prihode od poreza na prenos apsolutnih prava, od poreza na dohodak građana na prihod od samostalnih delatnosti, od poreza od nasleđa i poklon, prihod od koncesione naknade za obavljanje komunalnih delatnosti i prihod od naknade za korišćenje građevinskog zemljišta…
+Beograd od opština Voždovac, Vračar, Zemun, Zvezdara, Novi Beograd, Palilula, Rakovica, Savski venac, Stari grad i Čukarica u celini uzima i prihode od poreza na prenos apsolutnih prava, od poreza na dohodak građana na prihod od samostalnih delatnosti, od poreza od nasleđa i poklon, prihod od koncesione naknade za obavljanje komunalnih delatnosti i prihod od naknade za korišćenje građevinskog zemljišta…<br/></div>
  
  
 Tabela 1.

@@ -3,10 +3,20 @@ title: Sve O Javnim Finansijama
 lead: true
 ---
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
+<div class="justify">
+Na našem sajtu pratimo i objavljujemo sve najnovije vesti iz oblasti javnih finansija.
+<a href="http://crtarsorg.github.io/vodite-racuna/press/">http://crtarsorg.github.io/vodite-racuna/press/ </a>
 
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+ <br/>
+Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje.<br/>
+<a href="http://crtarsorg.github.io/vodite-racuna/pages/uvod/"> http://crtarsorg.github.io/vodite-racuna/pages/uvod/ </a><br/>
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
+U pravnom okviru na jednom mestu možete da nađete sve zakone vezane za oblast budžetskog sistema, državne uprave i javne finansije. <br/>
+<a href="http://crtarsorg.github.io/vodite-racuna/pages/budzetski-sistem/"> http://crtarsorg.github.io/vodite-racuna/pages/budzetski-sistem/ </a>
+ <br/>
+Od 2014. godine Centar za istraživanje, transparentnost i odgovornost- CRTA je građanski nadzornik u postupcima javnih nabavki. Ovde možete naći sve izveštaje o javnim nabavkama koje smo pratili kao građanski nadzornik.<br/>
+<a href="http://crtarsorg.github.io/vodite-racuna/pages/javne-nabavke/"> http://crtarsorg.github.io/vodite-racuna/pages/javne-nabavke/ </a>
+ <br/>
+Inicijative su mesto gde građani, mediji i nevladine organizacije mogu da objavljuju vesti i inicijative u vezi sa većom efikasnošću, transparentnošću i odgovornošću javnih finansija.<br/>
+<a href="http://crtarsorg.github.io/vodite-racuna/pages/inicijative/"> http://crtarsorg.github.io/vodite-racuna/pages/inicijative/ </a><br/>
+</div>
