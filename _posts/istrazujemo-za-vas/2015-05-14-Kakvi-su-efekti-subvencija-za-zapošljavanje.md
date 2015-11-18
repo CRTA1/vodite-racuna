@@ -3,7 +3,7 @@ layout: post
 title:  "Kakvi su efekti subvencija za zapošljavanje?"
 categories: istrazujemo-za-vas
 img_url: /img/istražujemo-za-vas/pic19.jpg
-description: ""
+description: "Koliko je novih radnih mesta otvoreno subvencijama za zapošljavanje Nacionalne službe za zapošljavanje i koliko nas je sve to koštalo?"
 ---
 
 **P:**
@@ -11,6 +11,7 @@ Koliko je novih radnih mesta otvoreno subvencijama za zapošljavanje Nacionalne 
 
 
 **O:**
+
 <div class="justify">
 U poslednje tri godine Nacionalna služba za zapošljavanje je sa skoro 80 miliona eura finansijski podržala zapošljavanje nešto manje od 56 hiljada nezaposlenih osoba. Ovaj podatak odnosi se na šest najvažnijih programa koje NSZ sprovodi u okviru napora za smanjenje nezaposlenosti i stimulisanja zapošljavanja.<br/>
 Za isto vreme, prema podacima NSZ, broj nezaposlenih u Srbiji porastao je za 163.454 osoba, odnosno sa 573.348 u aprilu 2010 godine na 736.802 u aprilu 2012 godine.<br/>
