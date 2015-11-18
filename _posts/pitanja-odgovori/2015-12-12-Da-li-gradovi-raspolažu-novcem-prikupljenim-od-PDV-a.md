@@ -12,4 +12,4 @@ Da li svaki grad ili opština novac od PDV-a prikupljen na svom području šalje
 
 **O.**
 
-Zakonom je uređeno da prihod od poreza na dodatu vrednost (PDV) u potpunosti pripada budžetu Republike Srbije. Jedinicama lokalne samouprave dakle ovaj prihod ne pripada niti im se vraća, nijedan deo PDV.
+<div class="justify">Zakonom je uređeno da prihod od poreza na dodatu vrednost (PDV) u potpunosti pripada budžetu Republike Srbije. Jedinicama lokalne samouprave dakle ovaj prihod ne pripada niti im se vraća, nijedan deo PDV.</div>
