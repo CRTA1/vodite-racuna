@@ -11,8 +11,10 @@ description: ""
 
 
 **O.**
+
+
 <div class="justify">
-Autor: Mihailo Gajić
+Autor: Mihailo Gajić<br/>
 Obrazovni sistem u Srbiji je neadekvatan i neefikasan. To se najbolje može videti i po rezultatima srpskih učenika na PISA testiranjima. Te testove na međunarodnom nivou organizuje OECD i na njima naši đaci od 15 godina imaju znatno lošije rezultate od svojih vršnjaka iz Evrope – na prošlom 437 bodova a prosek zemalja OECD je 500, što otprilike znači da naši đaci kasne dve škoslke godine. Neadekvatno enciklopedijsko znanje i nepoznavanje kako se primenjuje u praksi je nešto što se ne može sakriti. O tome da je naš državni sistem obrazovanja skup i neefikasan sam već pisao <a href="http://www.kontrolor.rs/analize/ko-nam-krade-po-dve-skolske-godine"> ovde </a>.<br/>
 Ali koliko zapravo košta obrazovanje jednog osnovca u Srbiji? I koji sve troškovi treba da se uzmu u obzir da bi se ta cifra realno izračunala? I da li je ta cifra adekvatna? O tome se u javnosti uopšte ne govori, osim da najveći deo novca odlazi na veliki broj zaposlenih u sistemu. Ovaj tekst ima za cilj da pokaže tačno koliki su troškovi ”besplatnog” obrazovanja.<br/>
 Prva cifra koju treba uzeti u obzir su troškovi Ministarstva prosvete za osnovno obrazovanje iz ovogodišnjeg Zakona o budžetu. Ona iznosi 63 938 057 000 RSD. Ova cifra podrazumeva realizaciju nastave, organizaciju takmičenja osnovaca, unapređenje infrastrukture osnovnih škola i stručno usavršavanje zaposlenih. Ukupan broj osnovaca u Srbiji u ovoj školskoj godini je 565 199 (prema Republičkom zavodu za statistiku). Prostim deljenjem ova dva broja dobijamo zapanjujuću cifru od 113 125 RSD, što prema trenutnom kursu iznosi oko 988 evra. Ovo je cifra koja odgovara većem broju školarina na državnim ili privatnim fakultetima Međutim, ovo nisu svi troškovi.<br/>
