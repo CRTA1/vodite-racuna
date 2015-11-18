@@ -66,3 +66,18 @@ ol.progtrckr li.progtrckr-todo:before {
         margin-top: 50px;
         text-align: justify;
     }
+.textstyle-p{
+        margin-bottom: 50px;
+        margin-top: 30px;
+        text-align: justify;
+    }
+.img-post-pad{
+    position: absolute;
+    margin-top: 35px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-title-p{
+    font-size: 15px;
+}
