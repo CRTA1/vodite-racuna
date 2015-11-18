@@ -6,11 +6,13 @@ description: ""
 ---
 
 **P.**
+
 <div class="justify">
 Da li je moguće otvoriti kancelarije – ili za početak odrediti poverenike za svaki okrug u Srbiji, koji će pratiti investicije i trošenje budžetskih sredstava lokalnih samouprava i budžetskih korisnika; i izveštavati o tome?</div>
 
 
 **O.**
+
 <div class="justify">
 Prema Zakonu o budžetskom sistemu, budžetski sistem čine budžet Republike Srbije, budžeti lokalne vlasti i finansijski planovi organizacija za obavezno socijalno osiguranje.<br/>
 Prema Ustavu i zakonu najviši državni organ revizije javnih sredstava u Republici Srbiji je Državna revizorska institucija, kao samostalan i nezavisan državni organ, koji je
