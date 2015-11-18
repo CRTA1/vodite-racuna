@@ -12,6 +12,8 @@ Koliko se novca iz budžeta izdvaja za Upravu za izvršenje krivičnih sankcija?
 
 
 **O:**
+
+
 <div class="justify">
 Zatvorski sistem Srbije košta državu 60 miliona evra godišnje, a pojedinačni zatvorenik  1.600 dinara dnevno, izuzev ukoliko su u pitanju maloletna lica, kada troškovi rastu zbog broja stručnjaka uključenih u rad sa njima. Upravi za izvršenje krivičnih sankcija je, da budemo precizni, Zakonom o budžetu za 2013. godinu iz državne kase namenjeno 7,671,902,000 RSD.  Ova Uprava ima još dva izvora finansiranja, pobrojana u Zakonu o budžetu: još 571.716.000 RSD se vodi kao sopstveni prihodi budžetskih korisnika i 2.211.000 dobija kroz donacije međunarodnih organizacija, što ukupno čini 8.245.829.000 RSD.<br/>
 Iz državnog budžeta 60 miliona evra godišnje se troši na održavanje zgrada, ishranu i higijenu osuđenika, plate zaposlenih, grejanje, i sve drugo što je neophodno za funkcionisanje  sistema u kome živi 10.600 lica lišenih slobode i radi 4.300 zaposlenih, među kojima su među najbrojnijima stražari.<br/>
