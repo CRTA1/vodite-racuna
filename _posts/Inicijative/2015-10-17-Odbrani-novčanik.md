@@ -3,7 +3,7 @@ layout: post
 title: "Odbrani novčanik"
 categories: inicijative
 img_url: /img/inicijative/pic14.jpg
-description: "Fiskalna koalicija „Odbrani novčanik“ – alijansa koja okuplja organizacije sa sličnim ciljevima kao što su niži porezi, manja javna potrošnja i obuzdavanje rasta javnog duga. Osnovni zahtevi Fiskalne koalicije izneti su u Povelji poreskih obveznika koja se nalazi na našem sajtu <a href="http://www.odbraninovcanik.rs/">www.odbraninovcanik.rs</a> Fiskalna koalicija je nova vrsta pokreta u Srbiji koja se zalaže ne samo"
+description: "Fiskalna koalicija 'Odbrani novčanik' – alijansa koja okuplja organizacije sa sličnim ciljevima kao što su niži porezi, manja javna potrošnja i obuzdavanje rasta javnog duga."
 ---
 
 
