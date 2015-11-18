@@ -88,7 +88,7 @@ Organi opštine su: skupština opštine, predsednik opštine, opštinsko veće i
 Gradovi i opštine radi obavljanja svojih poslova za zadovoljavanje potreba lokalnog stanovništva mogu da osnivaju preduzeća, ustanove i druge organizacije koje vrše pojedine poslove iz nadležnosti lokalne samouprave, kao što su: ustanove kulture, predškolske ustanove, ustanove dečije i socijalne zaštite, zatim javna komunalna preduzeća, direkcije i slično.</div> 
 
 ## Grafikon 1. STRUKTURA LOKALNE SAMOUPRAVE
-![STRUKTURA-LOKALNE-SAMOUPRAVE.png]({{site.baseurl}}/pages/STRUKTURA-LOKALNE-SAMOUPRAVE.png)
+![STRUKTURA-LOKALNE-SAMOUPRAVE.png]({{site.baseurl}}/img/STRUKTURA-LOKALNE-SAMOUPRAVE.png)
 
 <div class="justify">
 <b>Skupština opštine</b> je najviši organ opštine koji vrši lokalnu vlast.Skupštinu opštine čine odbornici, koje biramo na neposrednim izborima. Odbornici su naši izabrani predstavnici kojima poveravamo vršenje vlasti, tj.rad na uređenju javnih poslova za ostvarenje opštih interesa naše lokalne zajednice. 
@@ -99,7 +99,7 @@ Skupština opštine upravlja finansijama opštine, donosi budžet i završni ra�
 <br/>
 Skupština opštine osniva službe, javna preduzeća, ustanove i organizacije, utvrđene statutom opštine i vrši nadzor nadnjihovim radom. <br/>
 Sednice skupštine opštine su javne, što nam ostavlja mogućnost da pratimo rad Skupštine i delovanje naših izabranih predstavnika.<br/></div>
-![skupstina-dono.png]({{site.baseurl}}/pages/skupstina-dono.png)
+![skupstina-dono.png]({{site.baseurl}}/img/skupstina-dono.png)
 
 <div class="justify">
 Skupština opštine osniva stalna ili povremena radna tela. Ova radna tela bi trebalo da imaju savetodavnu ulogu prilikom razmatranja pitanja iz različitih oblasti (npr. finansije, zapošljavanje, urbanizam, poljoprivreda, omladinska politika, sport, zdravstvo i slično).Broj radnih tela, izbor, prava i dužnosti članova radnih tela definišu se statutom opštine.U rad radnih tela moguće je uključivanje stručnjaka iz oblasti rada radnih tela.

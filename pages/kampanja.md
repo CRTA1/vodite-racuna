@@ -202,7 +202,7 @@ Da bi poruka bila uspešna potrebno je da ima sledeće osobine:
 <br/> </div>
 
 
-![Screenshot 2015-09-30 18.08.37.png]({{site.baseurl}}/pages/Screenshot 2015-09-30 18.08.37.png)
+![Screenshot 2015-09-30 18.08.37.png]({{site.baseurl}}/img/Screenshot 2015-09-30 18.08.37.png)
 
 <br/>
 
@@ -217,7 +217,7 @@ Uspešno javno zastupanje zavisi od veštine ubeđivanja i/ili vršenja pritiska
 <b>Strateška komunikacija</b> je svaka planirana aktivnost komunikacije koja ima za cilj da pokrene akicju kroz sledeće korake: informisati, ubediti, motivisati i pokrenuti na akciju.
 <br/></div>
 
-![Screenshot 2015-09-30 18.03.15.png]({{site.baseurl}}/pages/Screenshot 2015-09-30 18.03.15.png)
+![Screenshot 2015-09-30 18.03.15.png]({{site.baseurl}}/img/Screenshot 2015-09-30 18.03.15.png)
 
 <br/>
 

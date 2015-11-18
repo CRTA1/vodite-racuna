@@ -52,7 +52,7 @@ Nakon detaljne analize tim za budžetsko zastupanje predlaže set aktivnosti usm
 
 
 DRUŠTVENI BAROMETAR
-![social-barometer.png]({{site.baseurl}}/pages/social-barometer.png)
+![social-barometer.png]({{site.baseurl}}/img/social-barometer.png)
 
 <br/>
 

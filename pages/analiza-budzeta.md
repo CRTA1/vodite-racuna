@@ -39,8 +39,8 @@ Struktura budžeta propisana je Zakonom o budžetskom sistemu. Budžet sadrži o
 Radi lakšeg razumevanja navedenih pojmova, analiziraćemo poseban deo budžeta na primeru koji sledi. </div>
 
 PRIMER: Izvod iz posebnog dela budžeta grada sa programskom strukturom
-![analiza-budzeta]({{site.baseurl}}/pages/analiza-budzeta-1.png)
-![analiza-budzeta]({{site.baseurl}}/pages/analiza-budzeta-2.png)
+![analiza-budzeta]({{site.baseurl}}/img/analiza-budzeta-1.png)
+![analiza-budzeta]({{site.baseurl}}/img/analiza-budzeta-2.png)
 
 <div class="justify">
 <b>Organizaciona klasifikacija</b> nam pokazuje <b>KO</b> su korisnici budžetskog novca. Organizaciona klasifikacija se označava brojem razdela i glave u budžetu i nazivom korisnika. U našem primeru, u razdelu broj 4, glava broj 1, iskazani su rashodi gradske uprave. Dakle, svi rashodi navedeni u datom razdelu i glavi odnose se na rashode koji su planirani za obavljanje određenih poslova gradske uprave.  
@@ -85,7 +85,7 @@ Na kraju, istražujemo na kojim konkretno aproprijacijama (ekonomska klasifikaci
 U nastavku dajemo tabelu koja može biti korisna za učesnike u budžetskom zastupanju a u fazi razumevanja funkcije i oblasti u kojoj se nalazi definisani problem i u kojoj je moguće zahtevati budžetsku promenu.
 </div>
 **Tabela - Veza izmedju programa, sektora i funkcionalne klasifikacije**
-![veza-izdemju-programa.png]({{site.baseurl}}/pages/veza-izdemju-programa.png)
+![veza-izdemju-programa.png]({{site.baseurl}}/img/veza-izdemju-programa.png)
 
 <div class="justify">
 <b>Sredstva rezervi</b>
