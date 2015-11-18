@@ -13,6 +13,7 @@ Vlada Srbije je od 2006. godine do danas u  nekoliko navrata omogućila Rudarsko
 
 
 **O:**
+
 <div class="justify">
 Vlada Srbije je od 2006. godine do danas u  nekoliko navrata omogućila Rudarskom basenu “Kolubara” i termoelektrani “Kolubara B”, koji posluju u sastavu EPS-a, da dobiju državnu pomoć, što prema mišljenju stručnjaka, može da predstavlja kršenje propisa EU. Srbija je obezbedila državnu pomoć RB Kolubara i TE “Kolubara B” prepisujući im zemljište i objekte, ali i tako što je dala garancije za bankarske kredite u ukupnoj vrednosti od 154 miliona evra. Problem sa državnom pomoći u sektoru energetike je, kako objašnjavaju stručnjaci, u tome što se ona mora posmatrati u kontekstu regulative EU koja zabranjuje koncentraciju i monopolizaciju.<br/>
 „Prema Ugovoru o osnivanju EU obavezno je da se sve prakse i ponašanja na tržištu barem razmatraju i da se o njihovim posledicama i uticajima govori imajući u vidu veliki broj aspekata. Jedan od najvažnijih principa je svakako da se o državnoj pomoći mora detaljno izvestiti. Međutim, kada pričamo o „Kolubari“ i EPS-u, oni uopšte nisu u obavezi da izveštavaju o državnoj pomoći. Neverovatno je da se uopšte ne razmatraju razni oblici direktnih i indirektnih transakcija koje se daju EPS-u ili njihovim ćerkama kompanijama, kaže za Istinomer Zvezdan Kalmar, koordinator za energiju i transport Centra za ekologiju i održivi razvoj (CEKOR).” <br/>

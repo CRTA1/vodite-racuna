@@ -7,11 +7,13 @@ description: "U Novom Sadu postoji priča o “Brodu teatru”, koja nije do kra
 ---
 
 **P:**
+
 <div class="justify">
 U Novom Sadu postoji priča o “Brodu teatru”, koja nije do kraja ispričana. To je još jedan u nizu projekata koji je pojeo “brdo” naših para i sada leži nezavršen na doku brodogradilišta. Da li biste mogli ovo da istražite?. </div>
 
 
 **O:**
+
 <div class="justify">
 Projekat “Brod teatar plovnim putevima Vojvodine”, koji je zaista imao potencijal da postane značajan deo kulturne scene Vojvodine, umesto da se izrodi u privlačan koncept, pretvorio se zbog ogromnih probijanja vremenskih rokova, ali i novčanih okvira, u izgradnju Skadra na Bojani, koju prate i izvesne pravne i finansijske nepravilnosti.<br/>
 Brod koji je trebalo da postane ploveće pozorište Izvršno veće Vojvodine kupilo je maja 2007. godine od jedne segedinske brodovlasničke firme za 5.000.000,00 dinara (što je po prodajnoj listi NBS na dan 24. 5. 2007. u evrima iznosilo 61.200,93, 1 dinar = 81,6981 evro).<br/>

@@ -11,6 +11,7 @@ description: "Istraživali smo koliko košta jedna plata, odnosno šta sve ulazi
 Istraživali smo koliko košta jedna plata, odnosno šta sve ulazi u jednu neto platu
 
 **O:**
+
 <div class="justify">
 Svi znamo da deo naše plate odlazi na porez, doprinose za penzijsko i invalidsko osiguranje, zdravstveno osiguranje i osiguranje za slučaj nezaposlenosti, ali nismo sigurni koliki je stvarni trošak naše plate, tj. koliko iznosi bruto plata. Ovo ćemo pokazati na konkretnom primeru, ali pre toga treba da odgovorimo na pitanje šta sve ulazi u jednu neto platu?<br/>
 <ul>

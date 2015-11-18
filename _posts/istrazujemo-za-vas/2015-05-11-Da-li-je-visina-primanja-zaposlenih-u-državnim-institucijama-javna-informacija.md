@@ -7,11 +7,13 @@ description: "Da li je visina primanja zaposlenih u državnim institucijama javn
 ---
 
 **P:**
+
 <div class="justify">
 Da li je visina primanja zaposlenih u državnim institucijama javna informacija? Ako je javna, koji je mehanizam dostupan zainteresovanoj javnosti kada republička institucija o kojoj je reč odbija da dostavi informaciju o tome kako raspoređuje budžetska sredstva koja su joj na raspolaganju za lične dohotke zaposlenih. Konkretno, odgovor institucije na pitanje “Kolike su plate rukovodilaca i pojedinih zaposlenih?” glasi – “Ne možemo da vam kažemo, doneli smo sopstveni pravilnik po kojem je to tajna”.</div>
 
 
 **O:**
+
 <div class="justify">
 Shodno Zakonu o slobodnom pristupu informacijama od javnog značaja („Službeni Glasnik RS“ broj 120/04, 54/07, 104/09 I 36/10 ) informacija od javnog značaja je informacija kojom raspolaže organ javne vlasti, nastala u radu ili u vezi sa radom organa javne vlasti, sadržana u određenom dokumentu, a odnosi se na sve ono o čemu javnost ima opravdan interes da zna.<br/>
 Da bi se neka informacija smatrala informacijom od javnog značaja nije bitno da li je izvor informacije organ javne vlasti ili neko drugo lice, nije bitan nosač informacija (papir, traka, film, elektronski mediji i slično) na kome se nalazi dokument koji sadrži informaciju, datum nastanka informacije, način saznavanja informacije, niti su bitna druga slična svojstva informacije.<br/>

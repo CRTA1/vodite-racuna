@@ -12,6 +12,7 @@ Zašto Užičani i dalje nemaju otvoreni bazen, kada su i ove i prošle godine u
 
 
 **O:**
+
 <div class="justify">
 Gradske vlasti Užica pokrenule su prošle godine proces otkupa otvorenog bazena u Sevojnu. Taj objekat bio je prethodno u privatnom vlasništvu, ali je zbog nevraćenog kredita i aktivirane hipoteke, prešao u vlasništvo nadležne banke.<br/>
 Vrednost bazena je procenjena na oko 20 miliona dinara, a formirana je gradska komisija zadužena za pregovore o kupovini. Za otkup bazena u Sevojnu vlasti u Užicu su u budžetu za ovu godinu predvidele devet miliona dinara.<br/>

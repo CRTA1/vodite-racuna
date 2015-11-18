@@ -7,10 +7,12 @@ description: "Kako se dele sredstva od poreza na zarade, poreza na nasleđe i po
 ---
 
 **P:**
+
 <div class="justify">
 Kako se dele sredstva od poreza na zarade, poreza na nasleđe i poklon i kako se raspolaže novcem dobijenim od lokalnih komunalnih taksi, između Beograda i opština?</div>
 
 **O:**
+
 <div class="justify">
 Koliko od poreza koji se skupe u Beogradu odlazi gradu a koliko ostaje opštini određuje Skupština grada. Na osnovu te odluke raspodeljuje se novac koji se dobija od lokalnih komunalnih taksi, od poreza na zarade, od poreza za nasleđa i poklon, od naknade za korišćenje građevinskog zemljišta…<br/>
 Zanimljivo je da procenat raspodele tih sredstava nije isti za sve opštine. Pa tako, neke opštine procentualno dobijaju više sredstava od nekih poreza u odnosu na druge opštine. Kod raspodele novca od poreza na zarade opština Novi Beograd dobija samo 4 odsto, dok Beogradu ide 96 odsto. Zemun dobija oko pet, slično kao i Palilula. Međutim, opštini Sopot ostaje čak 91 odsto sredstava dobijenih od poreza na zarade a gradu ide samo 9 odsto. Dobar deo ovog prihoda ostaje i u Barajevu – 85 odsto i Surčinu – oko 80 odsto. (Videti Tabelu 1)<br/>

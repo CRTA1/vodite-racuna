@@ -7,11 +7,13 @@ description: "Već nekoliko godina se ne poštuje budžetski kalendar propisan Z
 ---
 
 **P:**
+
 <div class="justify">
 Već nekoliko godina se ne poštuje budžetski kalendar propisan Zakonom o budžetskom sistemu. Istraživali smo kako to utiče na donošenja budžeta lokalnih samouprava</div>
 
 
 **O:**
+
 <div class="justify">
 Lokalne samouprave će i ove godine morati na brzinu da donose budžete za 2014. godinu. Iako je Ministarstvo finansija bilo u obavezi da do 5. jula dostavi upustva za pripremu budžeta lokalnih vlasti, to još nije učinjeno.<br/>
 Naime, u okviru Zakona o Budžetskom sistemu postoji budžetski kalendar kojim su precizno definisani rokovi za sprovođenje aktivnosti na pripremi i usvajanju budžeta.

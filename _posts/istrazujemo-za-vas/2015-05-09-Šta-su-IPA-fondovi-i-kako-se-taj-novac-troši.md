@@ -11,6 +11,8 @@ description: "Političari stalno govore o IPA fondovima iz EU. Šta su IPA fondo
 Političari stalno govore o IPA fondovima iz EU. Šta su IPA fondovi i kako se taj novac troši?
 
 **O:**
+
+
 <div class="justify">
 Sredstvima iz IPA pretpristupnih fondova Evropska unija finansira konkretne projekte, kako bi pomogla Srbiji da u procesu pridruživanja EU izgradi svoje kapacitete neophodne za puno članstvo. Finansirani projekti usmereni su na niz različitih oblasti – od reforme funkcionisanja državne administracije, podrške u borbe protivi korupcije, pa sve do velikih infrastrukturnih projekata širom Srbije, poput obnove Žeželjevog mosta u Novom Sadu.
 U poslednje tri godine, Srbija je iz IPA fondova dobila približno 525.000.000 EUR (Zakon o budžetu 2011,2012 i 2013).<br/>

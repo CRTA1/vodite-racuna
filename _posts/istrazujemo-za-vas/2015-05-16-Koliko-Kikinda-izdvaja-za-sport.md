@@ -13,6 +13,7 @@ Toliko se priča o tome da smo zemlja sportista i sport igra značajnu ulogu u n
 Mirе, Kikinda
 
 **O:**
+
 <div class="justify">
 Sportski omladinski klubovi u Kinkindi su tokom 2012. godine iz opštinskog budžeta dobili ukupno 69.541.793 dinara. Ovo su podaci koje smo dobili od Trezora opštine Kikinda, na osnovu Zakona o dostupnosti informacijama od javnog značaja. Ukupna suma raspoređena je na brojne klubove, a najveća iznos – skoro pet i po miliona dinara – dodeljen je Vaterpolo klubu Žak (vidi tabelu ispod).<br/>
 Sport se finansira u okviru budžetske linije „dotacije nevladinim organizacijama“. U okviru ove budžetske stavke se finansiraju i verske zajednice, političke partije, sportske i omladinske organizacije i ostale nevladine organizacije. U 2013. je za ovu liniju u budžetu opštine Kikinda izdvojeno ukupno 134.710.000 miliona dinara. Tačni podaci o tome koliko je novca od ove sume otišlo sportskim omladinskim organizacijama biće dostupni tek nakon završetka fiskalne godine, 31. decembra 2013. godine.<br/>

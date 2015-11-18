@@ -12,6 +12,7 @@ description: " Vlada Srbije omogućila je da Privredno društvo “Termoelektran
 
 
 **O:**
+
 <div class="justify">
 Vlada Srbije omogućila je da Privredno društvo “Termoelektrane i kopovi Kostolac” (PD TE-KO) od 2006. godine do danas dobije državnu pomoć preko državnih garancija za kredite, ali i preko oslobađanja od plaćanja carine i PDV-a za uvoz i promet dobara i usluga za projekat izgradnje pristaništa na Dunavu, kao i za izgradnju železničke infrastrukture.<br/>
 Vlada Srbije je u decembru 2011. godine dala PD “Kostolac” državnu podršku kada je potpisala ugovor o zajmu sa kineskom Eksport-import (Eksim) bankom u iznosu od 293 miliona dolara. Ovaj kredit je uzet za revitalizaciju postojećih blokova B1 i B2 u termoelektrani “Kostolac”, izgradnju postrojenja za odsumporavanje, izgradnju pristaništa na Dunavu i izgradnju železničke infrastrukture. Ukupna vrednost radova u ovoj fazi je 334,63 miliona dolara, a kineska Eksim banka finansira 85 odsto vrednosti (293 miliona dolara).<br/>

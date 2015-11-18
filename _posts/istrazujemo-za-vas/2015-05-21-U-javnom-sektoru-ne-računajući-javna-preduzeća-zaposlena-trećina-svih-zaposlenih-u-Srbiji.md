@@ -3,7 +3,7 @@ layout: post
 title:  "U javnom sektoru, ne računajući javna preduzeća, zaposlena trećina svih zaposlenih u Srbiji"
 categories: istrazujemo-za-vas
 img_url: /img/istražujemo-za-vas/pic11.jpg
-description: "Koliko ima zaposlenih u javnom sektoru, pita Mladen iz Kragujevca.
+description: "Koliko ima zaposlenih u javnom sektoru, pita Mladen iz Kragujevca.Prema podacima do kojih je došao portal Vodite računa više od polovine žitelja Srbije živi na državnom budžetu. U ovu kategoriju spadaju  zaposleni u državnoj upravi, vojsci, policiji, školstvu, zdravstvu, pravosuđu, u republičkim ili lokalnim javnim preduzećima, korisnici neke vrste socijalnih davanja ili penzija."
 "
 ---
 
@@ -13,6 +13,7 @@ Koliko ima zaposlenih u javnom sektoru, pita Mladen iz Kragujevca.
 
 
 **O:**
+
 <div class="justify">
 Prema podacima do kojih je došao portal Vodite računa više od polovine žitelja Srbije živi na državnom budžetu. U ovu kategoriju spadaju  zaposleni u državnoj upravi, vojsci, policiji, školstvu, zdravstvu, pravosuđu, u republičkim ili lokalnim javnim preduzećima, korisnici neke vrste socijalnih davanja ili penzija.<br/>
 Država najdirektnije finansira oko 3,7 miliona ljudi, što je nešto više od polovine ne samo od punoletnog, već i ukupnog stanovništva. Prema podacima Republičkog zavoda za statistiku, u obrazovanju je zaposleno oko 120.000 ljudi (ako se izuzmu oni iz privatnih škola i vrtića), a u zdravstvu i socijalnoj zaštiti oko 140.000. U državnoj upravi, odbrani i obaveznom socijalnom osiguranju još 120.000. Konkretnije, u vojsci i policiji radi oko 85.000 ljudi, u Vladi, ministarstvima, upravama, direkcijama i agencijama oko 28.000, u lokalnoj samoupravi oko 23.000. Nacionalna služba za zapošljavanje, sve sa podružnicama, zapošljava više od 2.000 ljudi, a PIO fond više od 3.500.<br/>

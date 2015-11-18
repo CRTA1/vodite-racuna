@@ -11,6 +11,7 @@ description: "Da li su naučnici koji protestima upozoravaju na propast domaće 
 Da li su naučnici koji protestima upozoravaju na propast domaće nauke u pravu kada kažu da su izdvajanja za nauku drastično smanjena? Da li je istina da u nauku ulažemo manje od svih?
 
 **O:**
+
 <div class="justify">
 Tvrdnje naučnih radnika su tačne. Naime, novac predviđen za finansiranje nauke je budžetom za 2013. smanjen za više od pet milijardi dinara, da bi rebalansom budežeta usvojenim u julu ove godine ovaj iznos bio dodatno smanjen za 1.398.348.000 dinara. Za nauku je sada predviđeno ukupno 13.666.983.000 dinara.<br/>
 Vlada Republike Srbije usvojila je 25 februara 2010. godine strategiju naučno tehnološkog razvoja za period od 2010 do 2015. Međutim, posmatrajući iznose predviđene za finansiranje naučnoistraživačke delatnosti u budžetima prethodnih godina, očigledno je da smo jos uvek daleko od tog cilja.<br/></div>

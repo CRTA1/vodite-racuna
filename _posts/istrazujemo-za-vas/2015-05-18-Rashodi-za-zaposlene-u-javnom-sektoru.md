@@ -7,10 +7,12 @@ description: "Broj zaposlenih i izdvajanja za zaposlene u javnom sektoru česta 
 ---
 
 **P:**
+
 <div class="justify">
 Broj zaposlenih i izdvajanja za zaposlene u javnom sektoru česta su tema u Srbiji. Iz nekih izjava ministra finansija i mnogih drugih članova Vlade može se zaključiti da se ne raspolaže preciznim podacima o broju zaposlenih u javnom sektoru.</div>
 
 **O:**
+
 <div class="justify">
 Da bi utvrdili bar deo izdvajanja za zaposlene u javnom sektoru, napravili smo pregled sredstava koje su Grad Beograd, Novi Sad, Niš, Kragujevac, Čačak i Užice planirali da potroše za primanja zaposlenih u poređenju sa ukupnim sredstvima koja su planirana budžetima ovih gradova za 2013. godinu. Takođe dajemo i podatke o visini budžeta po stanovniku u ovim gradovima.<br/>
 Napominjemo da smo ovde izdvojii samo one rashode za zaposlene koji su tako iskazani u budžetima gradova (plate, socijalni doprinosi, naknade troškova za zaposlene, socijalna davanja i nagrade zaposlenima i odborničiki/poslanički dodatak), a da u ove iznose nisu uvršćeni ostali rashodi koji se mogu odnositi na zaposlene (npr. Rashodi za službena putovanja, Rashodi za stručna usavršavanja zaposlenih i sl.), kao ni rashodi koji vrlo često odlaze na dodatno angažovanje lica u gradovima i opštinama putem Ugovora o delu (npr. Usluge po ugovoru, specijalizovane usluge i sl.). Ovo napominjemo zbog činjenice da u javnom sektoru u Srbiji, pored prikazanog broja zaposlenih i izdataka za njihove plate koji se mogu utvrditi analizom budžeta i Završnih računa, postoje i drugi troškovi koji odlaze na angažovanje dodatnog broja lica odnosno njihova primanja, pa je samim tim broj onih koji su angažovani u javnoj sektoru, kao i izdaci koji se odnose na njihovo angažovanje, veći od iznosa koji se prikazuje.<br/></div>

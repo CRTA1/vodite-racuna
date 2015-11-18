@@ -11,6 +11,8 @@ description: ""
 
 
 **O:**
+
+
 <div class="justify">
 Iz predpristipnih (IPA) fondova, Evropska unija finansira projekat “Jačanje zaštite potrošača u Srbiji”. Korisnik projekta je Odeljenje za zaštitu potrošača u okviru Ministarstva spoljnje i unutrašnje trgovine I telekomunikacija.<br/>
 Cilj projekta je unapređenje zaštite prava i interesa potrošača u Srbiji u skladu sa pravnim tekovinama EU.<br/>

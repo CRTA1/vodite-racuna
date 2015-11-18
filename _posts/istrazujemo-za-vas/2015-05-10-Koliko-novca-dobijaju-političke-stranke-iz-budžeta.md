@@ -12,6 +12,8 @@ Koliko novca dobijaju političke stranke iz budžeta?
 
 
 **O:**
+
+
 <div class="justify">
 Finansiranje političkih stranaka iz državnog budžeta je utvrđeno Zakonom o finansiranju političkih stranka i predviđa da se za redovno finansiranje parlamentarnih stranaka iz budžeta Republike odvaja 0,15% sredstava, (umanjenog za transfere drugim nivoima vlasti i organizacijama obaveznog socijalnog osiguranja). To je, dakle, novac koji je namenjen redovnom funkcionisanju stranaka koje su kroz reprezentaciju u parlamentu potvrdile da imaju podršku relevantnog dela javnosti. Ova suma nije namenjena izbornim troškovima niti platama poslanika,  putnim troškovima i slično, nego se njime obezbeđuje redovan rad samih stranaka.<br/>
 Trideset odsto tog novca se raspoređuje u jednakim iznosima političkim strankama koje imaju poslanike, a ostalih sedamdeset odsto – srazmerno broju poslaničkih mesta, što znači da partije koje imaju najviše predstavnika u parlamentu dobijaju i najviše novca iz budžeta za svoje funkcionisanje.<br/>
