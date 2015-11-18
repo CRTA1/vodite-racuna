@@ -81,3 +81,14 @@ ol.progtrckr li.progtrckr-todo:before {
 .text-title-p{
     font-size: 15px;
 }
+
+.text-title-footer{
+    font-size: 11px !important;
+}
+.site-title-header{
+    font-size: 19px !important;
+}
+
+.site-title-social{
+    font-size: 10px !important;
+}
