@@ -3,7 +3,7 @@ layout: post
 title:  "Koliko koštaju putovanja pančevačkih opštinara?"
 categories: istrazujemo-za-vas
 img_url: /img/istražujemo-za-vas/pic25.jpg
-description: "Koliko nas, građane Pančeva koštaju službena putovanja naših opštinara?"
+description: "Koliko nas, građane Pančeva koštaju službena putovanja naših opštinara? Odlukom o budžetu grada Pančeva za 2013. godinu, za ovu namenu izdvojeno je ukupno 10.806.912 RSD što je nešto manje od 0,22% ukupnog budžeta Pančeva. Rebalansom budžeta koji je usledio u maju 2013, izdvojena suma neznatno je smanjena i predviđa 10,711,747 RSD."
 ---
 
 **P:**
