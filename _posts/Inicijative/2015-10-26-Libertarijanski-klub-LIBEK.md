@@ -7,7 +7,7 @@ description: "Libek (libek.org.rs) je obrazovni centar i organizacija koja se ja
 ---
 
 <div class="justify">
-Libek (<a href="https://libek.org.rs/sr">libek.org.rs</a>) je obrazovni centar i organizacija koja se javno zalaže za tržišne reforme i vladavinu prava od 2008. godine. Libek je od samog osnivanja počeo da održava različite obrazovne programe za srednjoškolce, studente i angažovane građane.
+Libek (<a href="https://libek.org.rs/sr" target="_blank">libek.org.rs</a>) je obrazovni centar i organizacija koja se javno zalaže za tržišne reforme i vladavinu prava od 2008. godine. Libek je od samog osnivanja počeo da održava različite obrazovne programe za srednjoškolce, studente i angažovane građane.
 <br/><br/>
 Od prošle godine počeli smo da se bavimo i konkretnim predlozima političkih i ekonomskih promena u Srbiji. Kao centralna organizacija Fiskalne koalicije, aktivno smo učestvovali u pripremi i sprovođenju prvog Marša poreskih obveznika u Srbiji.
 <br/><br/>

@@ -49,14 +49,6 @@ lead: true
 </div>
 </div>
 
-<style>
-.bigicon {
-    font-size: 26px;
-    color: #0D3E1E;
-    float: right;
-}
-</style>
-
 <!-- Contact Form - END -->
 
 </body>

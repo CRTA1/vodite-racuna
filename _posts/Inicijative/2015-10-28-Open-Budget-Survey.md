@@ -9,5 +9,5 @@ description: "Open Budget Survey je uporedna analiza i ispitivanje koje ocenjuje
 <div class="justify">
 Open Budget Survey je uporedna analiza i ispitivanje koje ocenjuje da li vlade dozvoljavaju javni pristup budžetskim informacijama i daju priliku javnosti da učestvuje u procesu donošenja budžeta na nacionalnom nivou. Takođe, ova analiza procenjuje kapacitete i nezavisnost zvaničnih nadzornih institucija
 <br/><br/>
-<a href="http://survey.internationalbudget.org/#profile/RS">http://survey.internationalbudget.org/#profile/RS </a><br/>
+<a href="http://survey.internationalbudget.org/#profile/RS" target="_blank">http://survey.internationalbudget.org/#profile/RS </a><br/>
 </div>
