@@ -832,7 +832,7 @@ body:not( .filters ) {
   background-color: rgba( #fff, .95 );
   border-top:solid 1px $medium-gray;
   text-align:right;
-  height:60px;
+  height:160px !important;
   line-height:59px;
 
   & > ul {
@@ -841,8 +841,9 @@ body:not( .filters ) {
     text-align:left;
 
     & > li {
-      float:left;
+      float:left !important;
       display:block;
+      padding-bottom:$base-spacing !important;
       padding-left:$base-spacing;
       padding-right:$base-spacing;
       border-color:$medium-gray;
@@ -859,8 +860,8 @@ body:not( .filters ) {
       }
 
       .tooltip {
-        width:230px;
-        bottom: 60px;
+        width:470px;
+        bottom: 100px;
       }
 
       &:hover {
@@ -924,8 +925,8 @@ body:not( .filters ) {
           content: "\e601";
           font-size:rem(18);
           float:left;
-          margin-top:21px;
-          margin-right:5px;
+          margin-top:23px;
+          margin-right:9px;
         }
 
         a {
