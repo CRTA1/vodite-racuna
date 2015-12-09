@@ -3,7 +3,7 @@ title: Vodite računa
 short_title: Vodite računa
 description: |
     Portal su pokrenuli Centar za razvoj neprofitnog sektora (CRNPS) i Centar za istraživanje, transparentnost i odgovornost, (CRTA), i ima za cilj da ohrabri građane, medije i sve zainteresovane da razumeju pitanja budžeta i da vode računa o tome kako vlasti upravljaju javnim sredstvima. 
-baseurl: "http://crtarsorg.github.io/vodite-racuna"
+baseurl: ""#http://crtarsorg.github.io/vodite-racuna"
 url: "http://crtarsorg.github.io/vodite-racuna" # the base hostname & protocol for your site
 github_username:  crtarsorg
 author: Open Data Kosovo
