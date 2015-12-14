@@ -120,7 +120,7 @@ table, th, td {
 }
 @media(max-width: 400px){
     .img-width{
-    margin-top: 20px !important;
+    margin-top: 18px !important;
     width:70px !important;
     height:30px !important;
 }
@@ -128,7 +128,7 @@ table, th, td {
 
 @media(max-width: 600px){
     .img-width{
-    margin-top: 25px !important;
+    margin-top: 23px !important;
     width:70px !important;
     height:30px !important;
 }
