@@ -1721,10 +1721,10 @@ html.mm-background .mm-page,
 ;
 
 
-@media only screen and (min-width : 576px) {
+@media only screen and (min-width : 600px) {
 
   .ok-ribbon {
-    position:absolute;
+    position:absolute !important;
   }
 }
 
