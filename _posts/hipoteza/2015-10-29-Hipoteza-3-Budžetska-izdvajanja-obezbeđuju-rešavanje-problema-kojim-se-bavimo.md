@@ -4,12 +4,6 @@ title:  "Hipoteza 3 –Budžetska izdvajanja obezbeđuju rešavanje problema koj
 categories: hipoteza
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
 <div class="justify">
 <b>Uspeli smo da se izborimo za stavku u budžetu još 2003. godine kada su nam odobrili 10 miliona dinara za projekte za mlade. I u planu za 2014. i dalje imamo istih 10 miliona dinara za projekte, ali se danas može sa tim novcem uraditi mnogo manje.<br/>
 Koliko bi trebalo da tražimo da se izdvaja u 2014. godini za projekte za mlade kako bismo mogli da uradimo isti posao kao 2003. godine?<br/><br/>
@@ -212,3 +206,11 @@ Kako proveriti ovu hipotezu?
 	4. Ukoliko je iznos z din isti ili veći od x din, grad ili opština će moći da urade za našu korisničku grupu isti ili veći set usluga ove godine
 	
 	5. Ukoliko je iznos z din manji od x din, grad ili opština će moći da učine manje za našu korisničku grupu u odnosu na raniji period.
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>

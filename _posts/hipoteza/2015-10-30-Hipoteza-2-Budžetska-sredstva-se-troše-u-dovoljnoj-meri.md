@@ -4,12 +4,6 @@ title:  "Hipoteza 2 –Budžetska sredstva se troše u dovoljnoj meri"
 categories: hipoteza
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
 <div class="justify">
 <b>Nije dovoljno imati predviđenu stavku za rešavanje „našeg“ problema u budžetu. Potrebno je tu stavku i potrošiti. </b><br/><br/>
 
@@ -73,3 +67,14 @@ Kako proveriti ovu hipotezu?
 	2. Iz Završnog računa grada/opštine uzeti podatak o utrošenim sredstvima za stavku koja nas interesuje (y).
 	3. Izračunati x-y=z. Dobijenu razliku iskoristiti da izračunamo koliko smo mogli da dobijemo npr. stambenih jedinica za socijalno stanovanje po prosečnoj ceni u tom periodu. Osloniti se na rezultate iz hipoteze 1.
 	4. Korisno je uporediti podatke sa drugim opštinama i gradovima kako bi videli da li postoje slični trendovi i u drugim mestima.
+
+
+
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>

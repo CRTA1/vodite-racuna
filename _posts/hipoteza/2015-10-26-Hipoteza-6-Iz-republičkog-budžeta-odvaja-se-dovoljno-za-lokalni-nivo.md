@@ -4,12 +4,6 @@ title:  "Hipoteza 6 – Iz republičkog budžeta odvaja se dovoljno za lokalni n
 categories: hipoteza
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
 <div class="justify">
 <b>Svaka država ima svoj sistem finansiranja lokalnih samouprava. U Srbiji, putem transfera sa centralnog nivoa vlasti, lokalne samouprave dobijaju deo svog prihoda. Taj prihod je izuzetno značajan posebno za opštine koje su slabije razvijene, jer usled manjih privrednih aktivnosti, one teško ostvaruju prihode iz poreza na dobit, poreza na imovina i drugih direktnih prihoda lokalne samouprave.</b> <br/><br/>
 
@@ -69,3 +63,13 @@ Kako proveriti ovu hipotezu?
 	1. Potrebno je samo iz godine u godinu pratiti izdvajanja za transfere ka opštinama i gradovima kako u Zakonu o budžetu Republike Srbije, tako i u završnom računu.
 	
 	2. Kako bismo znali da li su izdvajanja u realnoj vrednosti veća ili manja iz godine u godinu, potrebno je primeniti jednačinu za uračunavanje inflacije koja je predstavljena u hipotezi 3.
+
+
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+<li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>

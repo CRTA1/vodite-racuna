@@ -1,5 +1,5 @@
 ---
-title: Definisanje budžetskog zastupanja i uloga civilnog društv
+title: Definisanje budžetskog zastupanja i uloga civilnog društva
 lead: true
 published: true
 categories: nextprev                        
@@ -25,7 +25,7 @@ $(document).ready(function() {
 <ol class="progtrckr" data-progtrckr-steps="11">
     <a href="{{site.baseurl}}/pages/uvod/">
     <li class="progtrckr-done">1 </li> </a>
-    <a href="{{site.baseurl}}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustv/">
+    <a href="{{site.baseurl}}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/">
     <li class="progtrckr-done">2 </li> </a>
     <a href="{{site.baseurl}}/pages/definicije-osnovnih-pojmova/">
     <li class="progtrckr-todo">3 </li> </a>

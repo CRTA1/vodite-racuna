@@ -3,15 +3,8 @@ layout: post
 title:  "Hipoteza 1 Budžetska sredstva se troše u dovoljnoj meri"
 categories: hipoteza
 ---
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
-
 <div class="justify">
-*Kada želimo da se budžetskim sredstvima rešava neki društveni problem, nije najbitnije boriti se da država/opština odvoji što više para za tu namenu. Podjednako je bitno da zagovaramo da se odobrena sredstva koriste na način koji obezbeđuje najveći učinak, najbolji rezultat za ljude koje zastupamo*
+<b>Kada želimo da se budžetskim sredstvima rešava neki društveni problem, nije najbitnije boriti se da država/opština odvoji što više para za tu namenu. Podjednako je bitno da zagovaramo da se odobrena sredstva koriste na način koji obezbeđuje najveći učinak, najbolji rezultat za ljude koje zastupamo</b>
 
 <br/><br/>
 Sredstva odvojena u budžetima lokalnih samouprava ili Republike Srbije mogu biti opredeljena za potrebe ljudi za koje se i mi zalažemo. Moguće je da se za projekte za mlade odvajaju značajna sredstva, ili pak za pitanje pristupačnosti grada za osobe sa invaliditetom. Svakako, to je već dobro. Ali da li je to dovoljno? 
@@ -86,3 +79,14 @@ Kako proveriti hipotezu?
 	4. Dobijeni rezultat bi trebalo uporediti sa istim rezultatom na nivou prethodnih godina, ili pak na nivou drugih opština ili gradova slične veličine. Tako možemo dobiti podatak da je trošak izgradnje socijalnih stanova niži u drugom gradu u odnosu na nas.
 	
 	5. Utvrditi razloge zašto je to tako. Možda su okolnosti objektivne – npr. cene u Beogradu su svakako veće od cena u Smederevu. Ali, trebalo bi proveriti da li je možda problem negde drugde: nagomilana nepotrebna birokratija nosi svoj trošak, socijalni stanovi su možda oslobođeni nekih taksi i dažbina u efikasnijoj opštini, ogroman broj posrednika i podizvođača u obavljanju poslova, moguća korupcija i „ugrađivanje“.
+
+
+
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>

@@ -92,3 +92,29 @@ ol.progtrckr li.progtrckr-todo:before {
 .site-title-social{
     font-size: 10px !important;
 }
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+.hr-style{
+   width: 100% !important; 
+   color: black; 
+   height: 1px; 
+   background-color:gray;
+}
+
+.button-w-style {
+    float: left;
+    display: block;
+    height: 35px;
+    padding-top: 4px;
+    text-align: center;
+    width: 125px;
+}
+
+.img-width{
+    width:70px !important;
+    height:30px !important;
+}
