@@ -4,17 +4,11 @@ title:  "Hipoteza 4 – Temakoju naša OCD zagovara dobija dovoljno sredstava"
 categories: hipoteza
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
 <div class="justify">
 <b>Političari često govore o prioritetima. Tako u političkim govorima čujemo da su prioriteti zapošljavanje, mladi ljudi, borba protiv korupcije... </b>
 
 <b>Ipak, građani često kažu:„Jedno se govori drugo se radi.“<br/>
-A>li šta je to što se zaista „radi“? Lokalna samouprava i država Srbija, kao i javni sektor svuda u etu,  rade samo ono za šta imaju novca. To jest, radi se samo ono što je predviđeno u budžetu.<br/><br/>
+A šta je to što se zaista „radi“? Lokalna samouprava i država Srbija, kao i javni sektor svuda u etu,  rade samo ono za šta imaju novca. To jest, radi se samo ono što je predviđeno u budžetu.<br/><br/>
 
 Realni prioriteti u politici (šta se zaista radi) se najbolje mogu videti kroz budžet.</b><br/><br/>
 
@@ -93,3 +87,14 @@ Kako proveriti ovu hipotezu?
 	3. Ponoviti računicu i za druge oblasti na nivou naše opštine i videti procentualni odnos izdvajanja za oblast našeg interesovanja i za druge oblasti
 	
 	4. Uraditi korake 1-3 i za druge opštine slične veličine sa kojima se želimo porediti i naći pozitivnije primere koje je potrebno izučiti i predstaviti u našem javnom zagovaranju. 
+
+
+
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>

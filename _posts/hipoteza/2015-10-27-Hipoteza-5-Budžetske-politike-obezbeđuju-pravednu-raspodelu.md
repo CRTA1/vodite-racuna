@@ -4,12 +4,6 @@ title:  "Hipoteza 5 –Budžetske politike obezbeđuju pravednu raspodelu"
 categories: hipoteza
 ---
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    text-align: center;
-}
-</style>
 <div class="justify">
 <b>Da li je sam sistem prihodovanja lokalnih samouprava takav da se obezbeđuju makar uravnotežena izdvajanja za potrebe građana i građanki različitih sredina u jednoj zemlji? Imajući u vidu izuzetno centralizovan način donošenja političkih odluka u Srbiji, ovde se postavlja pitanje socijalne pravde i uticaja sistema budžetskih prihoda na povećavanje ili smanjenje razvojnih razlika na teritoriji države Srbije.</b> <br/> <br/>
 
@@ -108,3 +102,13 @@ Kako proveriti ovu hipotezu?
 	3. Podeliti x:y za sve odabrane opštine i gradove
 	
 	4. Uporediti gde je naša opština/grad u poređenju sa drugima
+
+
+
+
+<hr class="hr-style">
+<ol>
+{% for item in site.categories.hipoteza %}
+  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
+{% endfor %}
+</ol>
