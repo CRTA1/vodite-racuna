@@ -110,6 +110,7 @@ table, th, td {
     display: block;
     height: 35px;
     padding-top: 4px;
+    padding-bottom: 5px;
     text-align: center;
     width: 125px;
 }
