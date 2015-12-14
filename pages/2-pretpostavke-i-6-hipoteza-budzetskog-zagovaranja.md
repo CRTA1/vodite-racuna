@@ -28,14 +28,6 @@ categories: nextprev
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-<style>
-table, th, td {
-    border: 1px solid black;
-    padding-right: 5px;
-    padding-left: 5px;
-}
-</style>
-
 ##Preduslov 1 – Budžetska dokumenta moraju biti dostupna javnosti
 
 <div class="justify">

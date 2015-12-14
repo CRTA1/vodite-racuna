@@ -1,7 +1,7 @@
 ---
 title: Analiza Budgžeta
 lead: true
-categories: nextprev                        
+categories: nextprev                       
 ---
 
 <ol class="progtrckr" data-progtrckr-steps="11">

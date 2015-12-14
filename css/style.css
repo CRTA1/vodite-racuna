@@ -118,3 +118,18 @@ table, th, td {
     width:70px !important;
     height:30px !important;
 }
+@media(max-width: 400px){
+    .img-width{
+    margin-top: 20px !important;
+    width:70px !important;
+    height:30px !important;
+}
+}
+
+@media(max-width: 600px){
+    .img-width{
+    margin-top: 25px !important;
+    width:70px !important;
+    height:30px !important;
+}
+}
