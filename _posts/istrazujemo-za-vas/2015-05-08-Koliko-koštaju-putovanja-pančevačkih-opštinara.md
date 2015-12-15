@@ -20,7 +20,7 @@ Odlukom o budžetu grada Pančeva za 2013. godinu, za ovu namenu izdvojeno je uk
 <li> Gradsku uprava (gradske službe): 9.208.022 RSD </li></ol>
 </div>
 
-U skladu sa važeći [ propisima]({{ site.baseurl }}/storage/pdf/Pravilnik-o-standardnom-klasifikacionom-okviru-i-kontnom-planu-za-budzetski-sistem.pdf)  
+U skladu sa važeći [ propisima]({{ site.baseurl }}/skladište/pdf/Pravilnik-o-standardnom-klasifikacionom-okviru-i-kontnom-planu-za-budzetski-sistem.pdf)  
 
 <div class="justify">budžetska stavka “troškovi putovanja” obuhvata: troškove službenih putovanja u zemlji, troškove službenih putovanja u inostranstvo, troškove putovanja u okviru redovnog rada, troškove putovanja učenika i ostale troškove transporta.<br/>
 Zamislimo, na primer, da su gradske uprave Pančeva i Mihalovica u Slovačkoj, sa kojim je Pančevo pobratimljeno, dogovorile studijsko putovanje tokom kojeg će zaposleni u gradskoj upravi Pančeva iz prve ruke videti kako je Mihalovice organizovalo rad šalterskih službi u svom gradu. Grad Pančevo bi morao zaposlenima da plati prevoz avionom ili autobusku kartu, smeštaj u hotelu, ali i dnevnice za sve vreme njihovog boravka u Slovačkoj. Ovakvi i slični troškovi bili bi isplaćeni upravo iz sredstava predviđenih pod budžetskom stavkom – troškovi putovanja. Ipak i pored svog sugestivnog naziva, ova budžetska stavka ne obuhvata neke srodne troškove poput: kupovine markica za prevoz zaposlenih do posla, nabavke goriva ili nabavke samih vozila za potrebe Grada kao i održavanje istih i dr. Ovi troškovi u skladu sa kontnim planom obuhvaćeni su i predviđeni drugim budžetskim stavkama.
