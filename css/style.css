@@ -11,7 +11,9 @@ ol.progtrckr li {
     line-height: 3em;
 }
 
-
+.text-first {
+    font-size: 1.44em !important;
+}
 
 ol.progtrckr[data-progtrckr-steps="2"] li { width: 49%; }
 ol.progtrckr[data-progtrckr-steps="3"] li { width: 33%; }
