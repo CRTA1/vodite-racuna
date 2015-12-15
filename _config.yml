@@ -41,10 +41,10 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "pages"
+      path: "stranice"
     values:
       layout: page
-      section: pages
+      section: stranice
   -
     scope:
       path: "posts"

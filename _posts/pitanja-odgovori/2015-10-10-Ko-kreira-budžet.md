@@ -23,4 +23,4 @@ Ključni akteri u procesu pripreme i donošenje budžeta republike su:<br/>
 <li> Narodna skupština Republike Srbije </li>
 </ol>
 Predlog Zakona o budžetu republike usvaja Vlada i taj predlog upućuje poslanicima Narodne skupštine na razmatranje i usvajanje. Dakle, krajnju odluku o tome kako će izgledati budžet republike daju poslanici.<br/>
-Sama procedura i i krajnji rokovi za pripremu i donošenje budžeta republike definisani su  <a href="{{ site.baseurl }}/pages/Budžetski-kalendar/" > budžetskim kalendarom </a>. </div>
+Sama procedura i i krajnji rokovi za pripremu i donošenje budžeta republike definisani su  <a href="{{ site.baseurl }}/stranice/Budžetski-kalendar/" > budžetskim kalendarom </a>. </div>

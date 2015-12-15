@@ -154,7 +154,7 @@ table, th, td {
 
 @media(max-width: 600px){
     .ok-ribbon {
-    background-color: #0D3E1E !important;
+    display: none !important;
 }
 }
 
