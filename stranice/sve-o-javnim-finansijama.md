@@ -5,7 +5,7 @@ lead: true
 
 <div class="justify">
 Na našem sajtu pratimo i objavljujemo sve najnovije vesti iz oblasti javnih finansija.
-<a href="http://www.voditeracuna.rs/press/2015/06/10/DRI-Op%C5%A1tine-ispla%C4%87uju-ve%C4%87e-plate/">http://www.voditeracuna.rs/press/ </a>
+<a href="http://www.voditeracuna.rs/mediji/2015/06/10/DRI-Op%C5%A1tine-ispla%C4%87uju-ve%C4%87e-plate/">http://www.voditeracuna.rs/mediji/ </a>
 <br/> <br/>
 Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje.
 <a href="http://www.voditeracuna.rs/stranice/uvod/"> http://www.voditeracuna.rs/stranice/uvod/ </a>
