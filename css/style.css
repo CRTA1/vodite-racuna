@@ -160,12 +160,12 @@ table, th, td {
 
 @media(max-width: 800px){
     .textstyle-p{
-        margin-top: 105px !important;
+        margin-top: 110px !important;
     }
 }
 
 @media(max-width: 600px){
     .textstyle-p{
-        margin-top: 105px !important;
+        margin-top: 125px !important;
     }
 }
