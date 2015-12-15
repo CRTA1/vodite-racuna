@@ -26,7 +26,6 @@ categories: nextprev
     <a href="{{site.baseurl}}/pages/kampanja/"><li class="progtrckr-todo">10</li> </a>
 </ol>
 <br/><br/>
-
 <h1 class="post-title">{{ page.title }}</h1>
 
 <br/>
@@ -35,7 +34,7 @@ categories: nextprev
 Dragi zagovarači/zastupnici, aktivni građani,
 <br/><br/> 
 U želji da pomognemo proces budžetskog javnog zastupanja u našoj zemlji, na lokalnom i/ili nacionalnom nivou, kreirali smo praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje.
- <br/><br/> 
+ <br/>
 Ovaj priručnik je namenjen za sve Vas koji donosite promene u svom okruženju i koji se suočavate sa nepravednom raspodelom novca u budžetu. Takođe, on će poslužiti i Vama koji smatrate da postoji prostor da se upravljanje javnim finansijama učini još transparetnijim i odgovornijim.
  <br/><br/> 
 Pred Vama je kombinacija teoretskog i praktičnog znanja kreatora priručnika, koji su nesebično podelili svoje iskustvo u želji da aktivne građane dodatno motivišu da se uključe u budžetske procese u zemlji. Priručnik je pisan i organizovan tako da posluži i onim zagovaračima koji tek ulaze u javno zastupanje, ali i onima koji imaju više iskustva da se još bolje organizuju i budu uspešniji.  
