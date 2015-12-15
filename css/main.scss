@@ -823,7 +823,7 @@ body:not( .filters ) {
   display:none;
 
   @include media($small-screen) {
-    display:block;
+    display:none !important;
   }
 
   position:fixed;

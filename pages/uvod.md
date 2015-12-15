@@ -3,10 +3,13 @@ title: Uvod
 lead: true
 categories: nextprev
 ---
+<style type="text/css">
 
-<html>
+</style>
+<script type="text/javascript">
+</script>
 <ol class="progtrckr" data-progtrckr-steps="10">
-    <a href="{{site.baseurl}}/pages/uvod/">
+    <a href="{{site.baseurl}}/pages/uvod/" class="uvod" title="Uvod">
     <li class="progtrckr-done">1 </li> </a>
     <a href="{{site.baseurl}}/pages/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/">
     <li class="progtrckr-todo">2 </li> </a>
@@ -51,4 +54,3 @@ Srećno! <br/><br/>
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>
-</html>

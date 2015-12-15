@@ -11,6 +11,8 @@ ol.progtrckr li {
     line-height: 3em;
 }
 
+
+
 ol.progtrckr[data-progtrckr-steps="2"] li { width: 49%; }
 ol.progtrckr[data-progtrckr-steps="3"] li { width: 33%; }
 ol.progtrckr[data-progtrckr-steps="4"] li { width: 24%; }
@@ -73,6 +75,8 @@ ol.progtrckr li.progtrckr-todo:before {
     }
 .img-post-pad{
     position: absolute;
+    width: 120px;
+    height: 70px;
     margin-top: 35px;
     display: block;
     margin-left: auto;
@@ -150,4 +154,16 @@ table, th, td {
     .ok-ribbon {
     background-color: #0D3E1E !important;
 }
+}
+
+@media(max-width: 800px){
+    .textstyle-p{
+        margin-top: 105px !important;
+    }
+}
+
+@media(max-width: 600px){
+    .textstyle-p{
+        margin-top: 105px !important;
+    }
 }
