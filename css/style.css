@@ -169,3 +169,15 @@ table, th, td {
         margin-top: 125px !important;
     }
 }
+
+.red-tooltip + .tooltip > .tooltip-inner {background-color: #0D3E1E;}
+.red-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#0D3E1E; }
+
+.tooltip-inner {
+   font-size: 19px;
+    width: 350px;
+    margin-top:10px;
+}
+.tooltip.bottom .tooltip-arrow {
+  margin-top: 10px;
+}

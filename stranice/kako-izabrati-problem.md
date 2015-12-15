@@ -3,13 +3,6 @@ title: Kako izabrati problem
 lead: true
 categories: nextprev                        
 ---
-<style>
-table, th, td {
-    border: 1px solid black;
-    padding-right: 5px;
-    padding-left: 5px;
-}
-</style>
 <ol class="progtrckr" data-progtrckr-steps="11">
     <a href="{{site.baseurl}}/stranice/uvod/">
     <li class="progtrckr-done">1 </li> </a>

@@ -43,6 +43,6 @@ $(document).ready(function() {
     //filters
     $("#menu .filter > a").click(function() { 
       $(this).parent('.filter').toggleClass("active");
-    });    
+    });   
     
  });
