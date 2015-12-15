@@ -3,11 +3,7 @@ title: Uvod
 lead: true
 categories: nextprev
 ---
-<style type="text/css">
 
-</style>
-<script type="text/javascript">
-</script>
 <ol class="progtrckr" data-progtrckr-steps="10">
     <a href="{{site.baseurl}}/pages/uvod/" class="uvod" title="Uvod">
     <li class="progtrckr-done">1 </li> </a>
