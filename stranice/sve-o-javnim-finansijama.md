@@ -10,7 +10,6 @@ Na našem sajtu pratimo i objavljujemo sve najnovije vesti iz oblasti javnih fin
 Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje.
 <a href="http://www.voditeracuna.rs/stranice/uvod/"> http://www.voditeracuna.rs/stranice/uvod/ </a>
 <br/><br/>
-
 U pravnom okviru na jednom mestu možete da nađete sve zakone vezane za oblast budžetskog sistema, državne uprave i javne finansije. 
 <a href="http://www.voditeracuna.rs/stranice/budzetski-sistem/"> http://www.voditeracuna.rs/stranice/budzetski-sistem/ </a>
  <br/><br/>
