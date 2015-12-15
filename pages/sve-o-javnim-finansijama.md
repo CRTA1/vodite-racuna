@@ -4,7 +4,7 @@ lead: true
 ---
 
 <div class="justify">
-Na našem sajtu pratimo i objavljujemo sve najnovije vesti iz oblasti javnih finansija.
+Na našem sajtu pratimo i objavljujemo sve najnovije vesti iz oblasti javnih finansija.<br/>
 <a href="http://www.voditeracuna.rs/press/">http://www.voditeracuna.rs/press/ </a>
 <br/> <br/>
 Vodič za budžete je praktični online priručnik koji Vas vodi korak po korak kroz budžetsko javno zastupanje.<br/><br/>
