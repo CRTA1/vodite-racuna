@@ -72,9 +72,4 @@ Kako proveriti ovu hipotezu?
 
 
 
-<hr class="hr-style">
-<ol>
-{% for item in site.categories.hipoteza %}
-  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
-{% endfor %}
-</ol>
+{% include hipoteza.html %}

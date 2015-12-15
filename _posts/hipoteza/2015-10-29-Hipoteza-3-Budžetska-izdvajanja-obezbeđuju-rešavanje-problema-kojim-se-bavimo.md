@@ -208,9 +208,6 @@ Kako proveriti ovu hipotezu?
 	5. Ukoliko je iznos z din manji od x din, grad ili opština će moći da učine manje za našu korisničku grupu u odnosu na raniji period.
 
 
-<hr class="hr-style">
-<ol>
-{% for item in site.categories.hipoteza %}
-  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
-{% endfor %}
-</ol>
+
+
+{% include hipoteza.html %}

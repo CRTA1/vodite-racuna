@@ -152,11 +152,9 @@ Spisak može ići u nedogled. Ipak, i samo letimičnim pogledom postaje jasno da
 Kako? Ukoliko npr. uspemo da obezbedimo sredstva za obaranje ivičnjaka na saobraćajnicama u jednoj godini, ne samo što će rezultat tog uspeha biti vidljiv i narednih godina (ivičnjaci će ostati oboreni verovatno do narednih značajnih infrastrukturnih radova koji nisu baš tako česti), već će se ta stavka mnogo lakše naći i u budžetima narednih godina. Kada jednom lokalna samouprava pronađe prostor da odvoji sredstva za neku namenu, OCDi su tu da se bore da ta stavka ostane u budžetu sve dok se ne reši širi društveni problem. Gradovi i opštine u Srbiji neće postati fizički dostupni za osobe koje se kreću u kolicima time što će tokom jedne godine biti izdvojena stavka za pristupačnost. To je svakako višegodišnji, a u velikim gradovima decenijski, proces koji zahteva izdvajanja za ovu namenu iz godine u godinu. <br/>
 
 </div>
-<ol>
-{% for item in site.categories.hipoteza %}
-  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
-{% endfor %}
-</ol>
+
+
+{% include hipoteza.html %}
 
 <br/>
 

@@ -89,7 +89,7 @@ Najbolji način da proverimo ovu hipotezu jeste da odredimo budžet per capita, 
 
 Ovde vidimo da se za kvalitet života građana i građanki Novog Sada godišnje može izdvojiti oko 52.000 dinara po glavi stanovnika iz gradskog budžeta, a u Leskovcu svega oko 22.000 dinara! Reč je o zaista ogromnoj razlici koja je posledica daleko veće razvijenosti privrede u Novom Sadu. Ipak, iako možemo da govorimo o tome da je Novi Sad jednostavno „uspešniji“ na tržišnoj utakmici, takođe možemo zaključiti da mere koje preduzima nacionalni nivo ne doprinose ravnopravnosti na nivou lokala širom države u meri u kojoj postoji želja da se to uradi.<br/><br/> 
 
-Svakako, makroekonomski eksperti mogu dati izuzetno precizna objašnjenja uzroka i posledica ove situacije. Nas, kao građane, pre svega bi trebalo da zanima na koji način će država razvijati svoje politike kako bi obezbedila da se ove razlike umanje u budućnosti. Da li će se menjati pristup i načini finansiranja lokalnih samouprava ili će država preduzeti mere kojima će pomoći brži ekonomski razvoj manje razvijenih zajednica? Svakako, nešto je potrebno uraditi, a iznos budžetskih prihoda per capita je dobar pokazatelj da li država nešto preduzima i da li aktivnosti države daju rezultate.<br/><br/> </div>
+Svakako, makroekonomski eksperti mogu dati izuzetno precizna objašnjenja uzroka i posledica ove situacije. Nas, kao građane, pre svega bi trebalo da zanima na koji način će država razvijati svoje politike kako bi obezbedila da se ove razlike umanje u budućnosti. Da li će se menjati pristup i načini finansiranja lokalnih samouprava ili će država preduzeti mere kojima će pomoći brži ekonomski razvoj manje razvijenih zajednica? Svakako, nešto je potrebno uraditi, a iznos budžetskih prihoda per capita je dobar pokazatelj da li država nešto preduzima i da li aktivnosti države daju rezultate.<br/><br/> </div> <br/>
 
 
 Kako proveriti ovu hipotezu?
@@ -106,9 +106,4 @@ Kako proveriti ovu hipotezu?
 
 
 
-<hr class="hr-style">
-<ol>
-{% for item in site.categories.hipoteza %}
-  <li><a href="{{site.baseurl}}{{item.url}}">{{ item.title }}</a></li>
-{% endfor %}
-</ol>
+{% include hipoteza.html %}
