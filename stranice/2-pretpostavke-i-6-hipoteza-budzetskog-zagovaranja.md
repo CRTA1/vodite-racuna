@@ -5,17 +5,16 @@ categories: nextprev
 ---
 {% include tooltip.html %}
 <ol class="progtrckr" data-progtrckr-steps="11">
-    <a href="{{site.baseurl}}/stranice/uvod/">
+    <a href="{{site.baseurl}}/stranice/uvod/" >
     <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Uvod">1 </li> </a>
     <a href="{{site.baseurl}}/stranice/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/" >
     <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Definisanje budžetskog zastupanja i uloga civilnog društva">2 </li> </a>
     <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/" >
-    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Definicije osnonih pojmova">3</li> </a>
+    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Definicije osnonih pojmova">3 </li> </a>
     <a href="{{site.baseurl}}/stranice/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/">
-    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">
-    4 </li> </a>
-    <a href="{{site.baseurl}}/stranice/analiza-budzeta/">
-    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Analiza Budgžeta">5 </li> </a>
+    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">4 </li> </a>
+    <a href="{{site.baseurl}}/stranice/analiza-budzeta/" >
+    <li class="progtrckr-done red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom" data-original-title="Analiza Budgžeta">5 </li> </a>
     <a href="{{site.baseurl}}/stranice/kako-izabrati-problem/">
     <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Kako izabrati problem">6 </li> </a>
     <a href="{{site.baseurl}}/stranice/analiza-aktera/" >
