@@ -188,7 +188,7 @@ table, th, td {
 }
 
 .red-tooltip + .tooltip > .tooltip-inner {background-color: #0D3E1E;}
-.red-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#0D3E1E; }
+.red-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#0D3E1E;border-bottom-color:#004625; }
 
 .tooltip-inner {
    font-size: 16px;
