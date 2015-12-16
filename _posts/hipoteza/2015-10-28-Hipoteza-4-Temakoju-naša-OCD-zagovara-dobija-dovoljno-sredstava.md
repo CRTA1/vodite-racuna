@@ -27,7 +27,7 @@ Recimo da je Vaša organizacije zainteresovana za zaštitu životne sredine i da
 
 Dakle, jasno se vidi da je zaštita životne sredine u procentima najmanje zastupljena oblast. Veći prioritetimaju sve druge oblasti. Ipak, to nije dovoljno da bismo zaključili da li je ovo malo ili mnogo. Iz ovoga zaključujemo da su na lokalnom nivou druge oblasti veći prioriteti, ali moramo se zapitati kakva je situacija u drugim opštinama i gradovima. Evo podataka:<br/><br/>
 
-<img src="{{ site.baseurl }}/img/hipoteza4.png"  alt="chart" />
+<img src="{{ site.baseurl }}/img/hipoteza4.png"  alt="chart"  align="center"/>
 <br/><br/>
 Dakle, jasno se vidi da je zaštita životne sredine u procentima najmanje zastupljena oblast. Veći prioritetimaju sve druge oblasti. Ipak, to nije dovoljno da bismo zaključili da li je ovo malo ili mnogo. Iz ovoga zaključujemo da su na lokalnom nivou druge oblasti veći prioriteti, ali moramo se zapitati kakva je situacija u drugim opštinama i gradovima. Evo podataka:
 

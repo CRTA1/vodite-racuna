@@ -8,14 +8,14 @@ categories: hipoteza
 <b>Da li je sam sistem prihodovanja lokalnih samouprava takav da se obezbeđuju makar uravnotežena izdvajanja za potrebe građana i građanki različitih sredina u jednoj zemlji? Imajući u vidu izuzetno centralizovan način donošenja političkih odluka u Srbiji, ovde se postavlja pitanje socijalne pravde i uticaja sistema budžetskih prihoda na povećavanje ili smanjenje razvojnih razlika na teritoriji države Srbije.</b> <br/> <br/>
 
 Ovu hipotezu često prepoznajemo i kao hipotezu decentralizacije. U velikoj meri, ova hipoteza ukazuje na različite pristupe prihodima na nivou lokalnih samouprava i regiona unutar jedne države.
-<br/><br/><br/><br/> 
-Moramo odmah na početku istaći da je struktura prihoda lokalnih samouprava u Srbiji takva da lokalne samouprave prilično zavise i od lokalnog ekonomskog razvoja. Najznačajniji izvor prihoda lokalnih samouprava dolazi od poreza na dohodak, dobiti i kapitalnih dobitaka, koji najdirektnije zavise od privrednih aktivnosti na teritoriji te lokalne samouprave. Transferi od centralnih organa vlasti su nešto značajniji prihod kod manje razvijenih opština, a daleko manje značajan prihod kod razvijenijih.<br/><br/><br/><br/>  
+<br/><br/>
+Moramo odmah na početku istaći da je struktura prihoda lokalnih samouprava u Srbiji takva da lokalne samouprave prilično zavise i od lokalnog ekonomskog razvoja. Najznačajniji izvor prihoda lokalnih samouprava dolazi od poreza na dohodak, dobiti i kapitalnih dobitaka, koji najdirektnije zavise od privrednih aktivnosti na teritoriji te lokalne samouprave. Transferi od centralnih organa vlasti su nešto značajniji prihod kod manje razvijenih opština, a daleko manje značajan prihod kod razvijenijih.<br/><br/>  
 
-Ipak, i tu je reč o političkoj odluci sa odgovarajućim, zapravo izuzetno velikim, posledicama na realan život i na živote korisničkih grupa kojima se mi bavimo. Što je manji budžet naše lokalne samouprave, to je manja prilika da kroz budžetsko izdvajanje obezbedimo neophodna sredstva za servise, usluge i aktivnosti koje bi išle u korist ljudi zbog kojih postojimo.<br/><br/><br/><br/> 
+Ipak, i tu je reč o političkoj odluci sa odgovarajućim, zapravo izuzetno velikim, posledicama na realan život i na živote korisničkih grupa kojima se mi bavimo. Što je manji budžet naše lokalne samouprave, to je manja prilika da kroz budžetsko izdvajanje obezbedimo neophodna sredstva za servise, usluge i aktivnosti koje bi išle u korist ljudi zbog kojih postojimo.<br/><br/>
 
-Kakva je situacija u Srbiji? Iako je na nacionalnom nivou više puta menjan pristup ovom pitanju, a sve u cilju obezbeđivanja što veće ravnopravnosti i ravnomernijeg razvoja, podaci govore da je realnost prilično drugačija i da pristup prihodima na nivou različitih lokalnih samouprava je dramatično različit.<br/><br/><br/><br/> 
+Kakva je situacija u Srbiji? Iako je na nacionalnom nivou više puta menjan pristup ovom pitanju, a sve u cilju obezbeđivanja što veće ravnopravnosti i ravnomernijeg razvoja, podaci govore da je realnost prilično drugačija i da pristup prihodima na nivou različitih lokalnih samouprava je dramatično različit.<br/><br/>
 
-Najbolji način da proverimo ovu hipotezu jeste da odredimo budžet per capita, to jest da utvrdimo koliko u lokalnim budžetima ima para po glavi stanovnika te lokalne samouprave. Evo nekih podataka iz 2014. godine, uzetih iz odluka o budžetu ovih lokalnih zajednica:<br/><br/><br/><br/> 
+Najbolji način da proverimo ovu hipotezu jeste da odredimo budžet per capita, to jest da utvrdimo koliko u lokalnim budžetima ima para po glavi stanovnika te lokalne samouprave. Evo nekih podataka iz 2014. godine, uzetih iz odluka o budžetu ovih lokalnih zajednica:<br/><br/>
 
 <table>
 	<tr>
