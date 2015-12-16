@@ -25,7 +25,7 @@ categories: nextprev
     <a href="{{site.baseurl}}/stranice/izgradnja-baze-za-budzetsko-zagovaranje/" >
     <li class="progtrckr-todo red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom" data-original-title="Izgradnja baze za budžetsko zagovaranje">9</li> </a>
     <a href="{{site.baseurl}}/stranice/kampanja/">
-    <li class="progtrckr-todo red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom" data-original-title="Kampanja">10</li> </a>
+    <li class="progtrckr-todo red-tooltip add-tooltip txt"  data-toggle="tooltip" data-placement="bottom" data-original-title="Kampanja">10</li> </a>
 </ol>
 <br/><br/>
 
