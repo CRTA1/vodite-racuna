@@ -16,4 +16,4 @@ Zakonom o javnim nabavkama iz 2012. uveden je institut građanskog nadzornika za
 [Izvestaj o sprovedenom postupku javne nabavke EMS]({{site.baseurl}}/skladište/pdf/javne-nabavke/Izvestaj_o_sprovedenom_postupku_javne_nabavke_EMS.pdf)<br/><br/>
 [Izveštaj o Javnoj nabavci br. 7614 DIКТ(EPS) ]({{site.baseurl}}/skladište/pdf/javne-nabavke/Izvestaj_o__Javnoj_nabavci_br_7614_DIКТ(EPS).pdf)<br/><br/>
 [Izveštaj o sprovedenoj Javnoj nabavci (RFZO - A i A1 lekovi) ]({{site.baseurl}}/skladište/pdf/javne-nabavke/Izvestaj_o_sprovedenoj_Javnoj_nabavci_(RFZO_-_A_i_A1_lekovi).pdf)<br/><br/>
-[Izveštaj o sprovedenoj Javnoj nabavci RFZO - El. energija ]({{site.baseurl}}/skladište/pdf/javne-nabavke/Izvesstaj_o_sprovedenoj_Javnoj_nabavci_RFZO_-_El._energija (1).pdf)<br/><br/>
+[Izveštaj o sprovedenoj Javnoj nabavci RFZO - El. energija ]({{site.baseurl}}/skladište/pdf/javne-nabavke/Izvestaj_o_sprovedenoj_Javnoj_nabavci_RFZO_-_El._energija.pdf)<br/><br/>
