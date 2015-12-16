@@ -3,40 +3,34 @@ title: Uvod
 lead: true
 categories: nextprev
 ---
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
-<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
-<script type="text/javascript">
-    $(document).ready(function(){
-        $(".add-tooltip").tooltip();
-    });
-</script>
+
+{% include tooltip.html %}
 <ol class="progtrckr" data-progtrckr-steps="10">
-    <a href="{{site.baseurl}}/stranice/uvod/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Uvod" >
-    <li class="progtrckr-done">1 </li> </a>
-    <a href="{{site.baseurl}}/stranice/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Definisanje budžetskog zastupanja i uloga civilnog društva">
-    <li class="progtrckr-todo">2 </li> </a>
-    <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/"  class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Definicije osnonih pojmova">
-    <li class="progtrckr-todo">3 </li> </a>
-    <a href="{{site.baseurl}}/stranice/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">
-    <li class="progtrckr-todo">4 </li> </a>
-    <a href="{{site.baseurl}}/stranice/analiza-budzeta/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Analiza Budgžeta">
-    <li class="progtrckr-todo">5 </li> </a>
-    <a href="{{site.baseurl}}/stranice/kako-izabrati-problem/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Kako izabrati problem">
-    <li class="progtrckr-todo">6 </li> </a>
-    <a href="{{site.baseurl}}/stranice/analiza-aktera/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Analiza aktera">
-    <li class="progtrckr-todo">7 </li> </a>
-    <a href="{{site.baseurl}}/stranice/2-pretpostavke-i-6-hipoteza-budzetskog-zagovaranja/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="2 pretpostavke i 6 hipoteza budžetskog zagovaranja">
-    <li class="progtrckr-todo">8 </li> </a>
-    <a href="{{site.baseurl}}/stranice/izgradnja-baze-za-budzetsko-zagovaranje/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Izgradnja baze za budžetsko zagovaranje">
-    <li class="progtrckr-todo">9</li> </a>
-    <a href="{{site.baseurl}}/stranice/kampanja/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Kampanja">
-    <li class="progtrckr-todo">10</li> </a>
+    <a href="{{site.baseurl}}/stranice/uvod/" >
+    <li class="progtrckr-done red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom" data-original-title="Uvod">1 </li> </a>
+    <a href="{{site.baseurl}}/stranice/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/">
+    <li  class="progtrckr-todo red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom" data-original-title="Definisanje budžetskog zastupanja i uloga civilnog društva">2 </li> </a>
+    <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/"   >
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom"  data-original-title="Definicije osnonih pojmova">3 </li> </a>
+    <a href="{{site.baseurl}}/stranice/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/">
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom"   data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">4 </li> </a>
+    <a href="{{site.baseurl}}/stranice/analiza-budzeta/" >
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom"   data-original-title="Analiza Budgžeta">5 </li> </a>
+    <a href="{{site.baseurl}}/stranice/kako-izabrati-problem/">
+    <li class="progtrckr-todo red-tooltip add-tooltip"   data-toggle="tooltip" data-placement="bottom"   data-original-title="Kako izabrati problem">6 </li> </a>
+    <a href="{{site.baseurl}}/stranice/analiza-aktera/" >
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom"   data-original-title="Analiza aktera">7 </li> </a>
+    <a href="{{site.baseurl}}/stranice/2-pretpostavke-i-6-hipoteza-budzetskog-zagovaranja/">
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="2 pretpostavke i 6 hipoteza budžetskog zagovaranja">8 </li> </a>
+    <a href="{{site.baseurl}}/stranice/izgradnja-baze-za-budzetsko-zagovaranje/">
+    <li class="progtrckr-todo red-tooltip add-tooltip"  data-toggle="tooltip" data-placement="bottom"   data-original-title="Izgradnja baze za budžetsko zagovaranje">9</li> </a>
+    <a href="{{site.baseurl}}/stranice/kampanja/">
+    <li class="progtrckr-todo red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Kampanja">10</li> </a>
 </ol>
-<br/><br/>
+<br/>
 
 <h1 class="post-title">{{ page.title }}</h1>
 
-<br/>
 <div class="justify">
 <br/>
 Dragi zagovarači/zastupnici, aktivni građani,
