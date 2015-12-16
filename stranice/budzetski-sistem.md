@@ -7,8 +7,6 @@ published: true
 - [Zakon o izmenama i dopunama Zakona o budžetu Republike Srbije za 2013. godinu]({{ site.baseurl }}/skladište/pdf/izmena_budzeta.pdf)
 - [Memorandum o budžetu i ekonomskoj i fiskalnoj politici za 2011. s projekcijama za 2012.i 2013. godinu]({{ site.baseurl }}/skladište/pdf/Memorandum-o-budzetu-i-ekonomskoj-i-fiskalnoj-politici-za-2011-godinu-sa-projekcijama-za-2012-i-2013-godinu.pdf)
 - [Pravilnik o sadržini izveštaja o javnim nabavkama i načinu vođenja evidencije o javnim nabavkama]({{ site.baseurl }}/skladište/pdf/1116.doc)
-- [Zakon o javnim nabavkama (29. decembar 2012)]({{ site.baseurl }}/skladište/pdf/zakonojavnimnabavkama.doc)
-- [Zakon o javnim preduzećima (15. decembar 2012)]({{ site.baseurl }}/skladište/pdf/zakonojavnimpreduzecima.doc)
 - [Strategija razvoja javnih nabavki u Republici Srbiji (sa Akcionim planom)]({{ site.baseurl }}/skladište/pdf/strategija_javnih_nabavki00497_lat.zip)
 - [Izveštaj o finansijskoj reviziji Završnog računa budžeta Republike Srbije za 2009. godinu]({{ site.baseurl }}/skladište/pdf/izvestaj2009.pdf)
 - [Izveštaj o finansijskoj reviziji Završnog računa budžeta Republike Srbije za 2008. godinu]({{ site.baseurl }}/skladište/pdf/izv_o_reviziji_zr_budzeta_rs_za_08.pdf)
