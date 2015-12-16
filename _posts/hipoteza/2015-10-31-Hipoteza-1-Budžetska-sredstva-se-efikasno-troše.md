@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hipoteza 1 Budžetska sredstva se troše u dovoljnoj meri"
+title:  "Hipoteza 1 – Budžetska sredstva se troše u dovoljnoj meri"
 categories: hipoteza
 ---
 <div class="justify">

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hipoteza 3 –Budžetska izdvajanja obezbeđuju rešavanje problema kojim se bavimo"
+title:  "Hipoteza 3 – Budžetska izdvajanja obezbeđuju rešavanje problema kojim se bavimo"
 categories: hipoteza
 ---
 

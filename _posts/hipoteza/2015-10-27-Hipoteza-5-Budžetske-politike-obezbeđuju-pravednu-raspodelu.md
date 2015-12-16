@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hipoteza 5 –Budžetske politike obezbeđuju pravednu raspodelu"
+title:  "Hipoteza 5 – Budžetske politike obezbeđuju pravednu raspodelu"
 categories: hipoteza
 ---
 
