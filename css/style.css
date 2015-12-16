@@ -170,6 +170,12 @@ table, th, td {
     }
 }
 
+@media(max-width: 400px){
+    .textstyle-p{
+        margin-top: 140px !important;
+    }
+}
+
 .red-tooltip + .tooltip > .tooltip-inner {background-color: #0D3E1E;}
 .red-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#0D3E1E; }
 
