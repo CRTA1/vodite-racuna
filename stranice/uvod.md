@@ -3,13 +3,19 @@ title: Uvod
 lead: true
 categories: nextprev
 ---
-
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/css/bootstrap-combined.min.css">
+<script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.2/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+        $(".add-tooltip").tooltip();
+    });
+</script>
 <ol class="progtrckr" data-progtrckr-steps="10">
-    <a href="{{site.baseurl}}/stranice/uvod/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="tt" >
+    <a href="{{site.baseurl}}/stranice/uvod/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Uvod" >
     <li class="progtrckr-done">1 </li> </a>
     <a href="{{site.baseurl}}/stranice/definisanje-budzetskog-zastupanja-i-uloga-civilnog-drustva/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Definisanje budžetskog zastupanja i uloga civilnog društva">
     <li class="progtrckr-todo">2 </li> </a>
-    <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/" title="Definicije-osnovnih-pojmova" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Definicije osnonih pojmova">
+    <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/"  class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Definicije osnonih pojmova">
     <li class="progtrckr-todo">3 </li> </a>
     <a href="{{site.baseurl}}/stranice/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/" class="add-tooltip"  data-toggle="tooltip" data-placement="bottom" class="red-tooltip" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">
     <li class="progtrckr-todo">4 </li> </a>
@@ -51,3 +57,4 @@ Srećno! <br/><br/>
     <button id="prev"> « Prethodni</button>
     <button id="next">Dalje » </button> 
 </div>
+
