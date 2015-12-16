@@ -176,6 +176,18 @@ table, th, td {
     }
 }
 
+
+
+@media(max-width: 400px){
+    ol.progtrckr[data-progtrckr-steps="10"] li { width: 2% !important; }
+}
+
+@media(max-width: 600px){
+    .txt{
+        font-size: 1em !important;
+    }
+}
+
 .red-tooltip + .tooltip > .tooltip-inner {background-color: #0D3E1E;}
 .red-tooltip + .tooltip > .tooltip-arrow { border-bottom-color:#0D3E1E; }
 
