@@ -7,7 +7,7 @@
     <meta name="author" content="OPEN DATA KOSOVA">
  
      <!-- Facebook Open Graph tags -->
-    <meta property="og:title" content="Vodite računa" />
+    <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:site_name" content="Vodite računa"/>
     <meta property="og:image" content=" {{site.baseurl}}/img/fblogo.jpg" />
     <meta property="og:type" content="website" />

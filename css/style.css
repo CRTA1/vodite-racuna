@@ -28,11 +28,22 @@ ol.progtrckr[data-progtrckr-steps="11"] li { width: 8%; }
 
 ol.progtrckr li.progtrckr-done {
     color: black;
-    border-bottom: 4px solid green;
+    padding-right: 8px;
+    border-bottom: 3px solid green;
 }
+
+.txt{
+    font-size: 1em !important;
+}
+
 ol.progtrckr li.progtrckr-todo {
     color: silver; 
-    border-bottom: 4px solid silver;
+    padding-right: 8px;
+    border-bottom: 3px solid silver;
+}
+
+ol.progtrckr>a {
+    text-decoration:none;
 }
 
 ol.progtrckr li:after {
@@ -198,4 +209,5 @@ table, th, td {
 }
 .tooltip.bottom .tooltip-arrow {
   margin-top: 5px;
+  padding-right: 5px;
 }
