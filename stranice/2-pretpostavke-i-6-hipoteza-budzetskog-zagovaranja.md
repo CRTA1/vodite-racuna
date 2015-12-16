@@ -12,7 +12,8 @@ categories: nextprev
     <a href="{{site.baseurl}}/stranice/definicije-osnovnih-pojmova/" >
     <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Definicije osnonih pojmova">3</li> </a>
     <a href="{{site.baseurl}}/stranice/institucionalni-okvir-i-nadleznosti-lokalne-samouprave/">
-    <li class="progtrckr-done red-tooltip add-tooltip"data-toggle="tooltip" data-placement="bottom" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">4 </li> </a>
+    <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Institucionalni okvir i nadležnosti lokalne samouprave">
+    4 </li> </a>
     <a href="{{site.baseurl}}/stranice/analiza-budzeta/">
     <li class="progtrckr-done red-tooltip add-tooltip" data-toggle="tooltip" data-placement="bottom" data-original-title="Analiza Budgžeta">5 </li> </a>
     <a href="{{site.baseurl}}/stranice/kako-izabrati-problem/">
