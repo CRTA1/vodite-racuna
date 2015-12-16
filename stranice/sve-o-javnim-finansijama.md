@@ -1,5 +1,5 @@
 ---
-title: Sve O Javnim Finansijama
+title: Sve o javnim finansijama
 lead: true
 ---
 
