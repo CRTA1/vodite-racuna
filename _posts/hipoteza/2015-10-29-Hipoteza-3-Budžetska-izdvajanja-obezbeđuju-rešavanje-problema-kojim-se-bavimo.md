@@ -12,7 +12,6 @@ type: nextprev
 ##{{ page.title }}
 <br/><br/>
 <div class="justify">
-<br/><br/>
 <b>Uspeli smo da se izborimo za stavku u budžetu još 2003. godine kada su nam odobrili 10 miliona dinara za projekte za mlade. I u planu za 2014. i dalje imamo istih 10 miliona dinara za projekte, ali se danas može sa tim novcem uraditi mnogo manje.<br/>
 Koliko bi trebalo da tražimo da se izdvaja u 2014. godini za projekte za mlade kako bismo mogli da uradimo isti posao kao 2003. godine?<br/><br/>
 
