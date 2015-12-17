@@ -2,7 +2,8 @@
 title: Izgradnja baze za budžetsko zagovaranje
 lead: true
 published: true
-categories: nextprev                        
+categories: nextprev  
+url: otherpage                     
 ---
 {% include tooltip.html %}
 <ol class="progtrckr" data-progtrckr-steps="11">

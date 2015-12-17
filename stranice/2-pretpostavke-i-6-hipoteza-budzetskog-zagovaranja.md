@@ -1,7 +1,8 @@
 ---
 title: 2 pretpostavke i 6 hipoteza budžetskog zagovaranja
 lead: true
-categories: nextprev                        
+categories: nextprev 
+url: currentpage                    
 ---
 {% include tooltip.html %}
 <ol class="progtrckr" data-progtrckr-steps="11">
@@ -28,7 +29,7 @@ categories: nextprev
 </ol>
 <br/><br/>
 
-<h1 class="post-title">{{ page.title }}</h1>
+<h1 class="post-title"> 2 pretpostavke i 6 hipoteza budžetskog zagovaranja</h1>
 
 ##Preduslov 1 – Budžetska dokumenta moraju biti dostupna javnosti
 

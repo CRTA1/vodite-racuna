@@ -10,7 +10,9 @@ wide: true
 <div class="post">
   <article class="post-content">
     <a href="/{{ section_base }}" class="pre-header">{{ section }}</a>
+    {% if page.type != 'nextprev' %}
     <h1 class="post-title">{{ page.title }}</h1>
+    {% endif %}
     {% if page.authors %}
     <div class="author">Written by
       <ul>

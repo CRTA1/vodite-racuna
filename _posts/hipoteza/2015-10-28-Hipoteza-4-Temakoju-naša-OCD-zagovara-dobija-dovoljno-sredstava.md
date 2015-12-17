@@ -2,9 +2,17 @@
 layout: post
 title:  "Hipoteza 4 – Temakoju naša OCD zagovara dobija dovoljno sredstava"
 categories: hipoteza
+name: hipoteza4
+type: nextprev 
 ---
+{% include tooltip.html %}
+{% include hipoteza4.html %}
+
+
+##{{ page.title }}
 
 <div class="justify">
+<br/><br/>
 <b>Političari često govore o prioritetima. Tako u političkim govorima čujemo da su prioriteti zapošljavanje, mladi ljudi, borba protiv korupcije... </b>
 
 <b>Ipak, građani često kažu:„Jedno se govori drugo se radi.“<br/>
@@ -92,4 +100,4 @@ Kako proveriti ovu hipotezu?
 
 
 
-{% include hipoteza.html %}
+{% include buttons.html %}

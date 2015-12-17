@@ -2,8 +2,17 @@
 layout: post
 title:  "Hipoteza 1 – Budžetska sredstva se troše u dovoljnoj meri"
 categories: hipoteza
+name: hipoteza1
+type: nextprev 
 ---
+{% include tooltip.html %}
+{% include hipoteza1.html %}
+
+
+##{{ page.title }}
+
 <div class="justify">
+<br/><br/>
 <b>Kada želimo da se budžetskim sredstvima rešava neki društveni problem, nije najbitnije boriti se da država/opština odvoji što više para za tu namenu. Podjednako je bitno da zagovaramo da se odobrena sredstva koriste na način koji obezbeđuje najveći učinak, najbolji rezultat za ljude koje zastupamo</b>
 
 <br/><br/>
@@ -55,16 +64,18 @@ Na ovaj način, usluga personalne asistencije je 2014. godine postala efikasnija
 		<td>29,600.99 Din.</td>
 	</tr>
 </table>
-
-<br/><br/>
+</div>
 Interesantno je sagledati ovu situaciju malo detaljnije. Povećanje budžetske potrošnje za preko 120% iz 2012. u 2013. godinu dovelo je do toga da dodatnih 12 osoba sa invaliditetom dobije personalnu asistenciju. 
-<br/><br/>
+
+
 Sa druge strane, praktično bez uvećanja budžeta, samo sa fokusom na efikasnost troškova, istu uslugu je dobilo još 5 lica više u 2014. godini u odnosu na prethodnu. 
 Usluga je postala najefikasnija u 2014. u odnosu na sve prethodne godine – trošak usluge po jednom korisniku je sa skoro 32.000 dinara mesečno u 2012, potom preko 35.000 dinara u 2013, spušten na 29.600 dinara mesečno u 2014. godini. To je obezbedilo da dodatnih 5 korisnika dobiju uslugu u 2014. godini u odnosu na 2013.
-<br/><br/>
+
+
 Ovaj primer se može primeniti na sve oblike budžetske potrošnje. Možemo pratiti broj izgrađenih socijalnih stanova, broj pruženih administrativnih usluga, broj izdatih ličnih dokumenata, broj novih autobuskih linija, broj izgrađenih biciklističkih staza...
-<br/><br/>
-Naravno, sve ovo upoređujemo sa utroškom novca namenjenog za ovu delatnost.<br/></div>
+
+
+Naravno, sve ovo upoređujemo sa utroškom novca namenjenog za ovu delatnost.<br/>
 Posebno je korisno uporediti efikasnost troškova na nivou više opština – da li imamo primer da neka opština efikasnije koristi sredstva od naše? 
 
 Kako proveriti hipotezu?
@@ -82,7 +93,4 @@ Kako proveriti hipotezu?
 
 
 
-
-
-
-{% include hipoteza.html %}
+{% include buttons.html %}

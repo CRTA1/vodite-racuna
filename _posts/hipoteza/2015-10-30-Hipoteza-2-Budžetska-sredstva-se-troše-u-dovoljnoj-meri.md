@@ -2,9 +2,18 @@
 layout: post
 title:  "Hipoteza 2 – Budžetska sredstva se troše u dovoljnoj meri"
 categories: hipoteza
+name: hipoteza2
+type: nextprev 
 ---
 
+{% include tooltip.html %}
+{% include hipoteza2.html %}
+
+
+##{{ page.title }}
+
 <div class="justify">
+<br/><br/>
 <b>Nije dovoljno imati predviđenu stavku za rešavanje „našeg“ problema u budžetu. Potrebno je tu stavku i potrošiti. </b><br/><br/>
 
 Često čujemo zvaničnike grada kako se žale na slabo „punjenje budžeta“. A ponekad, čak i kada je punjenje budžeta sasvim korektno, stavka, koja je bila namenjena rešavanju problema grupe građana za koju se mi zalažemo, ostane nepotrošena do kraja.Tu dolazimo do pitanja da li grad, opština ili republika troše novac koji je predviđen planom budžetske potrošnje? <br/><br/>
@@ -72,4 +81,4 @@ Kako proveriti ovu hipotezu?
 
 
 
-{% include hipoteza.html %}
+{% include buttons.html %}

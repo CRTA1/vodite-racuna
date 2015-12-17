@@ -2,16 +2,25 @@
 layout: post
 title:  "Hipoteza 5 – Budžetske politike obezbeđuju pravednu raspodelu"
 categories: hipoteza
+name: hipoteza5
+type: nextprev 
 ---
 
+{% include tooltip.html %}
+{% include hipoteza5.html %}
+
+
+##{{ page.title }}
+
 <div class="justify">
-<b>Da li je sam sistem prihodovanja lokalnih samouprava takav da se obezbeđuju makar uravnotežena izdvajanja za potrebe građana i građanki različitih sredina u jednoj zemlji? Imajući u vidu izuzetno centralizovan način donošenja političkih odluka u Srbiji, ovde se postavlja pitanje socijalne pravde i uticaja sistema budžetskih prihoda na povećavanje ili smanjenje razvojnih razlika na teritoriji države Srbije.</b> <br/> <br/>
+<br/><br/>
+<b>Da li je sam sistem prihodovanja lokalnih samouprava takav da se obezbeđuju makar uravnotežena izdvajanja za potrebe građana i građanki različitih sredina u jednoj zemlji? Imajući u vidu izuzetno centralizovan način donošenja političkih odluka u Srbiji, ovde se postavlja pitanje socijalne pravde i uticaja sistema budžetskih prihoda na povećavanje ili smanjenje razvojnih razlika na teritoriji države Srbije.</b> <br/>
 
 Ovu hipotezu često prepoznajemo i kao hipotezu decentralizacije. U velikoj meri, ova hipoteza ukazuje na različite pristupe prihodima na nivou lokalnih samouprava i regiona unutar jedne države.
-<br/><br/>
+
 Moramo odmah na početku istaći da je struktura prihoda lokalnih samouprava u Srbiji takva da lokalne samouprave prilično zavise i od lokalnog ekonomskog razvoja. Najznačajniji izvor prihoda lokalnih samouprava dolazi od poreza na dohodak, dobiti i kapitalnih dobitaka, koji najdirektnije zavise od privrednih aktivnosti na teritoriji te lokalne samouprave. Transferi od centralnih organa vlasti su nešto značajniji prihod kod manje razvijenih opština, a daleko manje značajan prihod kod razvijenijih.<br/><br/>  
 
-Ipak, i tu je reč o političkoj odluci sa odgovarajućim, zapravo izuzetno velikim, posledicama na realan život i na živote korisničkih grupa kojima se mi bavimo. Što je manji budžet naše lokalne samouprave, to je manja prilika da kroz budžetsko izdvajanje obezbedimo neophodna sredstva za servise, usluge i aktivnosti koje bi išle u korist ljudi zbog kojih postojimo.<br/><br/>
+Ipak, i tu je reč o političkoj odluci sa odgovarajućim, zapravo izuzetno velikim, posledicama na realan život i na živote korisničkih grupa kojima se mi bavimo. Što je manji budžet naše lokalne samouprave, to je manja prilika da kroz budžetsko izdvajanje obezbedimo neophodna sredstva za servise, usluge i aktivnosti koje bi išle u korist ljudi zbog kojih postojimo.
 
 Kakva je situacija u Srbiji? Iako je na nacionalnom nivou više puta menjan pristup ovom pitanju, a sve u cilju obezbeđivanja što veće ravnopravnosti i ravnomernijeg razvoja, podaci govore da je realnost prilično drugačija i da pristup prihodima na nivou različitih lokalnih samouprava je dramatično različit.<br/><br/>
 
@@ -89,7 +98,7 @@ Najbolji način da proverimo ovu hipotezu jeste da odredimo budžet per capita, 
 
 Ovde vidimo da se za kvalitet života građana i građanki Novog Sada godišnje može izdvojiti oko 52.000 dinara po glavi stanovnika iz gradskog budžeta, a u Leskovcu svega oko 22.000 dinara! Reč je o zaista ogromnoj razlici koja je posledica daleko veće razvijenosti privrede u Novom Sadu. Ipak, iako možemo da govorimo o tome da je Novi Sad jednostavno „uspešniji“ na tržišnoj utakmici, takođe možemo zaključiti da mere koje preduzima nacionalni nivo ne doprinose ravnopravnosti na nivou lokala širom države u meri u kojoj postoji želja da se to uradi.<br/><br/> 
 
-Svakako, makroekonomski eksperti mogu dati izuzetno precizna objašnjenja uzroka i posledica ove situacije. Nas, kao građane, pre svega bi trebalo da zanima na koji način će država razvijati svoje politike kako bi obezbedila da se ove razlike umanje u budućnosti. Da li će se menjati pristup i načini finansiranja lokalnih samouprava ili će država preduzeti mere kojima će pomoći brži ekonomski razvoj manje razvijenih zajednica? Svakako, nešto je potrebno uraditi, a iznos budžetskih prihoda per capita je dobar pokazatelj da li država nešto preduzima i da li aktivnosti države daju rezultate.<br/><br/> </div> <br/>
+Svakako, makroekonomski eksperti mogu dati izuzetno precizna objašnjenja uzroka i posledica ove situacije. Nas, kao građane, pre svega bi trebalo da zanima na koji način će država razvijati svoje politike kako bi obezbedila da se ove razlike umanje u budućnosti. Da li će se menjati pristup i načini finansiranja lokalnih samouprava ili će država preduzeti mere kojima će pomoći brži ekonomski razvoj manje razvijenih zajednica? Svakako, nešto je potrebno uraditi, a iznos budžetskih prihoda per capita je dobar pokazatelj da li država nešto preduzima i da li aktivnosti države daju rezultate.</div>
 
 
 Kako proveriti ovu hipotezu?
@@ -106,4 +115,4 @@ Kako proveriti ovu hipotezu?
 
 
 
-{% include hipoteza.html %}
+{% include buttons.html %}

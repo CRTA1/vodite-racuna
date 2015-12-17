@@ -4,7 +4,6 @@ title:  "U javnom sektoru, ne računajući javna preduzeća, zaposlena trećina 
 categories: istrazujemo-za-vas
 img_url: /img/istražujemo-za-vas/pic11.jpg
 description: "Koliko ima zaposlenih u javnom sektoru, pita Mladen iz Kragujevca.Prema podacima do kojih je došao portal Vodite računa više od polovine žitelja Srbije živi na državnom budžetu. U ovu kategoriju spadaju  zaposleni u državnoj upravi, vojsci, policiji, školstvu, zdravstvu, pravosuđu, u republičkim ili lokalnim javnim preduzećima, korisnici neke vrste socijalnih davanja ili penzija."
-"
 ---
 
 **P:**

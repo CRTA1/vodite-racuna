@@ -193,8 +193,6 @@ table, th, td {
     }
 }
 
-
-
 @media(max-width: 400px){
     ol.progtrckr[data-progtrckr-steps="10"] li { width: 2% !important; }
 }
@@ -215,6 +213,7 @@ table, th, td {
 }
 .tooltip.bottom .tooltip-arrow {
     margin-top: 5px;
+    margin-left: 5px;
 }
 
 @media(max-width: 900px){
@@ -248,9 +247,7 @@ table, th, td {
     li .share-toltip .tooltip-item{
         width: 200px !important;
         height: 40px !important;
-
     }
-
 }
 
 
@@ -263,18 +260,6 @@ table, th, td {
         border-color: white;
     }
 }
-
-
-@media(max-width: 700px){
-    .page-tools > ul > li{
-        float:left;
-        height: 30px;
-        padding-left: 220px;
-        margin-right:2px;
-        border-color: white;
-    }
-}
-
 
 .page-tools {
     padding-top: 30px ;
@@ -290,6 +275,7 @@ table, th, td {
     .page-tools {
         display: block !important;
     }
+    
     .page-tools > ul > li{
         float:left;
         height: 30px;

@@ -17,7 +17,7 @@ lead: true
 	<div class="col-md-4 ">
 		<img class="img-post-pad" src="{{item.img_url  | prepend: site.baseurl }}">
 	</div>
-	<div class='col-md-8 textstyle-p'>
+	<div class='col-md-8 textstyle-p justify' >
 		{{ item.description }}  <a href="{{site.baseurl}}{{item.url}}">vise »</a>
 	</div> 
 </div>
