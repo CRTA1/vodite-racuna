@@ -829,10 +829,9 @@ body:not( .filters ) {
   position:fixed;
   bottom:0;
   width:100%;
-  background-color: rgba( #fff, .95 );
   border-top:solid 1px $medium-gray;
   text-align:right;
-  height:160px !important;
+  height:160px;
   line-height:59px;
 
   & > ul {
@@ -844,7 +843,7 @@ body:not( .filters ) {
       float:left !important;
       display:block;
       padding-bottom:$base-spacing !important;
-      padding-left:30px;
+      padding-left:3px;
       padding-right:$base-spacing;
       border-color:$medium-gray;
       border-style:solid;
