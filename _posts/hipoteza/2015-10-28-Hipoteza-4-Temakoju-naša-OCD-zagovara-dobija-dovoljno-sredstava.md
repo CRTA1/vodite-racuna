@@ -6,7 +6,7 @@ name: hipoteza4
 type: nextprev 
 ---
 {% include tooltip.html %}
-{% include hipoteza4.html %}
+{% include progressb-hipoteza.html %}
 
 
 ##{{ page.title }}
@@ -100,4 +100,5 @@ Kako proveriti ovu hipotezu?
 
 
 
+{% include hipoteza.html %}
 {% include buttons.html %}

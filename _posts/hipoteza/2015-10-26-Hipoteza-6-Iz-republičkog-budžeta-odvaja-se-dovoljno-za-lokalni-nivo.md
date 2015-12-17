@@ -6,7 +6,7 @@ type: nextprev
 ---
 
 {% include tooltip.html %}
-{% include hipoteza6.html %}
+{% include progressb-hipoteza.html %}
 
 
 ##{{ page.title }}
@@ -71,5 +71,6 @@ Kako proveriti ovu hipotezu?
 	
 	2. Kako bismo znali da li su izdvajanja u realnoj vrednosti veća ili manja iz godine u godinu, potrebno je primeniti jednačinu za uračunavanje inflacije koja je predstavljena u hipotezi 3.
 
+{% include hipoteza.html %}
 
 {% include buttons.html %}

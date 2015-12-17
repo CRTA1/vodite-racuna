@@ -6,7 +6,7 @@ name: hipoteza3
 type: nextprev 
 ---
 {% include tooltip.html %}
-{% include hipoteza3.html %}
+{% include progressb-hipoteza.html %}
 
 
 ##{{ page.title }}
@@ -215,4 +215,5 @@ Kako proveriti ovu hipotezu?
 	5. Ukoliko je iznos z din manji od x din, grad ili opština će moći da učine manje za našu korisničku grupu u odnosu na raniji period.
 
 
+{% include hipoteza.html %}
 {% include buttons.html %}
