@@ -297,3 +297,9 @@ table, th, td {
         border-color: white;
     }
 }
+
+@media(max-width: 900px){
+    .progtrckr{
+        display: none;
+    }
+}
