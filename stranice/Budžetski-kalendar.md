@@ -18,7 +18,7 @@ Budžetski kalendar definisan važećim Zakonom o budžetskom sistemu predviđa 
 
  
 
-    15 februar – ministar daje instrukciju za predlaganje prioritetnih oblasti finansiranja za budžetske korisnike koje uključuju i srednjoročne prioritete javnih investicija.
+    15 februaaaar – ministar daje instrukciju za predlaganje prioritetnih oblasti finansiranja za budžetske korisnike koje uključuju i srednjoročne prioritete javnih investicija.
 
 15. mart – direktni korisnici sredstava budžeta Republike Srbije na osnovu instrukcije ministra dostavljaju Ministarstvu predloge za utvrđivanje prioritetnih oblasti finansiranja za budžetsku i naredne dve fiskalne godine.
 
